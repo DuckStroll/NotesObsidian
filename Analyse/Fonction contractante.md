@@ -5,4 +5,4 @@ $\lambda$ est appelé la constante de Lipschitz.
 Si $g:\mathbb{R}\mapsto\mathbb{R}$ est contractante, elle est [[Continuité|continue]].
 #### Preuve
 pour $\varepsilon>0$ et $x \in def(g)$, on pose $\delta = \varepsilon$ et on a si $|x-y|<\delta$, alors $|g(x)-g(y)|\leq \lambda|x-y|<|x-y|<\varepsilon$
-$\varepsilon est ici notre erreur$
+$\varepsilon$ indique l'erreur notre erreur
