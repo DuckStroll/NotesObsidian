@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e87047076261fafd",
+        "id": "d968428cbc3891bb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Arcs paramétrés dans le plan.md",
+            "file": "Physique/Oscillateur harmonique.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "d061a134e408a2ec",
+        "id": "d1c77a3b2a16db5b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Arcs paramétrés dans le plan.md",
+            "file": "Physique/Oscillateur harmonique.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "OSC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Arcs paramétrés dans le plan.md",
+                "file": "Physique/Oscillateur harmonique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d061a134e408a2ec",
+  "active": "d968428cbc3891bb",
   "lastOpenFiles": [
+    "Physique/Oscillateur harmonique.md",
+    "Analyse/Equations et Inequations.md",
     "Analyse/Arcs paramétrés dans le plan.md",
-    "Analyse/Fonction vectorielle.md",
-    "Excalidraw/Drawing 2022-04-26 09.31.32.excalidraw.md",
-    "Untitled.md",
-    "Analyse/Formules trigonometriques.md",
-    "latexcheatsheet.pdf",
-    "Analyse/Fonction contractante.md",
-    "Analyse/Analyse de fonction.md",
+    "Analyse/Continuité.md",
+    "Algebre/Base d'un espace vectoriel.md",
+    "Algebre/Determinant.md",
+    "Algebre/latexcheatsheet.pdf",
+    "Algebre/Application Linéaire.md",
     "Analyse/Théorème des acroissement finis.md",
-    "Analyse/Equations et Inequations.md"
+    "Excalidraw/Drawing 2022-04-26 09.31.32.excalidraw.md"
   ]
 }

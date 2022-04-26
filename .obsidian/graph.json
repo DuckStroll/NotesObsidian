@@ -6,14 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#algebre",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#analyse",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#physique",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -1.1,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.99716113744076,
   "lineSizeMultiplier": 1.00056695156695,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.500744752877454,
   "repelStrength": 10.0854700854701,
   "linkStrength": 1,
   "linkDistance": 250,
