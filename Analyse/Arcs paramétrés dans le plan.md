@@ -30,3 +30,19 @@ $M(t_{0}$ est un point stationnaire de $\Gamma$ ssi la derivée de $\vec{r} = 0$
 si $y'(t0) =0$ et $x'(t0) \neq 0,\Gamma$ admet en $t_{0}$ un point à tengeante horizontale.
 $x'(t0) =0$ et $y'(t0) \neq 0$
  M(t0) admet une tangente verticale et $m = \infty$
+ 
+## Branches Infinies
+ $\Gamma$ admet une branche infinie lorsque $t \to t0$ (t0 infini ou fini) si r(t) = +$\infty$(t->t0).
+ Autreement dit si x(t) ou y(t) tendent vers l'infini
+ 
+ 3 cas peuvent se présenter:
+ x=x0(t->t0)et $y= \pm\infty(t\to t0)$
+ alors $\Gamma$ admet une [[asymptote]] verticale
+ 
+ 
+  y=y0(t->t0)et $x= \pm\infty(t\to t0)$
+   alors $\Gamma$ admet une [[asymptote]] horizontale.
+ 
+   $y=\pm\infty(t \to t0)$et $x= \pm\infty(t\to t0)$
+   alors $\Gamma$ admet une eventuelle [[asymptote]] oblique $y = mx+h$ m la pente instantanée x/y
+ au temps t0 .  

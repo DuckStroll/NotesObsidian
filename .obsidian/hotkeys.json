@@ -16,7 +16,15 @@
     }
   ],
   "obsidian-git:push": [],
-  "obsidian-git:init-repo": [
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "obsidian-git:push2": [
     {
       "modifiers": [
         "Mod"
@@ -24,12 +32,12 @@
       "key": "4"
     }
   ],
-  "obsidian-git:commit": [
+  "obsidian-git:pull": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "3"
+      "key": "5"
     }
   ]
 }
