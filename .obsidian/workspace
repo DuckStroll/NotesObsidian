@@ -7,11 +7,16 @@
         "id": "d968428cbc3891bb",
         "type": "leaf",
         "state": {
+<<<<<<< Updated upstream
           "type": "markdown",
           "state": {
             "file": "Physique/Oscillateur harmonique.md",
             "mode": "source"
           }
+=======
+          "type": "graph",
+          "state": {}
+>>>>>>> Stashed changes
         }
       },
       {
@@ -20,7 +25,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "Physique/Oscillateur harmonique.md",
+=======
+            "file": "README.md",
+>>>>>>> Stashed changes
             "mode": "preview"
           }
         }
@@ -79,7 +88,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Physique/Oscillateur harmonique.md",
+=======
+                "file": "README.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +119,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< Updated upstream
   "active": "d968428cbc3891bb",
   "lastOpenFiles": [
     "Physique/Oscillateur harmonique.md",
@@ -118,5 +132,19 @@
     "Algebre/Application Linéaire.md",
     "Analyse/Théorème des acroissement finis.md",
     "Excalidraw/Drawing 2022-04-26 09.31.32.excalidraw.md"
+=======
+  "active": "0675e1cdeefcc3b0",
+  "lastOpenFiles": [
+    "README.md",
+    "Analyse/Fonction contractante.md",
+    "Algebre/Determinant.md",
+    "Algebre/Opérations élémentaires.md",
+    "Algebre/Matrice.md",
+    "Algebre/Systeme d'équations linéaires.md",
+    "Algebre/Sous-Espaces Vectoriels.md",
+    "Analyse/Continuité.md",
+    "Analyse/Suites.md",
+    "Algebre/Rang d'une matrice.md"
+>>>>>>> Stashed changes
   ]
 }
