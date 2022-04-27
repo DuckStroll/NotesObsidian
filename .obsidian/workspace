@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d968428cbc3891bb",
+        "id": "f587a5571eefe801",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physique/Oscillateur harmonique.md",
-            "mode": "source"
+            "file": "Algebre/Matrice.md",
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "d1c77a3b2a16db5b",
+        "id": "e959d783cb85df5e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physique/Oscillateur harmonique.md",
+            "file": "Algebre/Matrice.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OSC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,11 +59,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8431a5ae46944ccf",
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Oscillateur harmonique.md",
+                "file": "Algebre/Matrice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d968428cbc3891bb",
+  "active": "e959d783cb85df5e",
   "lastOpenFiles": [
+    "Algebre/Matrice.md",
+    "Algebre/Base d'un espace vectoriel.md",
+    "Algebre/Rang d'une matrice.md",
     "Physique/Oscillateur harmonique.md",
     "Analyse/Equations et Inequations.md",
     "Analyse/Arcs paramétrés dans le plan.md",
     "Analyse/Continuité.md",
-    "Algebre/Base d'un espace vectoriel.md",
     "Algebre/Determinant.md",
     "Algebre/latexcheatsheet.pdf",
-    "Algebre/Application Linéaire.md",
-    "Analyse/Théorème des acroissement finis.md",
-    "Excalidraw/Drawing 2022-04-26 09.31.32.excalidraw.md"
+    "Algebre/Application Linéaire.md"
   ]
 }

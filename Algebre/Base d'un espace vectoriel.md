@@ -34,7 +34,7 @@ v_{2} \
 \end{pmatrix}$(Les valeurs sont arrangées en colonnes)
 On appelle $P^{}$ la _==Matrice de Changement de base==_ et on appelle sa [[Matrice#Matrice inverse|Matrice inverse]] $P^{-1}$ la _Matrice de changement de coordonées_.
 Pour exprimer $V$ dans la base $B'$ à partir de la base $B$, on a: 
-$$[V]_{B'} = P^{-1} [V]_{B}$$ et $$[V]_{B} = P [V]_{B'}$$
+$$[V]_{B'} = P^{-1} [V]_{B}$$ et $$[V]_{B} =  [V]_{B'}P$$
 Ainsi, La matrice de changement de base _permet d'exprimer $V$ dans la base B à partir de la base B'_
 ## Changement de base
 (Je ne suis pas sur de mon bullshit)

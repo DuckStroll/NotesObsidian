@@ -53,7 +53,7 @@ On peut décomposer une matrice en une somme de vecteurs lignes multipliés par 
  y_{m}
  \end{bmatrix}$
  La decomposition minimale correspond au [[Rang d'une matrice]].
- Afin de trouver la décomposition minimale, on regarde globalement à l'oeil.
+ Afin de trouver la décomposition minimale, on trouve d'abord le rang.
  
 ## Des matrices aux applications linéaires
 
