@@ -4,7 +4,7 @@ Une application linéaire est un type de fonction $f:\mathbb{R}^{n} \to\mathbb{R
 une application est dite linéaire si $$f(\alpha x +b)=\alpha f(x) + f(\beta)$$
 Un e application linéaire prends des paramêtres en entrée et des para mêtres en sortie. La sortie des paramètres s'appelle l'[[Image]]de F
 ## Representation [[Matrice|matricielle]]
-Une application linéaire peut être représentée par une [[matrice]] on a donc
+Toute application linéaire peut être représentée par une [[matrice]].C'est leur utilité principale. On a donc
 $$f(x,y,z)\to (\alpha _{1}x+\alpha _{2}y+\alpha _{3}z,
 \beta _{1}x+\beta _{2}y+\beta _{3}z,
 \gamma _{1}x+\gamma _{2}y+\gamma _{3}z) $$
