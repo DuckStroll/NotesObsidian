@@ -7,11 +7,8 @@
         "id": "e2daf24cf2ccb5b8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algebre/Image.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
@@ -79,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,10 +104,10 @@
   },
   "active": "e2daf24cf2ccb5b8",
   "lastOpenFiles": [
+    "Algebre/Base d'un espace vectoriel.md",
     "Algebre/Image.md",
     "Algebre/Application Linéaire.md",
     "Algebre/Intersection de deux plans.md",
-    "Algebre/Base d'un espace vectoriel.md",
     "Physique/Moment d'une force.md",
     "Physique/Bras de levier.md",
     "Physique/Mouvement de rotation.md",

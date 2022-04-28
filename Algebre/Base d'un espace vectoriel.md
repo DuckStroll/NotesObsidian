@@ -47,7 +47,7 @@ et
 $$ B' = \{ v_{1}', v_{2}' \} = \{ v_{1}, v_{2} \}P$$
 ## Remarque:
 On affiche les vecteurs en base $B$ en lignes et les vecteurs en base $B'$ en colonnes.
-## [[Applications linéaires]] dans d'autres bases
+## [[Application Linéaire]] dans d'autres bases
 Prenons une application linéaires $\mathbb{R}^n \to \mathbb{R}^p$.
 $[f(v)]_B = A[v]_B$
 $[f(v)]_B=[f(v)]_{B \leftarrow Bcan(\mathbb{R}^n)}$
