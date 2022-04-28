@@ -13,3 +13,9 @@ et peut donc être représenté par la matrice $A= \begin{pmatrix} \alpha _{1} &
 $$Y =AX$$
 ### Representation de f dans une base quelconque
 La representation de $f$ dans une base quelconque se fait de telle manière:
+## Application de rang 1 
+Soit $f:\mathbb{R} \to \mathbb{R}$ linéaire de matrice $A$ en base canonique.
+Si f est de rang 1, alors
+$$\boxed{f\circ f = \delta f, \ ou\ \delta = Tr(f)}$$
+Voir la [[Trace]]
+Si $\delta =1$, oalors f est une [[Projections dans un espace vectoriel]]. __Une application de rang 1 et de Trace 1 est une projection__
