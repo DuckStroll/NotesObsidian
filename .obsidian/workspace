@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Arcs paramétrés dans le plan.md",
+            "file": "Analyse/Suites.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Arcs paramétrés dans le plan.md",
+                "file": "Analyse/Suites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e2daf24cf2ccb5b8",
+  "active": "3ecae26a9d5121cc",
   "lastOpenFiles": [
+    "Analyse/Suites.md",
+    "Analyse/Fonction contractante.md",
     "Analyse/Arcs paramétrés dans le plan.md",
+    "SCM/Nombres irrationnels.md",
+    "Analyse/asymptote.md",
     "Analyse/Théorème de la valeur intermédiaire.md",
     "Analyse/Point fixe.md",
     "Analyse/Equations et Inequations.md",
     "Analyse/Théorème des acroissement finis.md",
-    "Analyse/Untitled.md",
-    "Analyse/Formules trigonometriques.md",
-    "Algebre/Image.md",
-    "Algebre/Base d'un espace vectoriel.md",
-    "Algebre/Application Linéaire.md"
+    "Analyse/Untitled.md"
   ]
 }
