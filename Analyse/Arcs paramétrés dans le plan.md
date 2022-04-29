@@ -24,7 +24,7 @@ A est un point double de $\Gamma$ ssi $\exists t_{1}<t_{2}\in I$ tel que $A \equ
 
 ## Points stationnaires 
 
-$M(t_{0}$ est un point stationnaire de $\Gamma$ ssi la derivée de $\vec{r} = 0$. Autrement dit, ssi $\dot{x}(t)$ __et__ $\dot{y}(t) = 0$ dans ce cas on utilise B.H pour trouver la pente de la tangeante.
+$M(t_{0})$ est un point stationnaire de $\Gamma$ ssi la derivée de $\vec{r} = 0$. Autrement dit, ssi $\dot{x}(t)$ __et__ $\dot{y}(t) = 0$ dans ce cas on utilise B.H pour trouver la pente de la tangeante.
 
 ## Autres points remarquables
 si $y'(t0) =0$ et $x'(t0) \neq 0,\Gamma$ admet en $t_{0}$ un point à tengeante horizontale.
@@ -86,13 +86,36 @@ en $t = \sqrt[3]{2}$ $(\sqrt[3]{2},\sqrt[3]{4}$ est un point à tangeante horizo
 | $y$      | 0         | 0-> -$\inf$ |     | $+\inf$->0 | 0   | --> | $\sqrt[3]{2}$       |     | $\sqrt[3]{4}$     | ->0 | 0        |
 Avec ces infos on peut tracer un graphe
 x^3+y^3 = 3xy
+
+## Equations paramétriques du limacon
 b) Le Limacon de pascal
 Soit $\gamma$ le cercle de centre 0 et de rayon 1, A(2,0) et  $P \in\gamma$ 
 Soientd la tangeante à $\gamma$ en P
-M la projection de A sur d
+M la projection de A sur d.
 Le lien de M lorsque P décrit $\gamma$ est le limacon de pascal
-## Equations paramétriques du limacon
 - $P \in\gamma$ : P(cos(t), sin(t))
 - M(x,y)$\in d: \vec{PM}\perp \vec{OP}$
 - $\vec{PM}\cdot \vec{OP} = 0 \Leftrightarrow x\cos(t)+ y\sin(t) =1$
-- $M =$
+
+- $M :\begin{cases}
+x\cos(t)+ y\sin(t) = 1
+\\ x\sin(t)- y\cos(t) = 2sin(t)
+ \end{cases}$
+
+On explicite x et y
+- $\Gamma:\begin{cases}
+x(t) = cos(t + 2 \sin^2(t))
+\\y(t) = sin(t)-sin(2t)
+ \end{cases}$
+ 
+Marche a suivre pour l'etude de $\Gamma$:
+ 1) calculer la periodicité
+ 2) calculer la parité
+ 3) Trouver le domaine d
+ 4) Limites aux points frontières
+ 5) Calcul des dérivées
+ 6) Faire un tableau de signes avec les dérivées et trouvr les 0
+ 7) Trouver les points remarquables
+ 8) Calculer les tangeantes et asymptotes grace aux points remarquables
+ 9) Ecrire un tableau avec toutes les informations precedentes
+ 10) Dessiner un graph
