@@ -65,3 +65,5 @@ x_{m}
 \end{bmatrix}
 )
 return
+CapsLock & l::
+SendRaw \underset{h \rightarrow0}{\lim} 
