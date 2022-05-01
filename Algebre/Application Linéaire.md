@@ -4,7 +4,7 @@ Une application linéaire est un type de fonction $f:\mathbb{R}^{n} \to\mathbb{R
 une application est dite linéaire si $$f(\alpha x +b)=\alpha f(x) + f(\beta)$$
 Un e application linéaire prends des paramêtres en entrée et des para mêtres en sortie. La sortie des paramètres s'appelle l'[[Image]]de F
 ## Representation [[Matrice|matricielle]]
-Une application linéaire peut être représentée par une [[matrice]] on a donc
+Toute application linéaire peut être représentée par une [[matrice]].C'est leur utilité principale. On a donc
 $$f(x,y,z)\to (\alpha _{1}x+\alpha _{2}y+\alpha _{3}z,
 \beta _{1}x+\beta _{2}y+\beta _{3}z,
 \gamma _{1}x+\gamma _{2}y+\gamma _{3}z) $$
@@ -13,3 +13,9 @@ et peut donc être représenté par la matrice $A= \begin{pmatrix} \alpha _{1} &
 $$Y =AX$$
 ### Representation de f dans une base quelconque
 La representation de $f$ dans une base quelconque se fait de telle manière:
+## Application de rang 1 
+Soit $f:\mathbb{R} \to \mathbb{R}$ linéaire de matrice $A$ en base canonique.
+Si f est de rang 1, alors
+$$\boxed{f\circ f = \delta f, \ ou\ \delta = Tr(f)}$$
+Voir la [[Trace]]
+Si $\delta =1$, oalors f est une [[Projections dans un espace vectoriel]]. __Une application de rang 1 et de Trace 1 est une projection__

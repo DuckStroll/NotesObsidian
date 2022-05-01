@@ -2,7 +2,10 @@
 # Definiton d'une base d'un espace vectoriel
 Une base est une famille de vecteur tel que
 $\alpha_{1}v_{1}+ \alpha_{2}v_{2}+ \dots+ \alpha_{n}v_{n} = 0$ ssi $\alpha_{1,...n} = 0$
-On peut décomposer n'importe quel vecteur dans $\mathbb{R}^{n}$ en une somme de $n$ scalaires $\times$ base
+On peut décomposer n'importe quel vecteur dans $\mathbb{R}^{n}$ en une somme de $n$ scalaires $\times$ base.
+
+Pour verifier si n vecteurs forment une base, on peut calculer la valeur du determinant de la matrice formée à partir de ces trois vecteurs.
+Les bases s'écrivent en ligne, contrairement aux vecteurs
 
 # Expression dans une base
 On peut prendre tout vecteur v $\in \mathbb{R}^{2}$ comme une somme de scalaire mulitipliés par des vecteurs.
@@ -34,7 +37,7 @@ v_{2} \
 \end{pmatrix}$(Les valeurs sont arrangées en colonnes)
 On appelle $P^{}$ la _==Matrice de Changement de base==_ et on appelle sa [[Matrice#Matrice inverse|Matrice inverse]] $P^{-1}$ la _Matrice de changement de coordonées_.
 Pour exprimer $V$ dans la base $B'$ à partir de la base $B$, on a: 
-$$[V]_{B'} = P^{-1} [V]_{B}$$ et $$[V]_{B} = P [V]_{B'}$$
+$$[V]_{B'} = P^{-1} [V]_{B}$$ et $$[V]_{B} =  P[V]_{B'}$$
 Ainsi, La matrice de changement de base _permet d'exprimer $V$ dans la base B à partir de la base B'_
 ## Changement de base
 (Je ne suis pas sur de mon bullshit)
@@ -44,3 +47,10 @@ et
 $$ B' = \{ v_{1}', v_{2}' \} = \{ v_{1}, v_{2} \}P$$
 ## Remarque:
 On affiche les vecteurs en base $B$ en lignes et les vecteurs en base $B'$ en colonnes.
+## [[Application Linéaire]] dans d'autres bases
+Prenons une application linéaires $\mathbb{R}^n \to \mathbb{R}^p$.
+$[f(v)]_B = A[v]_B$
+$[f(v)]_B=[f(v)]_{B \leftarrow Bcan(\mathbb{R}^n)}$
+# Ex
+## Base canonique
+$e_1 = \{1,0,0\} \ e_2 = \{0,1,0\} \ e_3 = \{0,0,1\}$
