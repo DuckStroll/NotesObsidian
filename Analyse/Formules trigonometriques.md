@@ -71,4 +71,20 @@ $arcsin(y)'= \frac{1}{cos(arcsin(y))}= \frac{1}{\sqrt{1-y^2}}$
 $sin(x)=-3/4, x\in [\pi, 2\pi]$
 $x = arcsin(-3/4 )+ 2k\pi$ ou $x = \pi - arcsin(-3/4)+ 2k \pi$
 $S=\{ \pi-arcsin(-3/4),arcsin(-3/4)+2\pi\}$
+## arccos
+$arccos:[1,-1]\to[0,\pi]$
+$y\to arccos(y)$
 
+## Propriétés d'arccos
+$cos(arccos(y)=y\ \ \forall y \in [-1,+1]$
+$arccos(cos(x)=x\ \ \forall x \in [0,\pi]$
+SI on a une valeur en dehors de ces valerus, on peut utiliser les propriétés des fonctions trigonometriques vues précedemment:
+$\boxed{cos(x)= a \Leftrightarrow x= arccos(a)+2\pi k\ ou\ x = -arccos(x) +2\pi k}$
+Dérivée:
+$arccos(y) = \frac{-1}{\sqrt{1-y^2}}$
+Calculons $\alpha (x) = arccos(x) + arcsin(x)$
+$sin(\alpha (x))= x\cdot x + \sqrt{1-x^2}\sqrt{1-x^2}= 1 \Rightarrow \alpha (x) = \pi/2  \ \ \forall x\in [-1,1]$
+$\Rightarrow = \pi/2-arccos(x)$
+## Propriété d'arctan
+$arctan(y):[]$
+$arctan' = \frac{1}{\sqrt{1+y^2}}$
