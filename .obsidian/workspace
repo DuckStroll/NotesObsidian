@@ -1,12 +1,13 @@
 {
   "main": {
-    "id": "33b254aaa4d23057",
+    "id": "3cf3320906ea8ee2",
     "type": "split",
     "children": [
       {
-        "id": "e2daf24cf2ccb5b8",
+        "id": "d8971f15db03c46d",
         "type": "leaf",
         "state": {
+<<<<<<< HEAD
           "type": "markdown",
           "state": {
             "file": "Analyse/Formules trigonometriques.md",
@@ -23,21 +24,25 @@
             "file": "Analyse/Formules trigonometriques.md",
             "mode": "preview"
           }
+=======
+          "type": "empty",
+          "state": {}
+>>>>>>> bb5dfc6a5cca5e797f76435bbe732b19bc0d35b1
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cfa2461737a65bc5",
+    "id": "2491c3ad7561f17e",
     "type": "split",
     "children": [
       {
-        "id": "4398bdb0698fbf6b",
+        "id": "2b482f1d2e0a5bde",
         "type": "tabs",
         "children": [
           {
-            "id": "c080f2c8cba9a355",
+            "id": "b9d797d763816e02",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,12 +50,12 @@
             }
           },
           {
-            "id": "4548c70cb1c31d2d",
+            "id": "e5d624a45565bf11",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "arc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,20 +71,23 @@
     "width": 300
   },
   "right": {
-    "id": "8431a5ae46944ccf",
+    "id": "2fc667b91a3038eb",
     "type": "split",
     "children": [
       {
-        "id": "f2930f66cb6110d4",
+        "id": "ca2c977e3c0fccff",
         "type": "tabs",
         "children": [
           {
-            "id": "e609d3f0122a462c",
+            "id": "9c990c62b6e32765",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Analyse/Formules trigonometriques.md",
+=======
+>>>>>>> bb5dfc6a5cca5e797f76435bbe732b19bc0d35b1
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,23 +97,15 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "8a19883e3d871940",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "e2daf24cf2ccb5b8",
   "lastOpenFiles": [
     "Analyse/Formules trigonometriques.md",
@@ -119,4 +119,8 @@
     "Analyse/Equations et Inequations.md",
     "Analyse/Théorème des acroissement finis.md"
   ]
+=======
+  "active": "d8971f15db03c46d",
+  "lastOpenFiles": []
+>>>>>>> bb5dfc6a5cca5e797f76435bbe732b19bc0d35b1
 }
