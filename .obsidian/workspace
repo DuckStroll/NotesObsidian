@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "Algebre/Application Linéaire.md",
+=======
+            "file": "Physique/Oscillateur harmonique.md",
+>>>>>>> Stashed changes
             "mode": "source"
           }
         }
@@ -68,7 +72,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Algebre/Application Linéaire.md",
+=======
+                "file": "Physique/Oscillateur harmonique.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +96,14 @@
   },
   "active": "d8971f15db03c46d",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Algebre/Application Linéaire.md"
+=======
+    "Physique/Oscillateur harmonique.md",
+    "Excalidraw/Drawing 2022-04-26 09.31.32.excalidraw.md",
+    "SCM/Nombres irrationnels.md",
+    "Analyse/Formules trigonometriques.md",
+    "Analyse/Fonction vectorielle.md"
+>>>>>>> Stashed changes
   ]
 }
