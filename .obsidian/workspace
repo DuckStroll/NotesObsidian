@@ -1,20 +1,27 @@
 {
   "main": {
-    "id": "3cf3320906ea8ee2",
+    "id": "37d1d1bff886c989",
     "type": "split",
     "children": [
       {
-        "id": "d8971f15db03c46d",
+        "id": "9f0c370b19242a38",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< Updated upstream
-            "file": "Algebre/Application Linéaire.md",
-=======
-            "file": "Physique/Oscillateur harmonique.md",
->>>>>>> Stashed changes
+            "file": "Analyse/Développements limités.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0799a19460e68985",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Analyse/Développements limités.md",
+            "mode": "preview"
           }
         }
       }
@@ -22,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2491c3ad7561f17e",
+    "id": "75214ab89c60a201",
     "type": "split",
     "children": [
       {
-        "id": "2b482f1d2e0a5bde",
+        "id": "61fc5a14ac7440bf",
         "type": "tabs",
         "children": [
           {
-            "id": "b9d797d763816e02",
+            "id": "e1fe3c6f20b81c20",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -38,13 +45,13 @@
             }
           },
           {
-            "id": "e5d624a45565bf11",
+            "id": "9974c41bfcc81f6e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "développement",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -59,24 +66,20 @@
     "width": 300
   },
   "right": {
-    "id": "2fc667b91a3038eb",
+    "id": "6469d2e96b5a72e0",
     "type": "split",
     "children": [
       {
-        "id": "ca2c977e3c0fccff",
+        "id": "ee48fe75fd02eaf1",
         "type": "tabs",
         "children": [
           {
-            "id": "9c990c62b6e32765",
+            "id": "afcecd08fd498122",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Algebre/Application Linéaire.md",
-=======
-                "file": "Physique/Oscillateur harmonique.md",
->>>>>>> Stashed changes
+                "file": "Analyse/Développements limités.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,16 +97,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8971f15db03c46d",
+  "active": "0799a19460e68985",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Algebre/Application Linéaire.md"
-=======
-    "Physique/Oscillateur harmonique.md",
-    "Excalidraw/Drawing 2022-04-26 09.31.32.excalidraw.md",
-    "SCM/Nombres irrationnels.md",
-    "Analyse/Formules trigonometriques.md",
-    "Analyse/Fonction vectorielle.md"
->>>>>>> Stashed changes
+    "Analyse/Développements limités.md"
   ]
 }
