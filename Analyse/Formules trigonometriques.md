@@ -48,3 +48,27 @@ $$\frac{\delta _{1}}{\sqrt{\delta_{1}^{2}+\delta_{2}^{2}}}cos(x) + \frac{\delta 
 Graçe à cette formule, il est possible de placer sur le cercle trigonometrique:
 $\exists \alpha$ t.q.  
 $sin(\alpha)cos(x) + cos(\alpha)sin(x) = \frac{c}{\sqrt{\delta_{1}^{2}+\delta_{2}^{2}}}$
+# Fonctions trigonometriques [[Fonctions réciproques|reciproques]]
+$$\sin :\mathbb{R}\to[-1,1]$$
+$$x\to sin(x)$$
+est surjective mais pas injective. On doit donc restreindre le domaine de départ
+$$\sin :[-\pi/2,\pi/2]\to[-1,1]$$
+$$x\to sin(x)$$
+est surjective et injective.
+Sa réciproque est l'arcsinus:
+$arcsin:[-1,+1]\to[-\pi/2,\pi/2]$
+## Propriétés d'arcsin
+$sin(arcsin(y)=y\ \ \forall y \in [-1,+1]$
+$arcsin(sin(x)=x\ \ \forall x \in [-\pi/2,\pi/2]$
+SI on a une valeur en dehors de ces valerus, on peut utiliser les propriétés des fonctions trigonometriques vues précedemment:
+$\boxed{sin(x)= a \Leftrightarrow x= arcsin(a)+2\pi k\ ou\ x = \pi-arcsin(x) +2\pi k}$
+## dérivée d'arcsin:
+$sin(arcsin(y)= y$ pour y dans $]-1,1[$.
+dérivée par rapport à y
+$cos(arcsin(y))\cdot arcsin(y)'= 1$
+$arcsin(y)'= \frac{1}{cos(arcsin(y))}= \frac{1}{\sqrt{1-y^2}}$
+## Ex:
+$sin(x)=-3/4, x\in [\pi, 2\pi]$
+$x = arcsin(-3/4 )+ 2k\pi$ ou $x = \pi - arcsin(-3/4)+ 2k \pi$
+$S=\{ \pi-arcsin(-3/4),arcsin(-3/4)+2\pi\}$
+
