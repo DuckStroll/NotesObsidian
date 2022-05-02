@@ -86,5 +86,7 @@ Calculons $\alpha (x) = arccos(x) + arcsin(x)$
 $sin(\alpha (x))= x\cdot x + \sqrt{1-x^2}\sqrt{1-x^2}= 1 \Rightarrow \alpha (x) = \pi/2  \ \ \forall x\in [-1,1]$
 $\Rightarrow = \pi/2-arccos(x)$
 ## Propriété d'arctan
-$arctan(y):[]$
+$arctan(y):\mathbb{R} \to [-\pi /2, pi/2]$
+$x\longrightarrow tan(x)$
+$tan(x)=a \Leftrightarrow x = arctan(a) + k\pi$
 $arctan' = \frac{1}{\sqrt{1+y^2}}$

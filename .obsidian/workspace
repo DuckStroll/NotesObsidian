@@ -4,21 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e2daf24cf2ccb5b8",
-        "type": "leaf",
-        "dimension": 50.19193857965452,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Analyse/Formules trigonometriques.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "3ecae26a9d5121cc",
         "type": "leaf",
-        "dimension": 49.80806142034549,
         "state": {
           "type": "markdown",
           "state": {
@@ -111,14 +98,14 @@
   "active": "3ecae26a9d5121cc",
   "lastOpenFiles": [
     "Analyse/Formules trigonometriques.md",
+    "Analyse/Equations et Inequations.md",
+    "Physique/Moment d'une force.md",
+    "Physique/Mouvement de rotation.md",
+    "Physique/Produit vectoriel.md",
+    "Informatique/Untitled 1.md",
     "Analyse/Arcs paramétrés dans le plan.md",
     "Analyse/Suites.md",
     "Analyse/Fonction contractante.md",
-    "SCM/Nombres irrationnels.md",
-    "Analyse/asymptote.md",
-    "Analyse/Théorème de la valeur intermédiaire.md",
-    "Analyse/Point fixe.md",
-    "Analyse/Equations et Inequations.md",
-    "Analyse/Théorème des acroissement finis.md"
+    "SCM/Nombres irrationnels.md"
   ]
 }
