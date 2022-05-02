@@ -2,6 +2,12 @@
 # Propriétés
 propriétés du sin
 $sin(x) =sin(\pi-x)$
+$sin(-x) = -sin(x)$
+$sin(\pi/2 +x) = cos(x)$
+propriétés du cos:
+$cos(x) = cos(-x)$
+$cos(\pi + x) = -cos(x)$
+$con(\pi/2-x)= sin(x)$
 ## Valeurs type
 |     | 0   | $\pi/6$      |   $\pi/4$    | $\pi/3$      | $\pi/2$ |   $2\pi/3$   |
 | --- | --- | ------------ |:------------:| ------------ |:-------:|:------------:|

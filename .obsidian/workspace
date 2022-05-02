@@ -4,14 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3ecae26a9d5121cc",
+        "id": "9dcb59e39f4a8766",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Formules trigonometriques.md",
-            "mode": "preview"
+            "file": "SCM/Nombres irrationnels.md",
+            "mode": "source"
           }
+        }
+      },
+      {
+        "id": "5b87c6ab2f7d2114",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8431a5ae46944ccf",
@@ -68,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Formules trigonometriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3ecae26a9d5121cc",
+  "active": "5b87c6ab2f7d2114",
   "lastOpenFiles": [
+    "Analyse/Développements limités.md",
+    "SCM/Nombres irrationnels.md",
+    "Physique/Mouvement de rotation.md",
+    "SCM/Untitled.md",
+    "Analyse/Analyse de fonction.md",
+    "Analyse/Point fixe.md",
     "Analyse/Formules trigonometriques.md",
     "Analyse/Equations et Inequations.md",
     "Physique/Moment d'une force.md",
-    "Physique/Mouvement de rotation.md",
-    "Physique/Produit vectoriel.md",
-    "Informatique/Untitled 1.md",
-    "Analyse/Arcs paramétrés dans le plan.md",
-    "Analyse/Suites.md",
-    "Analyse/Fonction contractante.md",
-    "SCM/Nombres irrationnels.md"
+    "Physique/Produit vectoriel.md"
   ]
 }
