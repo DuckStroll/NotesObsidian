@@ -4,20 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2e5199f20d7f98a8",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "5110bc2d983ff103",
+        "id": "4195afeeec7fd503",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physique/Moment cinetique.md",
+            "file": "Algebre/Image.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "37dbe06ad5d307cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algebre/Image.md",
             "mode": "preview"
           }
         }
@@ -76,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algebre/Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2e5199f20d7f98a8",
+  "active": "4195afeeec7fd503",
   "lastOpenFiles": [
+    "Algebre/Image.md",
+    "Algebre/Noyau.md",
+    "Algebre/Préimage.md",
+    "Algebre/Kernel.md",
+    "Algebre/Matrice.md",
+    "Physique/Moment cinetique.md",
     "Algebre/latexcheatsheet.pdf",
     "Physique/Mouvement circulaire uniforme.md",
-    "Physique/Moment cinetique.md",
     "Physique/Statique.md",
-    "Physique/Mouvement de rotation.md",
-    "Physique/Quantité de mouvement.md",
-    "Analyse/Formules trigonometriques.md",
-    "Analyse/Integration.md",
-    "Analyse/Théorème de la valeur intermédiaire.md",
-    "Analyse/Théorème des acroissement finis.md"
+    "Physique/Mouvement de rotation.md"
   ]
 }
