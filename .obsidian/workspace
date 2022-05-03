@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SCM/Nombres irrationnels.md",
+            "file": "Analyse/Integration.md",
             "mode": "source"
           }
         }
@@ -18,8 +18,11 @@
         "id": "5b87c6ab2f7d2114",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Analyse/Integration.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -60,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8431a5ae46944ccf",
@@ -77,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analyse/Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b87c6ab2f7d2114",
+  "active": "9dcb59e39f4a8766",
   "lastOpenFiles": [
-    "Analyse/Développements limités.md",
+    "Analyse/Integration.md",
     "SCM/Nombres irrationnels.md",
+    "Algebre/Opérations élémentaires.md",
+    "Analyse/Développements limités.md",
     "Physique/Mouvement de rotation.md",
     "SCM/Untitled.md",
     "Analyse/Analyse de fonction.md",
     "Analyse/Point fixe.md",
     "Analyse/Formules trigonometriques.md",
-    "Analyse/Equations et Inequations.md",
-    "Physique/Moment d'une force.md",
-    "Physique/Produit vectoriel.md"
+    "Analyse/Equations et Inequations.md"
   ]
 }
