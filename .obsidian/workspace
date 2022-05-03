@@ -7,11 +7,8 @@
         "id": "2e5199f20d7f98a8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Physique/Mouvement circulaire uniforme.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
@@ -79,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Mouvement circulaire uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +104,7 @@
   },
   "active": "2e5199f20d7f98a8",
   "lastOpenFiles": [
+    "Algebre/latexcheatsheet.pdf",
     "Physique/Mouvement circulaire uniforme.md",
     "Physique/Moment cinetique.md",
     "Physique/Statique.md",
@@ -116,7 +113,6 @@
     "Analyse/Formules trigonometriques.md",
     "Analyse/Integration.md",
     "Analyse/Théorème de la valeur intermédiaire.md",
-    "Analyse/Théorème des acroissement finis.md",
-    "SCM/Nombres irrationnels.md"
+    "Analyse/Théorème des acroissement finis.md"
   ]
 }

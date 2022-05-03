@@ -1,5 +1,6 @@
 {
   "spellcheck": true,
   "newFileLocation": "current",
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "promptDelete": false
 }
