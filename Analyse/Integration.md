@@ -22,4 +22,24 @@ On note cette limite
 $$\int^a_bf(x)dx$$
 $$\boxed{\int^a_bf(x)dx=\underset{n \rightarrow \infty}{\lim}\sum^n_{k=1}f(t_k) \Delta x_k}$$
 L'intégrale définie de $f$ sur $[a,b]$ est par définition l'arc analytique sur  le domaine D.
-### Théorème(sans démonstrations)(Parce qu'on est nul):
+### Théorème(sans démonstrations)(Parce qu'on est nul)(mais en vrai on l'a fait au ba1):
+Si $f\in C^0_{[a,b]}$ alors f est intégrable au sens de Riemann. 
+## Quelques consequeuences de la définition
+1) $$\int^a_af(x)dx=0$$
+2)  $$\int^b_af(x)dx+\int^c_bf(x)dx=\int^c_af(x)dx$$
+3)  $$\int^a_bf(x)dx= -\int^b_af(x)dx$$
+4)  $$\int^b_a\delta f(x)dx =\delta\int^b_a f(x)dx$$
+5)  $$\int^b_a[f(x)+g(x)]dx= \int^b_a f(x)dx+\int^b_a g(x)dx$$
+6)  Si $a<b \ et \ f(x) \leq g(x), \forall x \in [a,b]$ alors $\int f(x)dx\leq\int g(x)dx$
+7)  $|\int f(x)dx|\leq\int|f(x)|dx$
+8)  Parité: Si f est paire,$\int^a_{-a}f(x)dx=2\int^a_0$
+
+## Théorème de la moyenne
+a) Thm de la moyenne
+Soit $f$ continue sur $[a,b]$
+$\exists c \in [a,b] \ tq \ \int^b_af(x)dx= (b-a)\cdot f(c)$
+### Démonstation
+f continue sur $[a,b]$ donc atteint son min =m et son max = M $m \leq f(x) \leq M$
+or $\int^b_a k \cdot dx=k\cdot (b-a)$
+D'ou $\int^b_am\cdot dx  \leq \int^b_af(x)\cdot dx \leq \int^b_aM\cdot dx$
+Donc $m \leq \frac{\int^b_af(x)\cdot dx}{b-a} \leq M$

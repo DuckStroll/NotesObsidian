@@ -54,9 +54,6 @@ return
 CapsLock & t::
 SendRaw \times 
 return
-CapsLock & z::
-Send ^+ 
-return
 CapsLock & n::
 SendRaw 
 (
