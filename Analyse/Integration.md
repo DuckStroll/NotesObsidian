@@ -43,3 +43,4 @@ f continue sur $[a,b]$ donc atteint son min =m et son max = M $m \leq f(x) \leq 
 or $\int^b_a k \cdot dx=k\cdot (b-a)$
 D'ou $\int^b_am\cdot dx  \leq \int^b_af(x)\cdot dx \leq \int^b_aM\cdot dx$
 Donc $m \leq \frac{\int^b_af(x)\cdot dx}{b-a} \leq M$
+Grace au [[Théorème de la valeur intermédiaire]] on peut dire $\frac{\int^b_af(x)\cdot dx}{b-a} =f(c)$ et$\int^b_af(x)\cdot dx=(b-a)\cdot f(c)$
