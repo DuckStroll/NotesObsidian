@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Projections dans un espace vectoriel.md",
-            "mode": "preview"
+            "file": "Algebre/Home.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Projections dans un espace vectoriel.md",
+                "file": "Algebre/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "aea7c886dfa5572a",
   "lastOpenFiles": [
+    "Algebre/Home.md",
     "Algebre/Projections dans un espace vectoriel.md",
     "Algebre/Symetries.md",
     "Algebre/Sous-Espaces Vectoriels.md",
@@ -105,7 +106,6 @@
     "Informatique/Untitled 1.md",
     "Untitled.md",
     "Analyse/Théorème de la valeur intermédiaire.md",
-    "Analyse/Integration.md",
-    "Algebre/Préimage.md"
+    "Analyse/Integration.md"
   ]
 }
