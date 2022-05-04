@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Home.md",
+            "file": "Algebre/Matrice.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Home.md",
+                "file": "Algebre/Matrice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "aea7c886dfa5572a",
   "lastOpenFiles": [
+    "Algebre/Matrice.md",
     "Algebre/Home.md",
+    "Algebre/Image.md",
     "Algebre/Projections dans un espace vectoriel.md",
     "Algebre/Symetries.md",
     "Algebre/Sous-Espaces Vectoriels.md",
     "Algebre/Base d'un espace vectoriel.md",
     "Algebre/Noyau.md",
     "Informatique/Untitled 1.md",
-    "Untitled.md",
-    "Analyse/Théorème de la valeur intermédiaire.md",
-    "Analyse/Integration.md"
+    "Untitled.md"
   ]
 }
