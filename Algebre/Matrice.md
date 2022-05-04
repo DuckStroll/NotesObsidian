@@ -1,4 +1,6 @@
-
+---
+dg-publish: true
+---
 #algebre #ba1 #matrice 
 ```toc
 		style: number

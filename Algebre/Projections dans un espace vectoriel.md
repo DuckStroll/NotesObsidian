@@ -8,7 +8,7 @@ Si f est une projection, alors, pour tout $v \in \mathbb{R}^n$ on a
 $$\boxed{v= \underbrace{f(v)}_{\in Im(f)}+ \underbrace{v-f(v)}_{\in Ker(f)}}$$
 ### Preuve
 On prouve que c'est dans le Ker(f) car $f(f(v)) = f(v)$
-##
+## Lien avec le rang
 Notons à present $r = rg(f)$ Le résultat qui précede entraine que si f est une projection ou est dans l'un des acs suivants:
 $\begin{cases}
 \text{Si n = 2 (Plan)}
@@ -42,3 +42,27 @@ Si $\delta=0$, f est de carré nul
 C'est le cas exactement quand $Im(f)\subset Ker(f)$
 On dit aussi que $f$ est nilpotente
 On a donc que $\frac{1}{\delta}f$ est une projection
+
+## Lien avec la [[Symetries]]
+# Exemple:
+e suis pas sur:
+Prenons l'application dont l'image forme la droite: droite qui passe par $(1,0,4)$ et intercepte à l'origine le plan d'équation $x-y+5z =0$. Cherchons sa projection dans ce plan.
+$$A = \frac{1}{21}
+\underbrace{\begin{pmatrix}
+1 \\
+0 \\
+4
+\end{pmatrix}}_{Car\ Im(f)= Vect(1,0,4)}
+\underbrace{\begin{pmatrix}
+1 & -1 & 5
+\end{pmatrix}}_{\text{car Ker(f):}x-y+5z =0}$$
+$=\frac{1}{21}\begin{pmatrix}
+1 & -1 & 5 \\
+0 & 0 & 0 \\
+4 & -4 & 20
+\end{pmatrix}$
+
+$f(x,y,z) = \frac{1}{21}(x-y-5z,0,4x-y+20z)$
+$g$ a pour matrixe :
+(On rend la [[trace]] egale à 1)
+$B = I_3-A$ formera la projection de f sur le plan

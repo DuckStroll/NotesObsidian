@@ -1,0 +1,14 @@
+{
+  "githubRepo": "DigitalGarden",
+  "githubToken": "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",
+  "githubUserName": "DuckStroll",
+  "gardenBaseUrl": "",
+  "prHistory": [],
+  "theme": "dark",
+  "baseTheme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}
