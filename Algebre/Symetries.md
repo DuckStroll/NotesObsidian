@@ -1,7 +1,7 @@
 #algebre #man 
 # Définition
 Soit $f:\mathbb{R}^n \to \mathbb{R}^n$ [[Application Linéaire]] de matrice $A$ en base canonoqie
-On dit que  f est une projection si 
+On dit que  f est une symetrie si 
 $$f \circ f = id_{\mathbb{R}^n} \Leftrightarrow A = I_n$$
 On dit docn que A est une matrice de symetrie
 ## Proposition:
@@ -12,13 +12,13 @@ Cette relation illustre le lien entre les symetries et les [[Projections dans un
 Preuve:$B = 1/2(I_n +A)$
 $B^2=B \Leftrightarrow 1/4(I_n + 2A +A^2)=1/2(I_n+A)\Leftrightarrow A^2 = I_n$
 On voit bien que A est symétrique
-Si f est une symetrie, on est donc dans un des cas suivants, ou $r =rg(g)$
+Si f est une symetrie, on est donc dans un des cas suivants, ou __$r =rg(g)$__
 Si n = 2
 - $r=0$ ->$f = -id_{\mathbb{R}^n}(g=0)$
 - $r=1$ g(v) est au milieu entre v et f(v). g la projection sur l'axe de symetrie. g forme donc l'axe de symetrie
 - $r=2$ ->$f = id_{\mathbb{R}^n}=g$
 
-Si n= 2
+Si n= 3
 - $r=0$ ->$f = -id_{\mathbb{R}^n}(g=0)$
 - f(v)  et v vont être symetrique autour de g mais vont garder la même distance par rapport au plan qui forme le Ker(g)
 - Le [[Noyau]] de g est une droite et forme un plan f(v) forme une symetrie autour du plan Im(g) t reste à une distance égale de la droite Ker(g)

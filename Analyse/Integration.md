@@ -1,4 +1,4 @@
-#ba1 #man #algebre 
+#ba1 #man #analyse 
 # Calcul Intégral
 ## Somme de Riemann
 Soit $f$ [[Continuité|continue]] sur $[a,b],(a<b)$. On considère le domaine $D$ du plan, limité par $y=0,y=f(x), x=a,x=b$

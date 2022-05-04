@@ -43,6 +43,7 @@ C'est le cas exactement quand $Im(f)\subset Ker(f)$
 On dit aussi que $f$ est nilpotente
 On a donc que $\frac{1}{\delta}f$ est une projection
 
+## Lien avec la [[Symetries]]
 # Exemple:
 e suis pas sur:
 Prenons l'application dont l'image forme la droite: droite qui passe par $(1,0,4)$ et intercepte à l'origine le plan d'équation $x-y+5z =0$. Cherchons sa projection dans ce plan.

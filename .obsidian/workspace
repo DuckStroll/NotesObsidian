@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b0c868f7171208ed",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algebre/Symetries.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "aea7c886dfa5572a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Symetries.md",
+            "file": "Algebre/Projections dans un espace vectoriel.md",
             "mode": "preview"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Symetries.md",
+                "file": "Algebre/Projections dans un espace vectoriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0c868f7171208ed",
+  "active": "aea7c886dfa5572a",
   "lastOpenFiles": [
-    "Algebre/Symetries.md",
     "Algebre/Projections dans un espace vectoriel.md",
+    "Algebre/Symetries.md",
     "Algebre/Sous-Espaces Vectoriels.md",
-    "Algebre/Image.md",
+    "Algebre/Base d'un espace vectoriel.md",
     "Algebre/Noyau.md",
-    "Algebre/Préimage.md",
-    "Algebre/Kernel.md",
-    "Algebre/Matrice.md",
-    "Physique/Moment cinetique.md",
-    "Algebre/latexcheatsheet.pdf"
+    "Informatique/Untitled 1.md",
+    "Untitled.md",
+    "Analyse/Théorème de la valeur intermédiaire.md",
+    "Analyse/Integration.md",
+    "Algebre/Préimage.md"
   ]
 }
