@@ -17,3 +17,6 @@ $\mathbb{R}\ni x \mapsto \exp(x):=ln^{-1}(x)$
 $\frac{1}{\frac{d}{dx}(exp(x))}=exp(x)$
 $\Rightarrow dl^n_{exp,0}(x)=++x+\frac{x^2}{2}...+\frac{x^n}{n!}$
 $\Rightarrow exp(1) = e = 2+\frac{1}{2}+\frac{1}{3!}+\frac{1}{4!}+\frac{1}{5!}+\frac{1}{6!}$
+# Exemples communs de developpements limités
+DL de $ln(x)$ autour de 1:
+$$ln(x) = \sum_1^n(-1)^{k-1}\frac{(x-1)^k}{k}$$
