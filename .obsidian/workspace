@@ -9,8 +9,30 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Matrice.md",
+            "file": "Algebre/Matrice de rotation.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8a02bdf5b1d9c02f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algebre/Systeme d'équations linéaires.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b71062653d2c2df6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algebre/Matrice de rotation.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Matrice.md",
+                "file": "Algebre/Systeme d'équations linéaires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +117,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aea7c886dfa5572a",
+  "active": "8a02bdf5b1d9c02f",
   "lastOpenFiles": [
+    "Algebre/Systeme d'équations linéaires.md",
+    "Algebre/Matrice de rotation.md",
     "Algebre/Matrice.md",
     "Algebre/Home.md",
     "Algebre/Image.md",
@@ -104,8 +128,6 @@
     "Algebre/Symetries.md",
     "Algebre/Sous-Espaces Vectoriels.md",
     "Algebre/Base d'un espace vectoriel.md",
-    "Algebre/Noyau.md",
-    "Informatique/Untitled 1.md",
-    "Untitled.md"
+    "Algebre/Noyau.md"
   ]
 }
