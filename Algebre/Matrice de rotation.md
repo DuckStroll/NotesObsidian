@@ -23,5 +23,16 @@ On dit que $f$ est une réflexion si
 $\exists \theta \in \mathbb{R},  A =\begin{pmatrix}
 cos(\theta) & sin(\theta) \\
 sin(\theta) & -cos(\theta)
-\end{pmatrix}$
+\end{pmatrix} = S_\theta$
 On dit que $A$ est une matrice de réflexion
+$det(S_\theta)= -1$
+Si  f est une réflexion, alors elle se visualise comme la réflexion d'axe:
+$Vect(v_{\theta/2})$
+__Remarque:__ L'angles de rotation $\phi$ n'est pas l'angle que l'on voit dans la matrice. On a plutot $\theta = 2\phi$
+Comme f est une [[Symetries]], $1/2(I_2+ A)=\begin{pmatrix}
+cos(\theta/2) \\
+sin(\theta/2)
+\end{pmatrix}\begin{pmatrix}
+cos(\theta/2 ) & sin(\theta/2)
+\end{pmatrix}$
+On a donc une symetrie orthogonale d'axe $Vect(v_\theta/2)$
