@@ -46,6 +46,7 @@ $tan(x) =\frac{2tan(x/2)}{1-tan^{2}(x/2)}=\frac{1-cos(x)}{1+cos(x)}$
 Le résultat précedant se déduit en isolant le cos.
 # [[Dérivation]] des formules trigonométriques:
 $sin(x)'=\underset{h \rightarrow0}{\lim} \frac{sin(x+h)-sin(x)}{h}= sin \dagger$
+$tan(x)' = 1-tan^2(x)= sec^2(x)$
 # (In)équations trigonometrique linéaire
 cas général: $\delta cos(x) + \delta sin(x) =c$
 On veut écrire nos deux deltas comme les sin et cos d'un même angle!
