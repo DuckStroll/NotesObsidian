@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c90d499606c71727",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Analyse/Formules trigonometriques.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "f9ffec4def8c5643",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Formules trigonometriques.md",
+            "file": "Algebre/Projections dans un espace vectoriel.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c51b19dca9aeb397",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algebre/Projections dans un espace vectoriel.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:algebre",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Formules trigonometriques.md",
+                "file": "Algebre/Projections dans un espace vectoriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c90d499606c71727",
+  "active": "f9ffec4def8c5643",
   "lastOpenFiles": [
+    "Algebre/Projections dans un espace vectoriel.md",
     "Analyse/Formules trigonometriques.md",
     "Analyse/Développements limités.md",
     "SCM/Nombres irrationnels.md"

@@ -66,3 +66,5 @@ $f(x,y,z) = \frac{1}{21}(x-y-5z,0,4x-y+20z)$
 $g$ a pour matrixe :
 (On rend la [[trace]] egale à 1)
 $B = I_3-A$ formera la projection de f sur le plan
+## Même projection dans le plan
+Deux vecteurs $v1, v2$ ont la même projection si f(v1-v2) se situe dans le [[Noyau]] de $f$.
