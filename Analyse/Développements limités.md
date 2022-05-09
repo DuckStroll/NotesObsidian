@@ -48,4 +48,16 @@ $\Rightarrow c= \frac{f^{(n+1)}(\xi)}{(n+1)!}\Rightarrow R^n_{f,x_0}=\frac{f^{(n
 ## Exemples
 $1)$Prenons f = Arctan(x)
 on a $\forall n \in \mathbb{N}^*$
-$$
+$\arctan ^n(x)= \frac{sgn(-x)^{n+1}}{(\sqrt{1+x^2})^n}sin(nArcsin(\frac{1}{\sqrt{1+x^2}}))$
+On a donc que $|Arctan(x)-dl^n_{arctan,0}|=\frac{(x-x_0)^{n+1}}{(n+1)!}\frac{n!}{(\sqrt{1+\xi^2})^{n+1}}$
+avec $\xi \in \ ]x_0,x[$
+$\Rightarrow |R^n_{arctan,0}|= \frac{1}{n+1}\frac{|x|^{n+1}}{\sqrt{1+\xi^2}^{n+1}}|sin((n+1)\theta)|< 1/(n+1)$
+$\Rightarrow \forall x \in[-1,1], arctan(x) =\underset{n \rightarrow\infty}{\lim}dl^n_{arctan,0}(x)$
+$\Rightarrow \boxed{\frac{\pi}{4}=1-\frac{1}{3}+\frac{1}{5}-\frac{1}{7}+\dots}$
+$2)$ $ln^{(n)}(x)= \frac{(-1)^{n+1}}{x^n}(n+1)!$    $\forall n \geq 1$
+$\Rightarrow |ln(x)-dl^n_{ln,1}(x)|=\frac{1}{|\xi^{n+1}|}\frac{1}{n+1}|x-1|^{n+1}$.Pour $x \in [1,2]$, $R< \frac{1}{n+1}$ et $ln(x) = \underset{n \rightarrow\infty}{\lim}dl^n_{ln,1}$
+$\boxed{ln(2)=1- \frac{1}{2}+\frac{1}{3}-\frac{1}{4}+\frac{1}{5}}$
+3)$exp(x)$ $\forall n\in \mathbb{N}\  exp^{(n)}(x)= exp(x)$
+$|R^n_{exp,0}|< \frac{1}{n+1}|x|^{n+1}exp(\xi)\longrightarrow0(n\longrightarrow \infty)$
+
+Remarque: Une fonction $f:\mathbb{R} \mapsto \mathbb{R}, def(f) = \mathbb{R}$ et infiniment dérivable pour tout $x,x_o$ est dite entière. L'utilité des fonctions entières sont qu'elles peuvent être étendue au dela des nombres réels. $e^{i\pi}+1=0$ se repose sur cela
