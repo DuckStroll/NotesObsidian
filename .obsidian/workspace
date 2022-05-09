@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7628c9b76df70028",
+        "id": "4d9a0fd153c2c0bf",
         "type": "leaf",
-        "dimension": 50.21739130434783,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Développements limités.md",
+            "file": "SCM/Untitled 1.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "56b0274ec6b18830",
-        "type": "leaf",
-        "dimension": 49.78260869565217,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Analyse/Développements limités.md",
-            "mode": "preview"
           }
         }
       }
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:dé",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Développements limités.md",
+                "file": "SCM/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +86,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7628c9b76df70028",
+  "active": "4d9a0fd153c2c0bf",
   "lastOpenFiles": [
+    "SCM/Untitled 1.md",
+    "SCM/Nombres irrationnels.md",
     "Analyse/Développements limités.md",
-    "Analyse/Théorème des acroissement finis.md",
     "Analyse/Logarithmes.md",
+    "Analyse/Théorème des acroissement finis.md",
     "Analyse/Théorème de la valeur intermédiaire.md",
     "Analyse/Analyse de fonction.md",
     "Algebre/Projections dans un espace vectoriel.md",
-    "Analyse/Formules trigonometriques.md",
-    "SCM/Nombres irrationnels.md"
+    "Analyse/Formules trigonometriques.md"
   ]
 }

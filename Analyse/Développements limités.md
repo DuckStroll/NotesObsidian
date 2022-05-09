@@ -24,12 +24,14 @@ DL de $ln(x)$ autour de $x_0$:
 $$ln(x) = \sum_1^n(-1)^{k-1}\frac{(x-x_0)^k}{k}$$
 DL de $exp(x):$
 # Consequences du [[Théorème des acroissement finis]]
+
 Rappel du thm: $f(b)-f(a)= (b-a)f'(x) \ \forall x\in ]a,b[$
 
 Soit $f:\mathbb{R}\to\mathbb{R}, f\in C^{n+1}$ sur un intervalle ouvert I.
 
 Soient $x_o,x\in I , x_o\neq x$.
 Alors $f(x)= dl^n_{f,x_o}(x)+R^n_{f,x_0}(x)$ où $R^n_{f,x_0}(x)=\frac{(x-x0)^{n+1}}{(n+1)!}f^{(n+1)}(\xi)\ \ \forall \xi\in ]a,b[$
+On va utiliser ce resultat afin de verifier qu'une fonction converge vers son développement limité en montrant que le reste $R$ tends vers 0 quand n tends vers l'infini.
 ## Preuve
 Pour $y \in [x_0,x]$, On pose la fonction $F(y):=f(x)-dl^n_{f,y}-c(x-y)^{n+1}$ où $c = \frac{1}{(x-x_0)^{n+1}}[f(x)-dl^n_{f,x_0}]$
 Listons les propriétés de $F$ 
@@ -61,3 +63,9 @@ $\boxed{ln(2)=1- \frac{1}{2}+\frac{1}{3}-\frac{1}{4}+\frac{1}{5}}$
 $|R^n_{exp,0}|< \frac{1}{n+1}|x|^{n+1}exp(\xi)\longrightarrow0(n\longrightarrow \infty)$
 
 Remarque: Une fonction $f:\mathbb{R} \mapsto \mathbb{R}, def(f) = \mathbb{R}$ et infiniment dérivable pour tout $x,x_o$ est dite entière. L'utilité des fonctions entières sont qu'elles peuvent être étendue au dela des nombres réels. $e^{i\pi}+1=0$ se repose sur cela
+> [!WARNING]
+> Il existe des fonctions dérivable à l'infini
+> tel que $\underset{n \rightarrow\infty}{\lim}dl^n_{f,x_0}\neq f(x)$
+
+COmment montrer que $\forall x \in ]0,2[ ln(x)= \underset{n \rightarrow\infty}{\lim}dl^n_{ln,0}$
+$ln(x)=\int_1^x\frac{1}{t}dt= \int^x_1\frac{1}{1-(1-t)}dt=\int_1^x \sum_{n\geq0}(1-t)^n dt=dl^{n+1}_{ln,1}+ \int_1^x \frac{(1-t)^{(n+1)}}{t}dt$
