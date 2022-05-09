@@ -15,12 +15,12 @@
         }
       },
       {
-        "id": "c51b19dca9aeb397",
+        "id": "c3d34a733f446952",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Projections dans un espace vectoriel.md",
+            "file": "Analyse/Logarithmes.md",
             "mode": "preview"
           }
         }
@@ -100,6 +100,7 @@
   "active": "f9ffec4def8c5643",
   "lastOpenFiles": [
     "Analyse/Logarithmes.md",
+    "Analyse/Théorème de la valeur intermédiaire.md",
     "Analyse/Analyse de fonction.md",
     "Algebre/Projections dans un espace vectoriel.md",
     "Analyse/Formules trigonometriques.md",
