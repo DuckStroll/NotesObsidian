@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Projections dans un espace vectoriel.md",
+            "file": "Analyse/Logarithmes.md",
             "mode": "source"
           }
         }
@@ -50,8 +50,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:algebre",
-                "matchingCase": true,
+                "query": "path:analyse/",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Projections dans un espace vectoriel.md",
+                "file": "Analyse/Logarithmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +99,8 @@
   },
   "active": "f9ffec4def8c5643",
   "lastOpenFiles": [
+    "Analyse/Logarithmes.md",
+    "Analyse/Analyse de fonction.md",
     "Algebre/Projections dans un espace vectoriel.md",
     "Analyse/Formules trigonometriques.md",
     "Analyse/Développements limités.md",
