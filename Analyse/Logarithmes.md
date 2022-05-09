@@ -26,4 +26,19 @@ Comme:
 
 ln(x) est surjective, car elle atteint $\pm \infty$ et est continue ([[Théorème de la valeur intermédiaire|TVI]]).
 ln(x) est strictement croissante et donc injective.
-$ln:\mathbb{R}\to \mathbb{R}$ est bijective.
+$ln:\mathbb{R}\to \mathbb{R}$ est une une [[bijection]]
+# Exponentielles
+log(x) est bijective et donc inversible. Elle possède donc une [[Fonctions réciproques]].
+Cette fonction est l'exponentielle $exp(x)$.
+$ln(exp(x))=x= exp(ln(x)).$
+$exp(x+y)= exp(x)*exp(y)$
+$exp(0)=1, exp(1) =e exp(n) = exp(1)^n=e^n$
+$ln(exp(x))=x$
+$\frac{1}{exp(x)}exp'(x)=1 \Leftrightarrow exp(x)'=exp(x)$
+## Thm:
+$exp_a(x)= exp(x\ ln(a))$
+## Proriétés de $a^x$
+
+Si $a \in \mathbb{R}_+ \backslash\{1\}, a^x$ est bijective
+$y = a^x\Rightarrow x=log_a(y)$
+$log_a(x)=\frac{log(x)}{log(a)}$
