@@ -4,27 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4d9a0fd153c2c0bf",
+        "id": "c90d499606c71727",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Home.md",
-=======
-            "file": "Analyse/Integration.md",
->>>>>>> 8eb3d2e2294d4495551e641a6d70b5fe6bbb1e72
+            "file": "Algebre/Base d'un espace vectoriel.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "e03afd2b410bab3b",
+        "id": "40109e655f6ee2f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Integration.md",
+            "file": "Algebre/Base d'un espace vectoriel.md",
             "mode": "preview"
           }
         }
@@ -54,8 +50,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:inte",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -83,11 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Home.md",
-=======
-                "file": "Analyse/Integration.md",
->>>>>>> 8eb3d2e2294d4495551e641a6d70b5fe6bbb1e72
+                "file": "Algebre/Base d'un espace vectoriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +97,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d9a0fd153c2c0bf",
+  "active": "40109e655f6ee2f2",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "Algebre/Base d'un espace vectoriel.md",
+    "Algebre/Matrice.md",
+    "Analyse/Formules trigonometriques.md",
     "Home.md",
     "Analyse/Untitled.md",
-    "Analyse/Formules trigonometriques.md",
-=======
-    "Analyse/Integration.md",
-    "SCM/Nombres Naturels.md",
-    "SCM/Nombres irrationnels.md",
->>>>>>> 8eb3d2e2294d4495551e641a6d70b5fe6bbb1e72
     "Analyse/Développements limités.md",
-    "Analyse/Logarithmes.md",
-    "Analyse/Théorème des acroissement finis.md",
-    "Analyse/Théorème de la valeur intermédiaire.md",
-    "Analyse/Analyse de fonction.md",
-    "Algebre/Projections dans un espace vectoriel.md",
-    "Analyse/Formules trigonometriques.md"
+    "SCM/Nombres irrationnels.md"
   ]
 }
