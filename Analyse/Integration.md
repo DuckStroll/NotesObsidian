@@ -44,3 +44,21 @@ or $\int^b_a k \cdot dx=k\cdot (b-a)$
 D'ou $\int^b_am\cdot dx  \leq \int^b_af(x)\cdot dx \leq \int^b_aM\cdot dx$
 Donc $m \leq \frac{\int^b_af(x)\cdot dx}{b-a} \leq M$
 Grace au [[Théorème de la valeur intermédiaire]] on peut dire $\frac{\int^b_af(x)\cdot dx}{b-a} =f(c)$ et$\int^b_af(x)\cdot dx=(b-a)\cdot f(c)$
+# Outils d'integration
+## Integration par parties
+Soient $u = u(x)$ et $v= v(x)$ deux fonctions dérivables.
+$(u\cdot v)'= u' \cdot v + u \cdot v'$
+$\int(uv)'dx= \int(u'v)dx+\int(uv')dx$
+et donc 
+$$\int u'v\cdot dx = uv -\int uv'dx$$
+## Changement de variable
+On change de variable en passant par $x = \phi(t)$
+Si F(x) est une primitive de f(x): F'(x) = f(x)
+$$\int F(\phi(t)+C)'dt=\int f(\phi (t)\cdot \phi'(t)dt$$
+### Quelques changements de variables usuels
+Si l'integrant est fonction de $\sqrt{1-x^2}$et x entre [-1,1], on peut poser $x = sin(t),t = arcsin(x), dx =cos(t)dt$
+On peut aussi poser:
+$x = cos(t), \sqrt{1-x^2}=sin(t),dx =-sin(t)dt$
+ii) Déduits de la relation $cosh^2(t)-sinh^2(t)=1$
+Si l'integrale est fonction de $\sqrt{1+x^2}$ on peut poser $x=sinh(t),\sqrt{1+x^2}=cosh(t),dx=cosh(t)$ 
+si on a $\sqrt{x^2-1}$, on pose $x =cosh(t)\ si \ x \geq 1,x=-cos(t) \ si \ x\leq1$
