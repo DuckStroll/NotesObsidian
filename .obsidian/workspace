@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Rotations et réflexions.md",
+            "file": "Informatique/Formule de quadrature non composite.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Rotations et réflexions.md",
+            "file": "Informatique/Formule de quadrature non composite.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Rotations et réflexions.md",
+                "file": "Informatique/Formule de quadrature non composite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "0b2c05eec2c42749",
   "lastOpenFiles": [
+    "Informatique/Formule de quadrature non composite.md",
     "Algebre/Rotations et réflexions.md",
-    "Informatique/Interpolation de Lagrange.md",
     "Informatique/Methodes Numeriques de Calcul Integral.md",
-    "Informatique/Partition.md",
+    "Analyse/Arcs paramétrés dans le plan.md",
     "Analyse/Développements limités.md",
+    "Informatique/Interpolation de Lagrange.md",
+    "Informatique/Partition.md",
     "Analyse/Integration.md",
     "Physique/Bras de levier.md",
-    "Algebre/Untitled.md",
-    "Algebre/Determinant.md",
-    "Physique/Moment d'inertie.md"
+    "Algebre/Untitled.md"
   ]
 }

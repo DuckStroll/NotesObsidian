@@ -84,6 +84,7 @@ en $t = \sqrt[3]{2}$ $(\sqrt[3]{2},\sqrt[3]{4}$ est un point à tangeante horizo
 | $x$      | 0         | 0-> $\inf$  |     | $-\inf$->0 | 0   |     | $\sqrt[3]{4}$       |     | $\sqrt[3]{2}$     | ->0 |          |
 | $\dot y$ | -         | -           |     | -          | 0   | +   | +                   | +   | 0                 | -   |          |
 | $y$      | 0         | 0-> -$\inf$ |     | $+\inf$->0 | 0   | --> | $\sqrt[3]{2}$       |     | $\sqrt[3]{4}$     | ->0 | 0        |
+
 Avec ces infos on peut tracer un graphe
 x^3+y^3 = 3xy
 

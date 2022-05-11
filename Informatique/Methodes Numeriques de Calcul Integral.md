@@ -11,3 +11,4 @@ On effectue le calcul de l'integrale en 2 Etapes:
 Pour l'etape 1, On peut prendre soit une approche géometrique, soit par une approche qui permet de rempalce $f$ par une fonction $\phi$ facilement intégrable
 Pour l'étape 2, onpeut prendre soit des mêthodes à pas fixe, soit des methodes a pas variable.
 ## [[Interpolation de Lagrange]]
+[[Formule de quadrature non composite]]
