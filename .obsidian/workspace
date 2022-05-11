@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Rotations et réflexions.md",
+            "file": "Algebre/Determinant.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Rotations et réflexions.md",
+            "file": "Algebre/Determinant.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Rotations et réflexions.md",
+                "file": "Algebre/Determinant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37ce6f1a9f7b7f79",
+  "active": "e03afd2b410bab3b",
   "lastOpenFiles": [
+    "Algebre/Determinant.md",
     "Algebre/Rotations et réflexions.md",
     "Physique/Bras de levier.md",
     "Physique/Moment d'inertie.md",
@@ -116,7 +117,6 @@
     "Physique/Moment cinetique.md",
     "Analyse/Integration.md",
     "SCM/Nombres Naturels.md",
-    "SCM/Nombres irrationnels.md",
-    "Analyse/Développements limités.md"
+    "SCM/Nombres irrationnels.md"
   ]
 }

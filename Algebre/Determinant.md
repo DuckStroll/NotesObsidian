@@ -1,6 +1,10 @@
 #algebre #ba1 #matrice 
 ## Definition et propriétés:
 Toute [[matrice]] carrée $M_{n}$ possède un déterminant.
+### Propriétés
+$det(A)\cdot det(B)= det(AB)$
+$det(A^x)=det(A)^x$
+$det(a\cdot M)=a^n(M)$
 ### Operations élémentaires
 [[Opérations élémentaires]]
 Le determinant possède plusieurs propriétés qui nous sont très utile notemment pour l'algorithme de Gauss-Jordan.
