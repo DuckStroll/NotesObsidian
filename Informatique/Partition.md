@@ -1,3 +1,4 @@
+#info #man
 Une partition est une duviosion d'un intervalle $[a,b]$ tel que
 $a=x_0<x_1<x_2<x_3<x_4<...<x_n=b$
 Le __pas d'une partition__ $\sigma$ de [a,b] est le nombre :
