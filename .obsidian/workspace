@@ -4,35 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "37ce6f1a9f7b7f79",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Informatique/Methodes Numeriques de Calcul Integral.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3cc216e426189dfc",
+        "id": "0b2c05eec2c42749",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Informatique/Interpolation de Lagrange.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ca1527a3c9f6838d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Informatique/Methodes Numeriques de Calcul Integral.md",
-            "mode": "preview"
           }
         }
       }
@@ -117,7 +95,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3cc216e426189dfc",
+  "active": "0b2c05eec2c42749",
   "lastOpenFiles": [
     "Informatique/Interpolation de Lagrange.md",
     "Informatique/Methodes Numeriques de Calcul Integral.md",
