@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e03afd2b410bab3b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algebre/Determinant.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "37ce6f1a9f7b7f79",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Determinant.md",
-            "mode": "preview"
+            "file": "Informatique/Methodes Numeriques de Calcul Integral.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Determinant.md",
+                "file": "Informatique/Methodes Numeriques de Calcul Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e03afd2b410bab3b",
+  "active": "37ce6f1a9f7b7f79",
   "lastOpenFiles": [
-    "Algebre/Determinant.md",
+    "Informatique/Methodes Numeriques de Calcul Integral.md",
+    "Algebre/Untitled.md",
     "Algebre/Rotations et réflexions.md",
+    "Algebre/Determinant.md",
     "Physique/Bras de levier.md",
     "Physique/Moment d'inertie.md",
     "Physique/Changement de referentiel.md",
     "Physique/Forces.md",
     "Physique/Moment cinetique.md",
-    "Analyse/Integration.md",
-    "SCM/Nombres Naturels.md",
-    "SCM/Nombres irrationnels.md"
+    "Analyse/Integration.md"
   ]
 }
