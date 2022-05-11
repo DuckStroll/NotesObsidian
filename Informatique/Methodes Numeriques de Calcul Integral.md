@@ -8,7 +8,6 @@ Les sommes de Darboux representent le min et le max de l'integrale de notre fonc
 On effectue le calcul de l'integrale en 2 Etapes:
 1) On cherche la meilleure approximation pour un intervalle donné
 2) On cherche la meilleure partition
-3) 
 Pour l'etape 1, On peut prendre soit une approche géometrique, soit par une approche qui permet de rempalce $f$ par une fonction $\phi$ facilement intégrable
-Pour l'étape 2, onpeut prendre soit des mêthodes à pas fixe, soit des methodes àà pas variable.
+Pour l'étape 2, onpeut prendre soit des mêthodes à pas fixe, soit des methodes a pas variable.
 ## [[Interpolation de Lagrange]]
