@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatique/Methodes Numeriques de Calcul Integral.md",
+            "file": "Analyse/Développements limités.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bc87ab39856e1ea2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Analyse/Développements limités.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Methodes Numeriques de Calcul Integral.md",
+                "file": "Analyse/Développements limités.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +108,15 @@
   },
   "active": "37ce6f1a9f7b7f79",
   "lastOpenFiles": [
+    "Analyse/Développements limités.md",
     "Informatique/Methodes Numeriques de Calcul Integral.md",
+    "Informatique/Partition.md",
+    "Analyse/Integration.md",
+    "Physique/Bras de levier.md",
     "Algebre/Untitled.md",
     "Algebre/Rotations et réflexions.md",
     "Algebre/Determinant.md",
-    "Physique/Bras de levier.md",
     "Physique/Moment d'inertie.md",
-    "Physique/Changement de referentiel.md",
-    "Physique/Forces.md",
-    "Physique/Moment cinetique.md",
-    "Analyse/Integration.md"
+    "Physique/Changement de referentiel.md"
   ]
 }

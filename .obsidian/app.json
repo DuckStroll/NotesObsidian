@@ -3,6 +3,6 @@
   "newFileLocation": "current",
   "autoPairMarkdown": false,
   "promptDelete": false,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "alwaysUpdateLinks": true
 }
