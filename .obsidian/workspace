@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatique/Formule de quadrature non composite.md",
+            "file": "Informatique/Methodes Numeriques de Calcul Integral.md",
             "mode": "source"
           }
         }
@@ -106,11 +106,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b2c05eec2c42749",
+  "active": "c947bdbae38ddf36",
   "lastOpenFiles": [
     "Informatique/Formule de quadrature non composite.md",
-    "Algebre/Rotations et réflexions.md",
     "Informatique/Methodes Numeriques de Calcul Integral.md",
+    "Algebre/Rotations et réflexions.md",
     "Analyse/Arcs paramétrés dans le plan.md",
     "Analyse/Développements limités.md",
     "Informatique/Interpolation de Lagrange.md",
