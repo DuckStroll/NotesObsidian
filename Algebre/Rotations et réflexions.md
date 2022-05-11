@@ -52,4 +52,5 @@ décrit le segment de $w_o$ à $w_1$.
 
 Le point d'umpact correspond donc à:
 $(1-t)(4,5)+t(4,-7)= -4(t)+ t(8,12)$
-Comme ces valeurs se trouvent sur la ligne
+Comme ces valeurs se trouvent sur la ligne, on a
+$(-4+8t)+ 2(5-12t)=0$

@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "e03afd2b410bab3b",
-=======
-        "id": "c90d499606c71727",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Base d'un espace vectoriel.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "40109e655f6ee2f2",
->>>>>>> 4cd36f729ef7855fea9c9f68162249f843d487a9
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-<<<<<<< HEAD
             "file": "Algebre/Rotations et réflexions.md",
             "mode": "source"
           }
@@ -37,9 +21,6 @@
           "type": "markdown",
           "state": {
             "file": "Algebre/Rotations et réflexions.md",
-=======
-            "file": "Algebre/Base d'un espace vectoriel.md",
->>>>>>> 4cd36f729ef7855fea9c9f68162249f843d487a9
             "mode": "preview"
           }
         }
@@ -70,11 +51,7 @@
               "type": "search",
               "state": {
                 "query": "",
-<<<<<<< HEAD
                 "matchingCase": false,
-=======
-                "matchingCase": true,
->>>>>>> 4cd36f729ef7855fea9c9f68162249f843d487a9
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -102,11 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "Algebre/Rotations et réflexions.md",
-=======
-                "file": "Algebre/Base d'un espace vectoriel.md",
->>>>>>> 4cd36f729ef7855fea9c9f68162249f843d487a9
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +106,7 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "e03afd2b410bab3b",
+  "active": "37ce6f1a9f7b7f79",
   "lastOpenFiles": [
     "Algebre/Rotations et réflexions.md",
     "Physique/Bras de levier.md",
@@ -146,16 +118,5 @@
     "SCM/Nombres Naturels.md",
     "SCM/Nombres irrationnels.md",
     "Analyse/Développements limités.md"
-=======
-  "active": "40109e655f6ee2f2",
-  "lastOpenFiles": [
-    "Algebre/Base d'un espace vectoriel.md",
-    "Algebre/Matrice.md",
-    "Analyse/Formules trigonometriques.md",
-    "Home.md",
-    "Analyse/Untitled.md",
-    "Analyse/Développements limités.md",
-    "SCM/Nombres irrationnels.md"
->>>>>>> 4cd36f729ef7855fea9c9f68162249f843d487a9
   ]
 }
