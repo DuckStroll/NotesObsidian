@@ -36,3 +36,20 @@ sin(\theta/2)
 cos(\theta/2 ) & sin(\theta/2)
 \end{pmatrix}$
 On a donc une symetrie orthogonale d'axe $Vect(v_\theta/2)$
+## Methode 2
+On sait que f est de la forme $f(x,y) = cos(\theta)x + sin(\theta)y, sin(\theta )x- cos(\theta)y$
+Or on peut trouver un point fixe tel que f(x) = x On peut utiliser ce point fixe afin d'evaluer la valeur de l'angle.
+## Methode 3
+Faire la projection sur le vect()
+## Problème d'application: le billard
+(a) Un joueur de Billard veut taper une boule se trouvant en -4,5 pour atteindre une autre boule en (8,1) après un rebond sur x+2y=0.
+Il doit vise la symetrie de (8,1) par rapport à x+2y =0
+## Lemme 
+$Soient w_o et w_1$
+Quand le reeel $t$ est entre 0 et1, alors
+$(1-t)w_0+t w_1 = w_0 + t(w_1-w_0)$
+décrit le segment de $w_o$ à $w_1$.
+
+Le point d'umpact correspond donc à:
+$(1-t)(4,5)+t(4,-7)= -4(t)+ t(8,12)$
+Comme ces valeurs se trouvent sur la ligne
