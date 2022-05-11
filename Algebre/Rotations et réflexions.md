@@ -42,15 +42,21 @@ Or on peut trouver un point fixe tel que f(x) = x On peut utiliser ce point fixe
 ## Methode 3
 Faire la projection sur le vect()
 ## Problème d'application: le billard
+Marche à suivre:
+1) On transforme la droite en axe de reflexion
+2) On trouve la reflexion du point de départ ou d'arrivée(appelons la $w_1$)
+3) On cherche l'intersection entre la droite de reflexion et la droite passant par $w_1$ et l'autre point $w_0$.
+4) On résoud $w_1 +(w_0-w_1)t=f(t)$
+## Exemple
 (a) Un joueur de Billard veut taper une boule se trouvant en -4,5 pour atteindre une autre boule en (8,1) après un rebond sur x+2y=0.
 Il doit vise la symetrie de (8,1) par rapport à x+2y =0
 ## Lemme 
-$Soient w_o et w_1$
-Quand le reeel $t$ est entre 0 et1, alors
+Soient $w_o$ et $w_1$
+Quand le reel $t$ est entre 0 et1, alors
 $(1-t)w_0+t w_1 = w_0 + t(w_1-w_0)$
 décrit le segment de $w_o$ à $w_1$.
 
-Le point d'umpact correspond donc à:
+Le point d'impact correspond donc à:
 $(1-t)(-4,5)+t(4,-7)= -4(t)+ t(8,12)$
 Comme ces valeurs se trouvent sur la ligne, on a
 $(-4+8t)+ 2(5-12t)=0$
