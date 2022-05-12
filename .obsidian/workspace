@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Vecteur Propre.md",
+            "file": "Physique/Moment d'inertie.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Vecteur Propre.md",
+            "file": "Physique/Oscillateur harmonique.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Vecteur Propre.md",
+                "file": "Physique/Moment d'inertie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "a405b9ee3ea56bd7",
   "lastOpenFiles": [
+    "Physique/Moment d'inertie.md",
+    "Physique/Oscillateur harmonique.md",
     "Algebre/Vecteur Propre.md",
+    "Physique/Force d'inertie.md",
+    "Physique/Forces.md",
+    "Physique/Lois de Newton.md",
+    "Physique/Bras de levier.md",
     "Algebre/Elements Propres d'une application linéaire.md",
     "Algebre/Polynome caracteristique.md",
-    "Algebre/Home.md",
-    "Algebre/Systeme d'équations linéaires.md",
-    "Algebre/Application Linéaire.md",
-    "Algebre/Matrice.md",
-    "Informatique/Formule de quadrature non composite.md",
-    "Informatique/Methodes Numeriques de Calcul Integral.md",
-    "Algebre/Rotations et réflexions.md"
+    "Algebre/Home.md"
   ]
 }
