@@ -26,3 +26,45 @@ $v \in Ker(f-Id)$
 
 $w=-1$
 $v \in Ker(f+Id)$
+# Exemples
+a) 
+$f:\mathbb{R}^2\to \mathbb{R}^2$
+$x \to (2x-y,x +4y)$
+f à pour unique valeur propre 3.
+$A-3I_2= \begin{pmatrix}
+-1 & -1 \\
+1 & 1
+\end{pmatrix}$
+A posséde un unique veteur propre, à savoir (1,-1)
+$e_3=2, d_3=1$
+b
+$$A=\begin{pmatrix}
+-2 & -4 & 5 \\
+-2 & 0 & -1 \\
+3 & 3 & 5
+\end{pmatrix}$$
+On a vu qzue -1 et 2 sont les seules valeurs propres de f
+$$A+I_3=\begin{pmatrix}
+-1 & -4 & -5 \\
+-2 & 1 & -1 \\
+3 & 3 & 6
+\end{pmatrix}$$
+$$A-2I_3=\begin{pmatrix}
+-4 & -4 & -5 \\
+-2 & -2 & 1 \\
+-3 & 3 & 3
+\end{pmatrix}$$
+Les mult geom = 1: Trouvons les sous-espaces propres:
+$$(A+I_3)\begin{pmatrix}
+x \\
+y \\
+z
+\end{pmatrix}=
+\begin{pmatrix}
+0 \\
+0 \\
+0
+\end{pmatrix}
+$$
+$\Leftrightarrow x=y, z=-y, v\in vect(1,1,-1)$
+Pareil pour $A-2I_3, v = vect(1,1,0)$
