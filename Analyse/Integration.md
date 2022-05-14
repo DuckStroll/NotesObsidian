@@ -62,3 +62,4 @@ $x = cos(t), \sqrt{1-x^2}=sin(t),dx =-sin(t)dt$
 ii) Déduits de la relation $cosh^2(t)-sinh^2(t)=1$
 Si l'integrale est fonction de $\sqrt{1+x^2}$ on peut poser $x=sinh(t),\sqrt{1+x^2}=cosh(t),dx=cosh(t)$ 
 si on a $\sqrt{x^2-1}$, on pose $x =cosh(t)\ si \ x \geq 1,x=-cos(t) \ si \ x\leq1$
+## Décomposition en facteurs simples

@@ -17,7 +17,22 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "SCM/Série géometrique.md",
+=======
+            "file": "Analyse/Primitives.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "903d9e6a650f9842",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Analyse/Integration.md",
+>>>>>>> 113f72222aa3938b790c0cf3a2648b2aaa591951
             "mode": "preview"
           }
         }
@@ -77,6 +92,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Analyse/Primitives.md",
+>>>>>>> 113f72222aa3938b790c0cf3a2648b2aaa591951
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,11 +119,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 300
     "collapsed": true
   },
   "active": "a405b9ee3ea56bd7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Physique/Oscillateur harmonique.md",
     "SCM/Série géometrique.md",
     "SCM/Nombres irrationnels.md",
@@ -115,5 +135,17 @@
     "Physique/Moment d'inertie.md",
     "Algebre/Vecteur Propre.md",
     "Physique/Force d'inertie.md"
+=======
+    "Analyse/Primitives.md",
+    "Analyse/Integration.md",
+    "Informatique/Formule de quadrature non composite.md",
+    "Informatique/Partition.md",
+    "Algebre/Vecteur Propre.md",
+    "Informatique/Methodes Numeriques de Calcul Integral.md",
+    "Informatique/Interpolation de Lagrange.md",
+    "Algebre/Rotations et réflexions.md",
+    "Physique/Oscillateur harmonique.md",
+    "Physique/Moment d'inertie.md"
+>>>>>>> 113f72222aa3938b790c0cf3a2648b2aaa591951
   ]
 }
