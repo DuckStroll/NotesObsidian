@@ -7,9 +7,17 @@
         "id": "a405b9ee3ea56bd7",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "b044a47bf0b03636",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Rotations et réflexions.md",
+            "file": "SCM/Série géometrique.md",
             "mode": "preview"
           }
         }
@@ -48,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Rotations et réflexions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +105,15 @@
   },
   "active": "a405b9ee3ea56bd7",
   "lastOpenFiles": [
-    "Algebre/Rotations et réflexions.md",
     "Physique/Oscillateur harmonique.md",
+    "SCM/Série géometrique.md",
+    "SCM/Nombres irrationnels.md",
+    "Informatique/Methodes Numeriques de Calcul Integral.md",
+    "Informatique/Interpolation de Lagrange.md",
+    "Algebre/Rotations et réflexions.md",
+    "Informatique/Formule de quadrature non composite.md",
     "Physique/Moment d'inertie.md",
     "Algebre/Vecteur Propre.md",
-    "Physique/Force d'inertie.md",
-    "Physique/Forces.md",
-    "Physique/Lois de Newton.md",
-    "Physique/Bras de levier.md",
-    "Algebre/Elements Propres d'une application linéaire.md",
-    "Algebre/Polynome caracteristique.md"
+    "Physique/Force d'inertie.md"
   ]
 }

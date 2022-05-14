@@ -12,4 +12,4 @@ Pour l'etape 1, On peut prendre soit une approche géometrique, soit par une app
 Pour l'étape 2, onpeut prendre soit des mêthodes à pas fixe, soit des methodes a pas variable.
 ## [[Formule de quadrature non composite]]
 [[Interpolation de Lagrange]]
-###
+### Methode du point milieu

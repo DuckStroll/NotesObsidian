@@ -1,5 +1,6 @@
 #physique #man #ba1
 # Force d'un ressort
+## [[Forces]]
 Quand $\vec{F^{ext}}  = -k\vec{d}$ Le mouvement de l'objet est un mouvement oscillatoire harmonique.
 au repos, la force d'un ressort est nulle.
 L'oscillateur harmonique entre en jeu car 
@@ -20,7 +21,7 @@ $$x(t)=Acos(w_{0}(t-t_{0})+\phi)$$
 $$\phi = \arctan(\frac{-v_{0}}{w_{0}x_{0}})$$
 $$x_{0}=Acos(\phi)=\frac{A}{\sqrt{1+\frac{v_{0}^{2}}{w_{0}^{2}x^{2}_{0}}}}$$
 Cela décrit une oscillation non-amortie d'amplitude A et de période T.
-L'energie mecanique d'un ressort = $\int k\vec{d}: *dt= \frac{1}{2}kd_{0}^{2}$
+L'[[Energie]] mecanique d'un ressort = $\int k\vec{d}: *dt= \frac{1}{2}kd_{0}^{2}$
 Période: $T =\frac{2\pi}{w_{0}}=2\pi\sqrt\frac{m}{k}$
 # Pendule simple
 $$\ddot{\alpha} = -w^2 sin(\alpha)$$
