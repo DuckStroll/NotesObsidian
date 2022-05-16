@@ -2,7 +2,7 @@
 Soit $f:\mathbb{R}^n\to\mathbb{R}^n$
 # Définition:
 $$\boxed{x\_f(x)=x_A(x)= det(A-xI_n)}$$
-Le polynome characteristique est un [[Elements Propres d'une application linéaire]].
+Le [[Polynomes|polynome]] characteristique est un [[Elements Propres d'une application linéaire]].
 Une racine $w$ de $x_f$ est appelée [[Valeur Propre]] de f. On a alors:
 $$\boxed{x_f(x)=(x-w)^{e_w}\cdot(p \in \mathbb{P}^n)}$$
 $e_w$ est la [[Multiplicité algébrique]] de w.
