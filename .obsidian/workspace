@@ -10,17 +10,6 @@
           "type": "markdown",
           "state": {
             "file": "Algebre/Ideal.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "892320fd8dd4889f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algebre/Ideal.md",
             "mode": "preview"
           }
         }
@@ -101,6 +90,8 @@
   "lastOpenFiles": [
     "Algebre/Ideal.md",
     "Analyse/Polynomes.md",
+    "Algebre/Image.md",
+    "Algebre/PGCD.md",
     "Algebre/Application Linéaire.md",
     "Algebre/Polynome caracteristique.md",
     "Nombres complexes.md",
