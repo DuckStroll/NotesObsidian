@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Développements limités.md",
+            "file": "Nombres complexes.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0b0537bc2f19b140",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nombres complexes.md",
             "mode": "preview"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fonctions enti",
+                "query": "nombres compl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Développements limités.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +100,7 @@
   },
   "active": "e36430a3766395bc",
   "lastOpenFiles": [
-    "Analyse/Développements limités.md",
-    "Nombres complexes.md"
+    "Nombres complexes.md",
+    "Analyse/Développements limités.md"
   ]
 }
