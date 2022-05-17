@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Ideal.md",
-            "mode": "preview"
+            "file": "Dérivation.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Ideal.md",
+                "file": "Dérivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,16 +78,25 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d3504b47cfe0c5ff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "e36430a3766395bc",
   "lastOpenFiles": [
+    "Dérivation.md",
     "Algebre/Ideal.md",
     "Analyse/Polynomes.md",
     "Algebre/Image.md",
