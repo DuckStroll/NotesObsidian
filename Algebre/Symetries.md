@@ -26,6 +26,7 @@ Si n= 3
 Proposition: Si f est symetrique, alors on se visualise comme symetrie par rapport à Image de g donc:
 $\underbrace{Im(g) = Ker(f-Id_{\mathbb{R}^n})}_{pts\ fixes\ de\ f}$
 $\underbrace{Ker(g)= Ker(f+Id_n)}_{\text{Pts "renversés" par f autour de l'origine}}$
+![[Symetrieplan.PNG]]
 
 # Ex
 On a deux droites:

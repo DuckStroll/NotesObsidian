@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Polynome characteristique.md",
+            "file": "Algebre/Symetries.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Polynome characteristique.md",
+                "file": "Algebre/Symetries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "27bbdd73cc390519",
   "lastOpenFiles": [
+    "Algebre/Symetries.md",
     "Algebre/Polynome characteristique.md",
     "Analyse/Integration.md",
     "Algebre/Ideal.md",
@@ -116,7 +117,6 @@
     "README.md",
     "Images/AireIntegrale.PNG",
     "Home.md",
-    "Algebre/Home.md",
-    "Algebre/Multiplicité géometrique.md"
+    "Algebre/Home.md"
   ]
 }
