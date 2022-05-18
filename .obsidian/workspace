@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Polynome characteristique.md",
+            "file": "Home.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Polynome characteristique.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "27bbdd73cc390519",
   "lastOpenFiles": [
+    "Home.md",
     "Algebre/Polynome characteristique.md",
+    "README.md",
+    "Algebre/Home.md",
+    "Algebre/Multiplicité géometrique.md",
+    "Algebre/Multiplicité algébrique.md",
     "Analyse/Dérivation.md",
     "Algebre/Plans stables.md",
     "Algebre/Elements Propres d'une application linéaire.md",
-    "Algebre/Multiplicité algébrique.md",
-    "Algebre/Multiplicité géometrique.md",
-    "Algebre/Untitled 1.md",
-    "Algebre/Opérations élémentaires.md",
-    "Algebre/Home.md",
-    "Algebre/Vecteur Propre.md"
+    "Algebre/Untitled 1.md"
   ]
 }
