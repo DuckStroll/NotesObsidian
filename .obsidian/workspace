@@ -9,13 +9,13 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "Algebre/Polynome characteristique.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "10ea8c7b3476d12c",
+        "id": "826b7e8f46ddbaff",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Algebre/Polynome characteristique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "27bbdd73cc390519",
   "lastOpenFiles": [
-    "Home.md",
     "Algebre/Polynome characteristique.md",
+    "Analyse/Integration.md",
+    "Algebre/Ideal.md",
+    "Algebre/Nombres complexes.md",
+    "Analyse/Arcs paramétrés dans le plan.md",
     "README.md",
+    "Images/AireIntegrale.PNG",
+    "Home.md",
     "Algebre/Home.md",
-    "Algebre/Multiplicité géometrique.md",
-    "Algebre/Multiplicité algébrique.md",
-    "Analyse/Dérivation.md",
-    "Algebre/Plans stables.md",
-    "Algebre/Elements Propres d'une application linéaire.md",
-    "Algebre/Untitled 1.md"
+    "Algebre/Multiplicité géometrique.md"
   ]
 }
