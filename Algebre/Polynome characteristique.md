@@ -36,7 +36,7 @@ On obtient alors  $x_f(x)= det([f]_B-xI_3)=$
 $(w-x)(...)$ si $d_w = 1$
 $(w-x)^2(...)$ si $d_w = 2$
 $(w-x)^3$ si $d_w=3$
-On voit alors que $(w-x_w)^{d_w}$ est facteur de $x_f(x)$, si bien que $\underline{e_w\leq d_w}$
+On voit alors que $(w-x_w)^{d_w}$ est facteur de $x_f(x)$, si bien que $\underline{d_w\leq e_w}$
 
 # Ex:
 $$A= \begin{pmatrix}
