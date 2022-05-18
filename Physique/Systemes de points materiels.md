@@ -21,4 +21,4 @@ Le solide est un corps, donc $E_{cin} = \sum_i 1/2 m_iv_i^2$
 $$\dot E_{cin}=\sum \vec F_i \cdot \vec v_i$$
 $dE_cin= \delta W^{ext}+ \delta W^{int}$
 $E_{cin}= 1/2mv_{cm}^2+ 1/2I_{CM}w_{CM}^2$
-L'energie cinetique est la somme de lêmergie conetique du centre de masse et de l'énergie cinetique de rotation propre du solide autour du centre de masse
+L'energie cinetique est la somme de l'energie cinetique du centre de masse et de l'énergie cinetique de rotation propre du solide autour du centre de masse

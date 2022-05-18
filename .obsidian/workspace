@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e36430a3766395bc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Physique/Systemes de points materiels.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "27bbdd73cc390519",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physique/Systemes de points materiels.md",
+            "file": "Algebre/Polynome characteristique.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "10ea8c7b3476d12c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algebre/Polynome characteristique.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Systemes de points materiels.md",
+                "file": "Algebre/Polynome characteristique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e36430a3766395bc",
+  "active": "27bbdd73cc390519",
   "lastOpenFiles": [
-    "Physique/Systemes de points materiels.md",
-    "Physique/Théorème de l'energie cinetique.md",
-    "Physique/Energie.md",
-    "Physique/Mouvement circulaire uniforme.md",
-    "Analyse/Fonction vectorielle.md",
-    "Dérivation.md",
-    "Algebre/Ideal.md",
-    "Analyse/Polynomes.md",
-    "Algebre/Image.md",
-    "Algebre/PGCD.md"
+    "Algebre/Polynome characteristique.md",
+    "Algebre/Plans stables.md",
+    "Algebre/Elements Propres d'une application linéaire.md",
+    "Multiplicité algébrique.md",
+    "Multiplicité géometrique.md",
+    "Algebre/Untitled 1.md",
+    "Algebre/Opérations élémentaires.md",
+    "Algebre/Home.md",
+    "Algebre/Vecteur Propre.md",
+    "Physique/Systemes de points materiels.md"
   ]
 }

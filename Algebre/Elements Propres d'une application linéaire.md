@@ -1,4 +1,5 @@
 #man #algebre 
-# [[Polynome caracteristique]] 
+# [[Polynome characteristique]] 
 # [[Valeur Propre]]
 # [[Vecteur Propre]]
+# [[Plans stables]]
