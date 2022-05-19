@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aada1d1f1913a6f9",
+        "id": "fb63d5df8fbf20a2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physique/Oscillateur harmonique.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a070716a6f6e8861",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Physique/Oscillateur harmonique.md",
+            "file": "Algebre/Vecteurs Propres.md",
             "mode": "preview"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Oscillateur harmonique.md",
+                "file": "Algebre/Vecteurs Propres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aada1d1f1913a6f9",
+  "active": "fb63d5df8fbf20a2",
   "lastOpenFiles": [
-    "Physique/Oscillateur harmonique.md",
-    "Algebre/Diagonalisation.md",
     "Algebre/Vecteurs Propres.md",
+    "Algebre/Plans stables.md",
+    "Algebre/Polynome characteristique.md",
+    "Physique/Oscillateur harmonique.md",
+    "Algebre/Matrice.md",
+    "Algebre/Diagonalisation.md",
     "Algebre/vecteurs propres.md",
     "Algebre/Valeur Propre.md",
     "Algebre/Elements Propres d'une application linéaire.md",
-    "Algebre/Multiplicité algébrique.md",
-    "Algebre/Multiplicité géometrique.md",
-    "Algebre/Polynome characteristique.md",
-    "Analyse/Dérivation.md"
+    "Algebre/Multiplicité algébrique.md"
   ]
 }

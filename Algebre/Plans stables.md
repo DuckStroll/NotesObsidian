@@ -9,7 +9,7 @@ a \\
 b \\
 c
 \end{pmatrix}$ vecteur propre de $A^t  \Leftrightarrow V:ax+by+cx =0 \text{ est stable par } f()$
-Preuve:
+### Preuve:
 $A^t\begin{pmatrix}
 a \\
 b \\
