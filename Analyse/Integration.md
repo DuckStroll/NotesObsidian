@@ -63,3 +63,12 @@ ii) Déduits de la relation $cosh^2(t)-sinh^2(t)=1$
 Si l'integrale est fonction de $\sqrt{1+x^2}$ on peut poser $x=sinh(t),\sqrt{1+x^2}=cosh(t),dx=cosh(t)$ 
 si on a $\sqrt{x^2-1}$, on pose $x =cosh(t)\ si \ x \geq 1,x=-cos(t) \ si \ x\leq1$
 ## Décomposition en facteurs simples
+## Calcul de l'aire
+![[AireIntegrale.PNG]]
+Il faut donc bien faire attention aux zeros afin de calcul l'air.
+Si on effectue un changement de variable, il faut bien faire attention à changer la valeur des bornes $\int^b_af(x)dx=\int^{\varphi(b)}_{\varphi(a)}f(t)x'(t)dt$.
+Si $T$ est un [[Arcs paramétrés dans le plan|Arc paramétré dans le plan]], Il faut exprimer x en fonction de t et faire un changement de variable pour exprimer $y$ en fonction de $x$.
+### Aire entre deux courbes
+Soit P et Q les points où les courbes s'intersectent, et sans points d'intersection entre les deux.
+$$\Theta= \int^{x_Q}_{x_P}[y_2(x)-y_1(x)]$$
+

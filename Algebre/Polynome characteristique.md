@@ -19,6 +19,7 @@ Si n = 3
 $x_f$= 1 racine  Soit $x_f(x)= (w-x)^3$ Soit $x_f(x)= (w-x)\cdot p$ p un polynome sans racine réelle
 2 racines $(w-x^2)(\xi-x)$
 3 racines $(w-x)(\xi-x)(\rho-x)$
+![[racinespolynomesr3.PNG]]
 ## Proposition
 $x_{A^t}= x_A$. En particulier, $A$ et $A^t$ on les mêmes valeurs propres.
 
