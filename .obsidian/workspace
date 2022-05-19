@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "27bbdd73cc390519",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algebre/Polynome characteristique.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "10ea8c7b3476d12c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Polynome characteristique.md",
+            "file": "Algebre/Diagonalisation.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "aada1d1f1913a6f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algebre/Diagonalisation.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Polynome characteristique.md",
+                "file": "Algebre/Diagonalisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27bbdd73cc390519",
+  "active": "aada1d1f1913a6f9",
   "lastOpenFiles": [
-    "Algebre/Polynome characteristique.md",
-    "Analyse/Dérivation.md",
-    "Algebre/Plans stables.md",
+    "Algebre/Diagonalisation.md",
+    "Algebre/Vecteurs Propres.md",
+    "Algebre/vecteurs propres.md",
+    "Algebre/Valeur Propre.md",
     "Algebre/Elements Propres d'une application linéaire.md",
     "Algebre/Multiplicité algébrique.md",
     "Algebre/Multiplicité géometrique.md",
-    "Algebre/Untitled 1.md",
-    "Algebre/Opérations élémentaires.md",
-    "Algebre/Home.md",
-    "Algebre/Vecteur Propre.md"
+    "Algebre/Polynome characteristique.md",
+    "Analyse/Dérivation.md",
+    "Algebre/Plans stables.md"
   ]
 }

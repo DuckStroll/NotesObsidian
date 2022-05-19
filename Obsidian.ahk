@@ -66,4 +66,7 @@ x_{m}
 )
 return
 CapsLock & l::
-SendRaw \underset{h \rightarrow0}{\lim} 
+SendRaw \underset{h \rightarrow 0}{\lim} 
+CapsLock & q::
+SendRaw \Leftrightarrow 
+return
