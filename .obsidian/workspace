@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "10ea8c7b3476d12c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algebre/Diagonalisation.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "aada1d1f1913a6f9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Diagonalisation.md",
+            "file": "Physique/Oscillateur harmonique.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a070716a6f6e8861",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Physique/Oscillateur harmonique.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Diagonalisation.md",
+                "file": "Physique/Oscillateur harmonique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "aada1d1f1913a6f9",
   "lastOpenFiles": [
+    "Physique/Oscillateur harmonique.md",
     "Algebre/Diagonalisation.md",
     "Algebre/Vecteurs Propres.md",
     "Algebre/vecteurs propres.md",
@@ -116,7 +117,6 @@
     "Algebre/Multiplicité algébrique.md",
     "Algebre/Multiplicité géometrique.md",
     "Algebre/Polynome characteristique.md",
-    "Analyse/Dérivation.md",
-    "Algebre/Plans stables.md"
+    "Analyse/Dérivation.md"
   ]
 }
