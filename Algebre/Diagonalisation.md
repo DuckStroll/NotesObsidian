@@ -1,3 +1,4 @@
+#man #ba1 #algebre
 # Diagonalisation de matrice 
 Soit $f:\mathbb{R}^n\to \mathbb{R}^n$ linéaire de [[matrice]] A en base canonique.
 f est dite __diagonalisable__ s'il exise une base B de $\mathbb{R}^n$ tel que

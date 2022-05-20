@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fb63d5df8fbf20a2",
+        "id": "87ecd6504432f6d9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Vecteurs Propres.md",
+            "file": "Analyse/Calcul de volume.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8d0a6f37eed30fa5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Analyse/Calcul de volume.md",
             "mode": "preview"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Vecteurs Propres.md",
+                "file": "Analyse/Calcul de volume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb63d5df8fbf20a2",
+  "active": "87ecd6504432f6d9",
   "lastOpenFiles": [
+    "Analyse/Calcul de volume.md",
+    "Algebre/Diagonalisation.md",
+    "Algebre/Noyau.md",
+    "Excalidraw/Drawing 2022-05-20 09.07.07.excalidraw.md",
+    "Analyse/Arcs paramétrés dans le plan.md",
+    "Analyse/Continuité.md",
+    "Analyse/asymptote.md",
     "Algebre/Vecteurs Propres.md",
     "Algebre/Plans stables.md",
-    "Algebre/Polynome characteristique.md",
-    "Physique/Oscillateur harmonique.md",
-    "Algebre/Matrice.md",
-    "Algebre/Diagonalisation.md",
-    "Algebre/vecteurs propres.md",
-    "Algebre/Valeur Propre.md",
-    "Algebre/Elements Propres d'une application linéaire.md",
-    "Algebre/Multiplicité algébrique.md"
+    "Algebre/Polynome characteristique.md"
   ]
 }
