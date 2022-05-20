@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Formules trigonometriques.md",
+            "file": "SCM/Nombres Entiers.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Formules trigonometriques.md",
+            "file": "SCM/Nombres Entiers.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Formules trigonometriques.md",
+                "file": "SCM/Nombres Entiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "87ecd6504432f6d9",
   "lastOpenFiles": [
+    "SCM/Nombres Entiers.md",
     "Analyse/Formules trigonometriques.md",
     "Analyse/Calcul de volume.md",
     "Algebre/Diagonalisation.md",
@@ -116,7 +117,6 @@
     "Analyse/Arcs paramétrés dans le plan.md",
     "Analyse/Continuité.md",
     "Analyse/asymptote.md",
-    "Algebre/Vecteurs Propres.md",
-    "Algebre/Plans stables.md"
+    "Algebre/Vecteurs Propres.md"
   ]
 }
