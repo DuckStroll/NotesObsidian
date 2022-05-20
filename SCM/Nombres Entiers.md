@@ -6,10 +6,11 @@ On peut considerer $+1$ comme un couple $\lbrace (n,n+1)|n \in \mathbb{N}\rbrace
 $a+m = b+n$. Il s'agit d'une [[Relation d'équivalence]] Démontré en cours.
 Alors on a la [[Relation d'équivalence#Classe d'équivalence|Classe d'équivalence]] $[(x,y)]=[(n,m)] \Leftrightarrow (x,y) \sim (n,m)$. On utilise la propriété de la transivité afin de démontrer cette relation.
 ## L'ensemble des nombres entiers
-$$\mathbb{Z}= \lbrace (a,b)|a,b \in \mathbb{N}$$
-$$\mathbb{Z_+}= \lbrace (a,0)|a \in \mathbb{N}$$
-$$\mathbb{Z_-}= \lbrace (0,b)|b \in \mathbb{N}$$
+$$\mathbb{Z}= \lbrace (a,b)|a,b \in \mathbb{N} \rbrace$$
+$$\mathbb{Z_+}= \lbrace (a,0)|a \in \mathbb{N}\rbrace$$
+$$\mathbb{Z_-}= \lbrace (0,b)|b \in \mathbb{N}\rbrace$$
 Par abus de language, on dira que  $\mathbb{N}= \mathbb{Z_+}$.
-Cela n'est pas vraiment vrai car $\mathbb{Z}= \mathbb{N}^2$
+Cela n'est pas vraiment vrai car $\mathbb{Z}= \mathbb{N}^2$.
+
 # Articles adjacents:
 [[Nombres irrationnels]]
