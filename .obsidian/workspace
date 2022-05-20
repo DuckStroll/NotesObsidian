@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Calcul de volume.md",
+            "file": "Analyse/Formules trigonometriques.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Calcul de volume.md",
+            "file": "Analyse/Formules trigonometriques.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Calcul de volume.md",
+                "file": "Analyse/Formules trigonometriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "87ecd6504432f6d9",
   "lastOpenFiles": [
+    "Analyse/Formules trigonometriques.md",
     "Analyse/Calcul de volume.md",
     "Algebre/Diagonalisation.md",
     "Algebre/Noyau.md",
@@ -116,7 +117,6 @@
     "Analyse/Continuité.md",
     "Analyse/asymptote.md",
     "Algebre/Vecteurs Propres.md",
-    "Algebre/Plans stables.md",
-    "Algebre/Polynome characteristique.md"
+    "Algebre/Plans stables.md"
   ]
 }

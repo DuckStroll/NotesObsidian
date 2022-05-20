@@ -6,9 +6,21 @@ Il suffit donc d'[[Integration|Integrer]]
 On peut choisir soit 
 $dx$  soit $dy$ comme paramètre.
 Si on veut calculer l'aire formée par la différence entre 2 fonctions, $$V=\int_a^b\pi(f(x)^2-g(x)^2)dx$$
+
+> [!WARNING] Bien identifier le scenario
+> Il faut faire attention si on doit faire $(R-r)^2$ ou $R^2-r^2$
+> Le deuxième cas correspond à une couronne et le premier à une aire de plus petit rayon.
 ## Volume d'[[Arcs paramétrés dans le plan]]
 ## Volume d'un corps de section d'aire connue
 On considère un corps dont les dections par des palns parallèle a $x\circ y$
 $$V = \int^{z_2}_{z_1}A(z)dz$$
 On considère l'aire comme une scene de triangles rectangles ABC.
 L'aire vaut donc: $(y_0)=\frac{1}{2}AB \cdot AC$
+$A(y_0)= \frac{1}{2}f(y_0)g(y_0)$
+### Exemple du cone
+On cherche le volume d'un cone dont on connait la base et la hauteur et dont on cherche le volume
+Par Thalès, on sait que le rapport des aires est égal au rapport des hauteurs carrés
+$$\begin{align}
+\frac{A(z_0)}{A_0}= \frac{(h-z_0)^2}{h^2} && A(z_0)=\frac{A_0}{2}(h-z_0)^2
+\end{align}$$
+$$V=\int^h_0\frac{A_0}{h^2}(h-2)^2dz=\frac{A_0\cdot h}{3}$$
