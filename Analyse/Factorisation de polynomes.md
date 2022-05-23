@@ -9,6 +9,7 @@ $\mathbb{K}[X]= M_{P,R} = \lbrace AP + BR|A,B \in \mathbb{K}[X]\rbrace$
 (C'est un [[Ideal]])
 En particulier $\exists A,B \in \mathbb{K}[X]+1$
 $1 = AP + BR \Rightarrow S= APS + BRS \Rightarrow P$ divise $S$
+$\Box$
 ## Corollaire
 Soit $P \in \mathbb{K}[X]$ un irreductible et $P_1,...,P_n \in \mathbb{K}[X]$ tels que P divise $\prod^n_{k=1}P_k$. Alors $\exists k \in \lbrace 1,...,n\rbrace$ tel que $P$ divise $P_k$
 ## Théorème de la factorisation unique
