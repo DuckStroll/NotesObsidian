@@ -28,4 +28,4 @@ Existence:On la prouve e passant par deg (Q)>0. Fixons un tel $Q \in \mathbb{K}[
 Supposons que deg(P)= m\leqvdeg(Q). On pose $P(x)= a_0+a_1 x...+a_mx^m$, $Q(x)= b_0+b_1 x...+b_nx^n$. On a $$P(x) = \frac{a_m}{b_n}X^{m-n}Q\underbrace{-\frac{a_m}{b_n}X^{m-n}Q+P(X)}_{S}$$
 On trouve que deg(S)<deg(P). Par récurrence, $S = MQ + R$ avec deg(R)<deg(Q). Mais alors,$P(X)=\frac{a_m}{b_n}X^{m-n}Q+MQ+R$. Cela prouve l'existence.
 Unicité:
-Supposons P=MQ+R= M'Q + R' avec deg(R), deg(R')< deg(Q) On a (M-M')Q = R'-R. Ceci est possible si M=M' et R = R'.
+Supposons $P=MQ+R= M'Q + R'$ avec $deg(R), deg(R')< deg(Q)$ On a $(M-M')Q = R'-R.$ Ceci est possible si $M=M' et\ R = R'$.

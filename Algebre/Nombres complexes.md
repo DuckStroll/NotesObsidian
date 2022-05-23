@@ -35,7 +35,9 @@ $$z^2 = w = ai+b$$
 $$\alpha^2-\beta^2=a$$
 $$2\alpha\beta=b$$
 ## Forme  trigonometrique
+On peut exprimer z comme une somme de [[Formules trigonometriques]]
 $z = arg(z)[cos(\alpha)+i\sin(\alpha)]$
 où $arg(z)$ = $\sqrt{\Re(z)^2+\Im(z)^2}$ et
-$cos(\alpha)=\frac{\Re(z)}{|z|}$ et $sin(\alpha)= \frac{\Im(z)}{|z|}$ne
-$i^k= cos(\frac{k\pi}{2})+ i\sin(\frac{k\pi}{2})$
+$cos(\alpha)=\frac{\Re(z)}{|z|}$ et $sin(\alpha)= \frac{\Im(z)}{|z|}$
+###
+$z^k= cos(k\pi)+ i\sin(k\pi)$

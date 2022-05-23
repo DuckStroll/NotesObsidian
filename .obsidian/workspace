@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Nombres complexes.md",
+            "file": "Analyse/Polynomes.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Nombres complexes.md",
+            "file": "Analyse/Polynomes.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.0007801055908
   },
   "right": {
     "id": "626fa690841bc31d",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Nombres complexes.md",
+                "file": "Analyse/Polynomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "8d0a6f37eed30fa5",
   "lastOpenFiles": [
+    "Analyse/Polynomes.md",
+    "Analyse/Primitives.md",
     "Algebre/Nombres complexes.md",
-    "Algebre/Base d'un espace vectoriel.md",
-    "Algebre/Rang d'une matrice.md",
-    "Analyse/Calcul de volume.md",
-    "Algebre/Ideal.md",
-    "Algebre/Image.md",
-    "Analyse/Integration.md",
     "SCM/Nombres Entiers.md",
+    "SCM/Nombres irrationnels.md",
     "SCM/Relation d'équivalence.md",
-    "SCM/Série géometrique.md"
+    "Algebre/Base d'un espace vectoriel.md",
+    "Analyse/Fonction contractante.md",
+    "Algebre/Rang d'une matrice.md",
+    "Analyse/Calcul de volume.md"
   ]
 }
