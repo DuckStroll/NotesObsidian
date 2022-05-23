@@ -34,5 +34,8 @@ Un compleze $z$ est appelé la racine n-ième de w si $z^n=w$
 $$z^2 = w = ai+b$$
 $$\alpha^2-\beta^2=a$$
 $$2\alpha\beta=b$$
-##
+## Forme  trigonometrique
+$z = arg(z)[cos(\alpha)+i\sin(\alpha)]$
+où $arg(z)$ = $\sqrt{\Re(z)^2+\Im(z)^2}$ et
+$cos(\alpha)=\frac{\Re(z)}{|z|}$ et $sin(\alpha)= \frac{\Im(z)}{|z|}$ne
 $i^k= cos(\frac{k\pi}{2})+ i\sin(\frac{k\pi}{2})$

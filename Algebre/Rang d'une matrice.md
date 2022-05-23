@@ -5,5 +5,6 @@ Le rang est égal à la plus petite [[Matrice#Decomposition vecteurs colonnes-li
 ## Propriétés du rang
 Notre rang $r \leq Dim(Im(f)$ soit le nombre de lignes de la matrice. on s'en convinc facilement car le rang represente la decomposition ligne-colonne minimale et la decomposition maximale sera $I_{R}\times M$
 
+$dim_f= dim(Ker(f))+ rg(f)$
 Si La matrice A est inversible, $rg(ABA)=rg(AB) =rg(B)$
 $rg(g)\leq a \Rightarrow rg(g\circ f)\leq a$
