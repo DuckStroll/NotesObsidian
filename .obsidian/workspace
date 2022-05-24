@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Untitled.md",
+            "file": "Analyse/Calcul de volume.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Untitled.md",
+            "file": "Analyse/Calcul de volume.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Untitled.md",
+                "file": "Analyse/Calcul de volume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,8 @@
   },
   "active": "524e834687846134",
   "lastOpenFiles": [
-    "Analyse/Untitled.md",
+    "Analyse/Calcul de volume.md",
+    "Analyse/Calcul de longueur d'arc.md",
     "Analyse/Formules trigonometriques.md",
     "Algebre/Nombres complexes.md",
     "Analyse/Factorisation de polynomes.md",
@@ -116,7 +117,6 @@
     "Analyse/Primitives.md",
     "SCM/Nombres Entiers.md",
     "SCM/Nombres irrationnels.md",
-    "SCM/Relation d'équivalence.md",
-    "Algebre/Base d'un espace vectoriel.md"
+    "SCM/Relation d'équivalence.md"
   ]
 }

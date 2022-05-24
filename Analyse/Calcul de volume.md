@@ -27,3 +27,14 @@ $$\begin{align}
 \frac{A(z_0)}{A_0}= \frac{(h-z_0)^2}{h^2} && A(z_0)=\frac{A_0}{2}(h-z_0)^2
 \end{align}$$
 $$V=\int^h_0\frac{A_0}{h^2}(h-2)^2dz=\frac{A_0\cdot h}{3}$$
+# Surface d'un solide de révolution
+On considére les mêmes conditions qu'avant.
+$A_i= 2\pi \frac{r_1+r_2}{2}d_i=2\pi \frac{f(x_{i-1}+f(x_i)}{2}d_i$
+$A= \underset{n \rightarrow \infty}{\lim}\sum^n_1 A_i= \int^{x_B}_{x_A}2\pi f(x)ds=$
+Par rapport à x:
+$$A = \int^{x_2}_{x_1}2\pi f(x)\cdot\sqrt{1+(\frac{dy}{dx})^2}dy$$
+Par rapport à y:
+$$A = \int^{y_2}_{y_1}2\pi y\cdot\sqrt{1+(\frac{dx}{d
+y})^2}dy$$
+par rapport à t:
+$$A = \int^{t_2}_{t_1}2\pi y(t)\cdot\sqrt{\dot x(t) + \dot y(t)}dt$$
