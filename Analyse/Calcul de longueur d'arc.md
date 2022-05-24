@@ -7,7 +7,7 @@ $$d_i= \sqrt{(\Delta x_i)^2+(\Delta y_i)^2}$$
 Et comme $y_i = f'(c_i)\cdot  \Delta x_i$ par le [[Théorème des acroissement finis]]
 $$s_n= \sum^n_{i=1}d_i=\sum^n_{i=1}\sqrt{1+f'(c_1)^2}\cdot \Delta x_i$$.
 C'est une somme de Riemann de la fonction $\sqrt{1+f'(c_1)^2}$ qui est continue en $C^1$. Cette fonction est donc [[Integration|integrable]] au sens de Riemann et donc on peut écrire
-$$s(x)= \int^{x}_{x_A}\sqrt{1+f'(x)^2}, x\in[x_A,x_B]$$
+$$s(x)= \int^{x}_{x_A}\sqrt{1+f'(x)^2}dx, x\in[x_A,x_B]$$
 $s'(x)= \sqrt{1+f'(x)^2}$,d'où $ds^2= dx^2+dy^2$
 ## Remarques:
 - Si f est bijective sur l'intervalle, on peut integrer ds par rapport à x ou y

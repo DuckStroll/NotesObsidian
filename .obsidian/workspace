@@ -4,23 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "524e834687846134",
+        "id": "1bcfe7165a2a8b79",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Analyse/Calcul de volume.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
-        "id": "e2bda80f5c93ede0",
+        "id": "90a0c47ce0d592c7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Calcul de volume.md",
+            "file": "Physique/Charge electrique.md",
             "mode": "preview"
           }
         }
@@ -79,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Calcul de volume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "524e834687846134",
+  "active": "1bcfe7165a2a8b79",
   "lastOpenFiles": [
-    "Analyse/Calcul de volume.md",
+    "SCM/Série géometrique.md",
+    "Physique/Potentiel électrique.md",
+    "Physique/Champ électrique.md",
+    "Physique/Charge electrique.md",
+    "Physique/Produit vectoriel.md",
     "Analyse/Calcul de longueur d'arc.md",
     "Analyse/Formules trigonometriques.md",
+    "Analyse/Calcul de volume.md",
     "Algebre/Nombres complexes.md",
-    "Analyse/Factorisation de polynomes.md",
-    "Analyse/Polynomes.md",
-    "Analyse/Primitives.md",
-    "SCM/Nombres Entiers.md",
-    "SCM/Nombres irrationnels.md",
-    "SCM/Relation d'équivalence.md"
+    "Analyse/Factorisation de polynomes.md"
   ]
 }
