@@ -5,6 +5,7 @@ Quand $\vec{F^{ext}}  = -k\vec{d}$ Le mouvement de l'objet est un mouvement osci
 au repos, la force d'un ressort est nulle.
 L'oscillateur harmonique entre en jeu car 
 $-kx = m\ddot{x}$ Nous allons ici poser $k/m = w_{0}^{2}$
+Il s'agit d'une [[Equations differentielles]]
 Pour résoudre cette equation, nous avons besoin des valeurs initiales de la position et de la vitesse de l'objet.
 La solution génerale de notre équation s'écrit:
 $$x(t) = x_{0}cos(w_{0}(t-t_{0}))+ \frac{v_{0}}{w_{o}}sin(w_{0}(t-t_{0})$$

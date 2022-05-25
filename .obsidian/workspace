@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "90a0c47ce0d592c7",
+        "id": "f136d6c76e69ff24",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Diagonalisation.md",
+            "file": "Informatique/Methode de résolution d'équations differentielles.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "669f5867ff7cfa20",
+        "id": "c11717c0848de5db",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Diagonalisation.md",
+            "file": "Informatique/Methode de résolution d'équations differentielles.md",
             "mode": "preview"
           }
         }
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.0007801055908,
-    "collapsed": true
+    "width": 296.0007801055908
   },
   "right": {
     "id": "626fa690841bc31d",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Diagonalisation.md",
+                "file": "Informatique/Methode de résolution d'équations differentielles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "90a0c47ce0d592c7",
+  "active": "f136d6c76e69ff24",
   "lastOpenFiles": [
+    "Informatique/Methode de résolution d'équations differentielles.md",
+    "Analyse/Equations differentielles.md",
+    "Informatique/Formule de quadrature non composite.md",
+    "Informatique/Methodes Numeriques de Calcul Integral.md",
+    "Physique/Oscillateur harmonique.md",
+    "Informatique/Erreur.md",
+    "Informatique/Interpolation de Lagrange.md",
     "Algebre/Diagonalisation.md",
     "Algebre/Multiplicité géometrique.md",
-    "Analyse/Analyse de fonction.md",
-    "Analyse/Calcul de longueur d'arc.md",
-    "Physique/Potentiel électrique.md",
-    "Physique/Charge electrique.md",
-    "Physique/Champ électrique.md",
-    "SCM/Série géometrique.md",
-    "Physique/Produit vectoriel.md",
-    "Analyse/Formules trigonometriques.md"
+    "Analyse/Analyse de fonction.md"
   ]
 }
