@@ -4,20 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1bcfe7165a2a8b79",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
         "id": "90a0c47ce0d592c7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physique/Charge electrique.md",
+            "file": "Algebre/Diagonalisation.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "669f5867ff7cfa20",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algebre/Diagonalisation.md",
             "mode": "preview"
           }
         }
@@ -76,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algebre/Diagonalisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1bcfe7165a2a8b79",
+  "active": "90a0c47ce0d592c7",
   "lastOpenFiles": [
-    "SCM/Série géometrique.md",
-    "Physique/Potentiel électrique.md",
-    "Physique/Champ électrique.md",
-    "Physique/Charge electrique.md",
-    "Physique/Produit vectoriel.md",
+    "Algebre/Diagonalisation.md",
+    "Algebre/Multiplicité géometrique.md",
+    "Analyse/Analyse de fonction.md",
     "Analyse/Calcul de longueur d'arc.md",
-    "Analyse/Formules trigonometriques.md",
-    "Analyse/Calcul de volume.md",
-    "Algebre/Nombres complexes.md",
-    "Analyse/Factorisation de polynomes.md"
+    "Physique/Potentiel électrique.md",
+    "Physique/Charge electrique.md",
+    "Physique/Champ électrique.md",
+    "SCM/Série géometrique.md",
+    "Physique/Produit vectoriel.md",
+    "Analyse/Formules trigonometriques.md"
   ]
 }
