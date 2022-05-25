@@ -41,13 +41,26 @@ $u,v,w$ valeurs propres
 $B=(u,v,w)$ forme une base propre
 ####Preuve
 Il suffit de montrer que c'est une base de $\mathbb{R}^3$
-## Géneral
+## Résumé
 Une matrice est diagonalisable si
 $\sum d_n=dim(f)$.
 Si cette condition est satisfaite, on trouve ensuite une base propre en cherchant les valeurs du $Ker$ pour les differentes [[Multiplicité géometrique]].
 On cherche finalement $f(B)$ pour les bases trouvées ainsi.
+# Diagonalisation par bloc
+Prenons $n=3$
 
-
+Imaginons que l'on sache produire:
+un plan vectoriel V stable par $f$, un vecteur propre de f, $w\notin V$
+pour tout $B = \underbrace{u,v}_{\text{base de v}},\underbrace{w}_{\text{vecteur propre}}$
+On a alors $[f]_B= \begin{pmatrix}
+\alpha & \gamma & 0 \\
+\beta & \delta &  0\\
+ 0& 0 & w
+\end{pmatrix}$
+$f(u)=\alpha u+\beta v$
+$f(v)= \gamma u + \delta v$
+$f(w)=wv$
+On dit qu'on a diagonalisé f par blocs
 # Exemples
 $A =\begin{pmatrix}
 cos(\Theta) & -sin(\Theta) \\
@@ -73,4 +86,15 @@ $A-I_3=\begin{pmatrix}
 0 & 1 & 1 \\
 0 & 1 & 1 \\
 0 & 0 & 2
-\end{pmatrix}$
+\end{pmatrix}\to Ker(f-id)=vect((1,0,0))$
+$A-2I_3=\begin{pmatrix}
+-1 & 1 & 1 \\
+0 & 0 & 1 \\
+0 & 0 & 0
+\end{pmatrix}\to ker(f-2id)=Vect(1,1,0)$
+$A-3I_3=\begin{pmatrix}
+-2 & 1 & 1 \\
+0 & -1 & 1 \\
+0 & 0 & 0
+\end{pmatrix}\to ker(f-3id)= Vect(1,1,1)$
+$B=(1,0,0),(1,1,0),(1,1,1)$
