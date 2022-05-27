@@ -1,3 +1,4 @@
+#man #scm
 # $\mathbb{N}$
 Appelons $\mathbb{N}$ l'ens emble des nombres entiers
 # Définition des nombres négatifs

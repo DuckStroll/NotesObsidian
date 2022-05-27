@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f136d6c76e69ff24",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Informatique/Methode de résolution d'équations differentielles.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "c11717c0848de5db",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatique/Methode de résolution d'équations differentielles.md",
+            "file": "Informatique/Degré d'un polynome.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "34e56f658b969cc2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algebre/Ideal.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:po",
+                "query": "degré",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Methode de résolution d'équations differentielles.md",
+                "file": "Informatique/Degré d'un polynome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f136d6c76e69ff24",
+  "active": "c11717c0848de5db",
   "lastOpenFiles": [
+    "Informatique/Degré d'un polynome.md",
+    "Algebre/Ideal.md",
+    "Analyse/PGDC.md",
+    "Analyse/Factorisation de polynomes.md",
     "Informatique/Methode de résolution d'équations differentielles.md",
+    "SCM/Nombres Entiers.md",
     "Analyse/Equations differentielles.md",
     "Informatique/Formule de quadrature non composite.md",
     "Informatique/Methodes Numeriques de Calcul Integral.md",
-    "Physique/Oscillateur harmonique.md",
-    "Informatique/Erreur.md",
-    "Informatique/Interpolation de Lagrange.md",
-    "Algebre/Diagonalisation.md",
-    "Algebre/Multiplicité géometrique.md",
-    "Analyse/Analyse de fonction.md"
+    "Physique/Oscillateur harmonique.md"
   ]
 }
