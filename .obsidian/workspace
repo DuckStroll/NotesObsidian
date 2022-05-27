@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatique/Degré d'un polynome.md",
+            "file": "Algebre/Ideal.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Degré d'un polynome.md",
+                "file": "Algebre/Ideal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +109,8 @@
   },
   "active": "c11717c0848de5db",
   "lastOpenFiles": [
-    "Informatique/Degré d'un polynome.md",
     "Algebre/Ideal.md",
+    "Informatique/Degré d'un polynome.md",
     "Analyse/PGDC.md",
     "Analyse/Factorisation de polynomes.md",
     "Informatique/Methode de résolution d'équations differentielles.md",

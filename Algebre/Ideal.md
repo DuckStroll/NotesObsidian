@@ -21,6 +21,9 @@ Tout Ideal pour les [[Polynomes]] posèdent un Ideal
 Un ideal $I$ de $\mathbb{K}$ est premier si 
 $$\forall a,b \in \mathbb{K}, ab\in I \Rightarrow a \in I \ ou \ b \in I$$
 Si un idéal est premier, son générateur est irreductible
+Un ideal premier est maximal.
+## Ideal Maximal
+Un Ideal $I$ est maximal si les seuls idéaux qui contiennent $I$ sont $I$ et $\mathbb{R}$
 # Exemple
 1) $I = \lbrace X P(x)|P(x) \in \mathbb{K}[x]\rbrace$
 2) $N = \lbrace(1+x^2)A(x)|\ A(x) \in \mathbb{R}[x]$.
