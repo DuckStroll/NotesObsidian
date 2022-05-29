@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c11717c0848de5db",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SCM/Nombres irrationnels.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "ea49142a03f130b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SCM/Nombres irrationnels.md",
+            "file": "Algebre/Multiplicité géometrique.md",
             "mode": "preview"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCM/Nombres irrationnels.md",
+                "file": "Algebre/Multiplicité géometrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +97,15 @@
   },
   "active": "ea49142a03f130b2",
   "lastOpenFiles": [
+    "Algebre/Multiplicité géometrique.md",
+    "Algebre/Multiplicité algébrique.md",
+    "Algebre/Diagonalisation.md",
     "SCM/Nombres irrationnels.md",
     "Algebre/Ideal.md",
     "Informatique/Degré d'un polynome.md",
     "Analyse/PGDC.md",
     "Analyse/Factorisation de polynomes.md",
     "Informatique/Methode de résolution d'équations differentielles.md",
-    "SCM/Nombres Entiers.md",
-    "Analyse/Equations differentielles.md",
-    "Informatique/Formule de quadrature non composite.md",
-    "Informatique/Methodes Numeriques de Calcul Integral.md"
+    "SCM/Nombres Entiers.md"
   ]
 }
