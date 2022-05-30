@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Théoreme Fondamental.md",
-            "mode": "source"
+            "file": "Algebre/Nombres complexes.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Théoreme Fondamental.md",
+                "file": "Algebre/Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,11 +97,11 @@
   },
   "active": "4c5a97dccd1c05f0",
   "lastOpenFiles": [
+    "Algebre/Nombres complexes.md",
+    "Analyse/Courbe géometriques.md",
     "Analyse/Théoreme Fondamental.md",
     "Analyse/Polynomes.md",
-    "Analyse/Courbe géometriques.md",
     "Analyse/Analyse de fonction.md",
-    "Algebre/Nombres complexes.md",
     "Analyse/Développements limités.md",
     "Algebre/Multiplicité géometrique.md",
     "Algebre/Multiplicité algébrique.md",

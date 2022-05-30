@@ -11,5 +11,5 @@ On a que $\theta(t)$ est bien définie comme courbe géometriques.
 Or, $$\frac{d}{dt}\frac{exp(\theta(t))}{\gamma(t)}=exp(\theta(t))(\frac{\gamma(t)\frac{\dot \gamma(t)}{\gamma(t)}-\dot \gamma}{\gamma^2(t)})=0$$
 $$\Rightarrow\frac{exp(\theta(0))}{\gamma(0)}=1 \Box$$
 ## Definition
-Soit $\gamma:[0,1]\mapsto \mathbb{C}^*$ une  CG t.q. $\gamma(0)= gamma(1)$.On pose l'indice $\nu(\gamma) par$
+Soit $\gamma:[0,1]\mapsto \mathbb{C}^*$ une  CG t.q. $\gamma(0)= \gamma(1)$.On pose l'indice $\nu(\gamma) par$
 $$\nu(\gamma)=\frac{1}{2\pi i}\int^1_0\frac{\dot \gamma}{\gamma}dt\in \mathbb{Z}$$
