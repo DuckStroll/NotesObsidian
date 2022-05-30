@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d89e29b8b55792a5",
+        "id": "4c5a97dccd1c05f0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Polynomes.md",
+            "file": "Analyse/Théoreme Fondamental.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f6f7488b5325113f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Analyse/Courbe géometriques.md",
-            "mode": "preview"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Courbe géometriques.md",
+                "file": "Analyse/Théoreme Fondamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6f7488b5325113f",
+  "active": "4c5a97dccd1c05f0",
   "lastOpenFiles": [
-    "Analyse/Courbe géometriques.md",
+    "Analyse/Théoreme Fondamental.md",
     "Analyse/Polynomes.md",
+    "Analyse/Courbe géometriques.md",
     "Analyse/Analyse de fonction.md",
     "Algebre/Nombres complexes.md",
     "Analyse/Développements limités.md",
     "Algebre/Multiplicité géometrique.md",
     "Algebre/Multiplicité algébrique.md",
     "Algebre/Diagonalisation.md",
-    "SCM/Nombres irrationnels.md",
-    "Algebre/Ideal.md"
+    "SCM/Nombres irrationnels.md"
   ]
 }
