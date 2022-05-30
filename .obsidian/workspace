@@ -4,39 +4,23 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "d89e29b8b55792a5",
-=======
-        "id": "27bbdd73cc390519",
->>>>>>> 152c70365b980986c2e17c7a971f869ce6bca869
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Analyse/Courbe géometriques.md",
-=======
-            "file": "Algebre/Symetries.md",
->>>>>>> 152c70365b980986c2e17c7a971f869ce6bca869
+            "file": "Analyse/Polynomes.md",
             "mode": "source"
           }
         }
       },
       {
-<<<<<<< HEAD
         "id": "f6f7488b5325113f",
-=======
-        "id": "c1eceb7ce7f61a66",
->>>>>>> 152c70365b980986c2e17c7a971f869ce6bca869
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Analyse/Courbe géometriques.md",
-=======
-            "file": "Algebre/Symetries.md",
->>>>>>> 152c70365b980986c2e17c7a971f869ce6bca869
+            "file": "Analyse/Polynomes.md",
             "mode": "preview"
           }
         }
@@ -66,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:po",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.0007801055908
   },
   "right": {
     "id": "626fa690841bc31d",
@@ -95,11 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Analyse/Courbe géometriques.md",
-=======
-                "file": "Algebre/Symetries.md",
->>>>>>> 152c70365b980986c2e17c7a971f869ce6bca869
+                "file": "Analyse/Polynomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,32 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "f6f7488b5325113f",
+  "active": "d89e29b8b55792a5",
   "lastOpenFiles": [
+    "Analyse/Polynomes.md",
     "Analyse/Courbe géometriques.md",
     "Analyse/Analyse de fonction.md",
     "Algebre/Nombres complexes.md",
-    "Analyse/Polynomes.md",
     "Analyse/Développements limités.md",
     "Algebre/Multiplicité géometrique.md",
     "Algebre/Multiplicité algébrique.md",
     "Algebre/Diagonalisation.md",
     "SCM/Nombres irrationnels.md",
     "Algebre/Ideal.md"
-=======
-  "active": "27bbdd73cc390519",
-  "lastOpenFiles": [
-    "Algebre/Symetries.md",
-    "Algebre/Polynome characteristique.md",
-    "Analyse/Integration.md",
-    "Algebre/Ideal.md",
-    "Algebre/Nombres complexes.md",
-    "Analyse/Arcs paramétrés dans le plan.md",
-    "README.md",
-    "Images/AireIntegrale.PNG",
-    "Home.md",
-    "Algebre/Home.md"
->>>>>>> 152c70365b980986c2e17c7a971f869ce6bca869
   ]
 }
