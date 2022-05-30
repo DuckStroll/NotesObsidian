@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Théoreme Fondamental de l'algebre.md",
-            "mode": "preview"
+            "file": "Analyse/Polynomes.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Théoreme Fondamental de l'algebre.md",
+                "file": "Analyse/Polynomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +97,10 @@
   },
   "active": "4c5a97dccd1c05f0",
   "lastOpenFiles": [
+    "Analyse/Polynomes.md",
     "Algebre/Théoreme Fondamental de l'algebre.md",
     "Algebre/Nombres complexes.md",
     "Analyse/Courbe géometriques.md",
-    "Analyse/Polynomes.md",
     "Analyse/Analyse de fonction.md",
     "Analyse/Développements limités.md",
     "Algebre/Multiplicité géometrique.md",
