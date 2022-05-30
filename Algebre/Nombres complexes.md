@@ -30,9 +30,18 @@ SI $z = z',Im(x)= Im(z')$ et $Re(z)=Re(z')$
 ## Racines
 $z\in \mathbb{C}, z^n =z\cdot z\cdot z...$
 Un compleze $z$ est appelé la racine n-ième de w si $z^n=w$
+### Par la forme exponentielle
+Pour $w = \rho e ^{i\theta}$, sa racine $n$-ième vaut:
+$$\rho^{1/n}e^{i(\frac{\theta+2k\pi}{n})}$$
 ### Racine carrée
 $$z^2 = w = ai+b$$
 $$\alpha^2-\beta^2=a$$
 $$2\alpha\beta=b$$
-##
-$i^k= cos(\frac{k\pi}{2})+ i\sin(\frac{k\pi}{2})$
+## Forme  trigonometrique
+On peut exprimer z comme une somme de [[Formules trigonometriques]]
+$z = arg(z)[cos(\alpha)+i\sin(\alpha)]$
+où $arg(z)$ = $\sqrt{\Re(z)^2+\Im(z)^2}$ et
+$cos(\alpha)=\frac{\Re(z)}{|z|}$ et $sin(\alpha)= \frac{\Im(z)}{|z|}$
+### Théorème
+$z^k= cos(k\pi)+ i\sin(k\pi)$
+## Forme exponentielle

@@ -14,6 +14,16 @@ Mais, P =MD+R avec deg(R) < deg(P)(Voir [[Polynomes]])->$P-MD=R\in I$. Par minim
 Soient $P,Q \in \mathbb{K}[x]$
 Posons $M_{P,Q}:=\lbrace AP+ BQ|A,B \in \mathbb{K}[x]\rbrace$
 Par le theorème précédent, $\exists D\in \mathbb{K}[x]$ t.q $M_{P,Q}= D\mathbb{K}[x]$. Puisque $P,Q \in M_{P,Q}$, on voit donc que D est un diviseur commun à P et Q. Reciproquement, si M divise P et Q, alors M divise tout élément $M_{P,Q}$. Donc M divise D On vient de  montrer que D est le [[PGCD]].
+## Generateur d'un Ideal
+Si $I = D \mathbb{K}$, $D$ est le génerateur.
+Tout Ideal pour les [[Polynomes]] posèdent un Ideal
+## Ideal premier
+Un ideal $I$ de $\mathbb{K}$ est premier si 
+$$\forall a,b \in \mathbb{K}, ab\in I \Rightarrow a \in I \ ou \ b \in I$$
+Si un idéal est premier, son générateur est irreductible
+Un ideal premier est maximal.
+## Ideal Maximal
+Un Ideal $I$ est maximal si les seuls idéaux qui contiennent $I$ sont $I$ et $\mathbb{R}$
 # Exemple
 1) $I = \lbrace X P(x)|P(x) \in \mathbb{K}[x]\rbrace$
 2) $N = \lbrace(1+x^2)A(x)|\ A(x) \in \mathbb{R}[x]$.

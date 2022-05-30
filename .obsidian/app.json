@@ -4,5 +4,8 @@
   "autoPairMarkdown": false,
   "promptDelete": false,
   "newLinkFormat": "shortest",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "Exemple"
+  ]
 }

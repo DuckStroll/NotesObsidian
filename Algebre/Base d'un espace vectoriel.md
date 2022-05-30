@@ -50,7 +50,8 @@ On affiche les vecteurs en base $B$ en lignes et les vecteurs en base $B'$ en co
 ## [[Application Linéaire]] dans d'autres bases
 Prenons une application linéaires $\mathbb{R}^n \to \mathbb{R}^p$.
 $[f(v)]_B = A[v]_B$
-$[f(v)]_B=[f(v)]_{B \leftarrow Bcan(\mathbb{R}^n)}$
+$[f(v)]_B=[f(v)]_{B,B}= P^{-1}AP$
+Alternativement , on peut calculer $f(b_1)$ et tenter de l'exprimer comme combinaison linéaire des bases
 # Ex
 ## Base canonique
 $e_1 = \{1,0,0\} \ e_2 = \{0,1,0\} \ e_3 = \{0,0,1\}$

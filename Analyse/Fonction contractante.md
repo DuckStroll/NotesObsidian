@@ -1,4 +1,4 @@
-#man #scm #fonction
+#man #scm #fonction #analyse
 Une fonction est dite contractante ssi $\exists \leq \lambda < 1$ tel que $\forall x,y \in def(g) |g(x)-g(y)|\leq \lambda|x-y|$
 $\lambda$ est appelé la constante de Lipschitz.
 #### Proposition: 
