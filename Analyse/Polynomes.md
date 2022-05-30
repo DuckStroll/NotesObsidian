@@ -61,7 +61,13 @@ $1 =A_1F_1+...+A_nF_n$
 et donc $P=A'_1F_1+...+A'_nF_n$ où $A'_k = PA_k$(on multiplie juste par P)
 Après division __avec reste__, on a $A'_k=M_kP_k+B'_k$ et $\deg(B_k)<\deg(P_k)$ et on a 
 $P =B_1F_1+...+B_nF_n+(M_1+...+M_n)P_1\cdot P_2\cdot ...\cdot P_n$
-Par comparaison des degrés, on a $M_1+M_2+...+M_n= 0$
+Par comparaison des degrés, on a $M_1+M_2+...+M_n= 0$.
 Montrons _l'unicité_; si $A_1F_1+...+A_nF_n=P=A'F_1+...A'F_n$ avec $\deg(A'_k),deg(A_k)<deg(P_k)$.
 Alors $(A_1-A'_1)F_1=(A'_2-A_2)+...+(A'_n-A_n)$ Mais $P_1$ divise le terme de droite, donc divise $(A_1-A'_1)F_1$ et, par Gauss, $P_1$ divise $A_1-A_1'$, et donc $deg(A_1-A'_1)<deg(P_1)$ on a $A_1-A'_1=0$.
 Donc $\forall K =1,...,n, A_k=A'k$
+
+# Théorème fondamental de l'algèbre
+Tout P $\in\mathbb{C}[X]$ avec $deg(P) \geq 1$ possède au moins une racine.
+Idée de la preuve:
+On considère $z\mapsto P(z)=a_nz^n+...+a_iz+a_0$
+Quand $z=0, P(z)=a_0$. Si on prends tous les z tel que $|z|=c$, on voit un cercle autour de a_0 se former. Quand on augemente c, la zone qui "entoure " $a_0$ augmente. Au bout d'un moment, elle va englober l'origine 0.

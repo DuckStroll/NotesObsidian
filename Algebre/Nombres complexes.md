@@ -45,3 +45,7 @@ $cos(\alpha)=\frac{\Re(z)}{|z|}$ et $sin(\alpha)= \frac{\Im(z)}{|z|}$
 ### Théorème
 $z^k= cos(k\pi)+ i\sin(k\pi)$
 ## Forme exponentielle
+En utilisant les [[Développements limités]],$$exp(x)=\sum \frac{x^n}{n!}\ \forall x \in \mathbb{R}$$
+Si on étend ça aux nombres complexes,
+$$exp(iy)=\sum \frac{iy^n}{n!}=cos(y)+isin(y)\ \forall y \in \mathbb{R}$$
+Finalement , on utillise $exp(x+iy)= exp(x)exp(iy)$

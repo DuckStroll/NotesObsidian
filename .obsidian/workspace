@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ea49142a03f130b2",
+        "id": "d89e29b8b55792a5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Multiplicité géometrique.md",
-            "mode": "preview"
+            "file": "Analyse/Courbe géometriques.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "8f0731ccd29f500d",
+        "id": "f6f7488b5325113f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Multiplicité géometrique.md",
+            "file": "Analyse/Courbe géometriques.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Multiplicité géometrique.md",
+                "file": "Analyse/Courbe géometriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8f0731ccd29f500d",
+  "active": "f6f7488b5325113f",
   "lastOpenFiles": [
+    "Analyse/Courbe géometriques.md",
+    "Analyse/Analyse de fonction.md",
+    "Algebre/Nombres complexes.md",
+    "Analyse/Polynomes.md",
+    "Analyse/Développements limités.md",
     "Algebre/Multiplicité géometrique.md",
     "Algebre/Multiplicité algébrique.md",
     "Algebre/Diagonalisation.md",
     "SCM/Nombres irrationnels.md",
-    "Algebre/Ideal.md",
-    "Informatique/Degré d'un polynome.md",
-    "Analyse/PGDC.md",
-    "Analyse/Factorisation de polynomes.md",
-    "Informatique/Methode de résolution d'équations differentielles.md",
-    "SCM/Nombres Entiers.md"
+    "Algebre/Ideal.md"
   ]
 }
