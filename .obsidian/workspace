@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Polynomes.md",
+            "file": "Analyse/Courbe géometriques.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Polynomes.md",
+                "file": "Analyse/Courbe géometriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,10 +106,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d89e29b8b55792a5",
+  "active": "f6f7488b5325113f",
   "lastOpenFiles": [
-    "Analyse/Polynomes.md",
     "Analyse/Courbe géometriques.md",
+    "Analyse/Polynomes.md",
     "Analyse/Analyse de fonction.md",
     "Algebre/Nombres complexes.md",
     "Analyse/Développements limités.md",
