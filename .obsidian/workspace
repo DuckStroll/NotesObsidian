@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "20ea3213d56a4bba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Analyse/Polynomes.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -87,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,14 +108,14 @@
   "active": "4c5a97dccd1c05f0",
   "lastOpenFiles": [
     "Analyse/Polynomes.md",
+    "Analyse/Factorisation de polynomes.md",
+    "Analyse/Equations et Inequations.md",
+    "Transformations dans le plan complexe.md",
+    "Analyse/Untitled.md",
+    "Analyse/Primitives.md",
+    "Analyse/Théorème de Bolzano.md",
     "Algebre/Théoreme Fondamental de l'algebre.md",
     "Algebre/Nombres complexes.md",
-    "Analyse/Courbe géometriques.md",
-    "Analyse/Analyse de fonction.md",
-    "Analyse/Développements limités.md",
-    "Algebre/Multiplicité géometrique.md",
-    "Algebre/Multiplicité algébrique.md",
-    "Algebre/Diagonalisation.md",
-    "SCM/Nombres irrationnels.md"
+    "Analyse/Courbe géometriques.md"
   ]
 }
