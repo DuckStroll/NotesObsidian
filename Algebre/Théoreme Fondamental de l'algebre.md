@@ -1,3 +1,4 @@
+#algebre #scm
 # Définition
 Tout P $\in\mathbb{C}[X]$ avec $deg(P) \geq 1$ possède au moins une racine.
 Idée de la preuve:
