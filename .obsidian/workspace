@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physique/Condensateur.md",
+            "file": "Algebre/Réduction d'application linéaire.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a017f4e03e8c9c1e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algebre/Réduction d'application linéaire.md",
             "mode": "preview"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Condensateur.md",
+                "file": "Algebre/Réduction d'application linéaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +107,8 @@
   },
   "active": "52784231ce7d886e",
   "lastOpenFiles": [
+    "Algebre/Réduction d'application linéaire.md",
+    "Algebre/Application Linéaire.md",
     "Physique/Condensateur.md",
     "Physique/Potentiel électrique.md",
     "Physique/Energie.md",
@@ -103,8 +116,6 @@
     "Physique/Conducteur.md",
     "Physique/Resonnance.md",
     "Analyse/Equations differentielles.md",
-    "Physique/Oscillateur harmonique.md",
-    "Analyse/Untitled 1.md",
-    "Analyse/asymptote.md"
+    "Physique/Oscillateur harmonique.md"
   ]
 }
