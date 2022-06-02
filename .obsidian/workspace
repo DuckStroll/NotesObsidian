@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Algebre/Matrice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,10 +117,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f852c99836eeef2b",
+  "active": "27bbdd73cc390519",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Algebre/Matrice.md",
+    "conflict-files-obsidian-git.md",
     "Analyse/Formules trigonometriques.md",
     "Algebre/Ideal.md",
     "Algebre/Symetries.md",

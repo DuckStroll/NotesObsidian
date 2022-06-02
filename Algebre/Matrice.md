@@ -29,7 +29,7 @@ B = \begin{bmatrix}
     \vdots & \ddots & \vdots\\
     b_{p1} & \dots  & b_{pm} 
     \end{bmatrix}$
-	Le produit matriciel de ces deux matrices sera une matrice $M_{n\times p}\times M_{p\times m} =M_{n\times m}$
+Le produit matriciel de ces deux matrices sera une matrice $M_{n\times p}\times M_{p\times m} =M_{n\times m}$
 	Avec comme valeurs pour ses coefficients:
 	$C = \begin{bmatrix} 
     \sum_{i=0}^{k}a_{1,i}b_{i,1} & \dots  &  \sum_{i=0}^{k}a_{1,i}b_{i,m} \\
@@ -70,4 +70,4 @@ La matrice inverse est définie par $A^{-1} =\frac{1}{det(A)}^{t}cot(a)$
 #### Inversion de matrice $2\times2$
 $A^{-1}=\frac{1}{det(A)}\begin{pmatrix} d &-b \\ -c &a \end{pmatrix}$
 #### Première methode d'inversion:
-prenons notre matrice $\begin{pmatrix} a &b &c \\ d &e &f \\ g &e &f \end{pmatrix}$ on peut l'augmenter par une matrice canonique: $\begin{pmatrix} a &b &c &1 &0 &0\\ d &e &f &0 &1 &0\\ g &h &i & 0 &0 &1\end{pmatrix}$ On peut maintenant triangulariser la matrice afin de retrouver une matrice avec la forme:$\begin{pmatrix} 1 &0 &0 &a &b &c\\ 0 &1 &0 &d &e &f\\ 0 &0 &1 & g &h &i\end{pmatrix}$
+prenons notre matrice $\begin{pmatrix} a &b &c \newline d &e &f \newline g &e &f \end{pmatrix}$ on peut l'augmenter par une matrice canonique: $\begin{pmatrix} a &b &c &1 &0 &0\newline d &e &f &0 &1 &0\newline g &h &i & 0 &0 &1\end{pmatrix}$ On peut maintenant triangulariser la matrice afin de retrouver une matrice avec la forme:$\begin{pmatrix} 1 &0 &0 &a &b &c\newline 0 &1 &0 &d &e &f\newline 0 &0 &1 & g &h &i\end{pmatrix}$
