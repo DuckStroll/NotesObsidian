@@ -35,3 +35,4 @@ HOME_GRAPH = "y"
 PAGE_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
+STRICT_LINE_BREAKS = ""
