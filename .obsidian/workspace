@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Symetries.md",
+            "file": "Algebre/Matrice.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Symetries.md",
+            "file": "Algebre/Matrice.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Symetries.md",
+                "file": "Algebre/Matrice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "27bbdd73cc390519",
   "lastOpenFiles": [
+    "Algebre/Matrice.md",
+    "Analyse/Formules trigonometriques.md",
+    "Algebre/Ideal.md",
     "Algebre/Symetries.md",
+    "Informatique/Partition.md",
+    "Informatique/Interpolation de Lagrange.md",
+    "Algebre/Elements Propres d'une application linéaire.md",
     "Algebre/Polynome characteristique.md",
     "Analyse/Integration.md",
-    "Algebre/Ideal.md",
-    "Algebre/Nombres complexes.md",
-    "Analyse/Arcs paramétrés dans le plan.md",
-    "README.md",
-    "Images/AireIntegrale.PNG",
-    "Home.md",
-    "Algebre/Home.md"
+    "Algebre/Nombres complexes.md"
   ]
 }

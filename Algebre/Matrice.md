@@ -11,10 +11,10 @@ Fondamentalement, une matrice est tableau qui contient des choses. En mathémati
 Dans le cadre du cours d'algebre, les matrices sont des tableaux en 2 dimensions notés $n*p$ $n$ le nombre de lignes et $p$ le nombre de colonnes . Les matrices sont utiles car elle peuvent être utilisées pour representer un [[Systeme d'équations linéaires]]
 ## Operations sur les matrices
 On peut effectuer plusieurs opérations sur les matrices.
-L'addition: $\begin{pmatrix} a &b \\ c &d \end{pmatrix} +\begin{pmatrix} e &f \\ g &h \end{pmatrix}= \begin{pmatrix} a+e &b+f \\ c+g &d+h \end{pmatrix}$
-La soustraction:$\begin{pmatrix} a &b \\ c &d \end{pmatrix} -\begin{pmatrix} e &f \\ g &h \end{pmatrix}= \begin{pmatrix} a-e &b-f \\ c-g &d-h \end{pmatrix}$.
+L'addition: $\begin{pmatrix} a &b \newline c &d \end{pmatrix} +\begin{pmatrix} e &f \newline g &h \end{pmatrix}= \begin{pmatrix} a+e &b+f \newline c+g &d+h \end{pmatrix}$
+La soustraction:$\begin{pmatrix} a &b \newline c &d \end{pmatrix} -\begin{pmatrix} e &f \newline g &h \end{pmatrix}= \begin{pmatrix} a-e &b-f \newline c-g &d-h \end{pmatrix}$.
 On peut multiplier la matrice par un scalaire:
-$$\alpha \begin{pmatrix} a &b \\ c &d \end{pmatrix} =\begin{pmatrix} \alpha a &\alpha b \\ \alpha c  &\alpha d \end{pmatrix}$$
+$$\alpha \begin{pmatrix} a &b \newline c &d \end{pmatrix} =\begin{pmatrix} \alpha a &\alpha b \newline \alpha c  &\alpha d \end{pmatrix}$$
 Une matrice possède un [[Determinant]], qui possède des propriétés utiles pour notre matrice.
 ### Multiplication de matrices:
 prenons deux matrice
@@ -43,9 +43,9 @@ $A(BC)=(AB)C$
 ## Decomposition vecteurs colonnes-lignes
 On peut décomposer une matrice en une somme de vecteurs lignes multipliés par des vecteurs colonnes:
  $A = \sum\begin{bmatrix}
- x_{1} \\
- x_{2} \\
- \vdots \\
+ x_{1} \newline
+ x_{2} \newline
+ \vdots \newline
  x_{m}
  \end{bmatrix}
  \begin{bmatrix}
