@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< Updated upstream
     "id": "bc2fcf33f06f9b8a",
     "type": "split",
     "children": [
@@ -12,6 +13,17 @@
             "file": "Algebre/Matrice.md",
             "mode": "source"
           }
+=======
+    "id": "37d1d1bff886c989",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f0c370b19242a38",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+>>>>>>> Stashed changes
         }
       },
       {
@@ -40,6 +52,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< Updated upstream
     "id": "8c79f65595d09a5a",
     "type": "split",
     "children": [
@@ -49,6 +62,17 @@
         "children": [
           {
             "id": "84aba1418e1e9f17",
+=======
+    "id": "75214ab89c60a201",
+    "type": "split",
+    "children": [
+      {
+        "id": "61fc5a14ac7440bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1fe3c6f20b81c20",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,13 +80,22 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "18b0caa7ed15c1a1",
+=======
+            "id": "9974c41bfcc81f6e",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< Updated upstream
                 "query": "path:po",
                 "matchingCase": true,
+=======
+                "query": "développement",
+                "matchingCase": false,
+>>>>>>> Stashed changes
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,13 +103,15 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
+<<<<<<< Updated upstream
     "id": "626fa690841bc31d",
     "type": "split",
     "children": [
@@ -86,11 +121,25 @@
         "children": [
           {
             "id": "d8eaa35fae5279f8",
+=======
+    "id": "6469d2e96b5a72e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee48fe75fd02eaf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afcecd08fd498122",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Algebre/Matrice.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +166,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< Updated upstream
   "active": "27bbdd73cc390519",
   "lastOpenFiles": [
     "Algebre/Matrice.md",
@@ -130,4 +180,8 @@
     "Algebre/Polynome characteristique.md",
     "Analyse/Integration.md"
   ]
+=======
+  "active": "9f0c370b19242a38",
+  "lastOpenFiles": []
+>>>>>>> Stashed changes
 }
