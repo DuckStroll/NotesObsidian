@@ -46,8 +46,7 @@ Si $AP+BQ=A'P+B'Q=1$ et $\deg(A),deg(A')<deg(Q),\deg(B),deg(B')<deg(P)$, alors $
 Par comparaison des degrés, A-A'=0=B'-B
 $\Box$
 ### Version généralisée
-Soient $P_1,...,P_n\in \mathbb{K}[X]^*$ deux à deux premiers entre eux. Soient encore $P\in \mathbb{K}[X] 
-$ tel que $\deg(P)<\deg(P_+)+...+deg(P_n)$
+Soient $P_1,...,P_n\in \mathbb{K}[X]^*$ deux à deux premiers entre eux. Soient encore $P\in \mathbb{K}[X]$ tel que $\deg(P)<\deg(P_+)+...+deg(P_n)$
 $\exists$ un unique n-tuple $A_1,...,A_n\in \mathbb{K}[X]^n$
 t.q
 $P= A_1F_1+...+A_nF_n,$où $\forall k \in \lbrace 1,...,n\rbrace$
@@ -61,7 +60,26 @@ $1 =A_1F_1+...+A_nF_n$
 et donc $P=A'_1F_1+...+A'_nF_n$ où $A'_k = PA_k$(on multiplie juste par P)
 Après division __avec reste__, on a $A'_k=M_kP_k+B'_k$ et $\deg(B_k)<\deg(P_k)$ et on a 
 $P =B_1F_1+...+B_nF_n+(M_1+...+M_n)P_1\cdot P_2\cdot ...\cdot P_n$
-Par comparaison des degrés, on a $M_1+M_2+...+M_n= 0$
+Par comparaison des degrés, on a $M_1+M_2+...+M_n= 0$.
+
 Montrons _l'unicité_; si $A_1F_1+...+A_nF_n=P=A'F_1+...A'F_n$ avec $\deg(A'_k),deg(A_k)<deg(P_k)$.
 Alors $(A_1-A'_1)F_1=(A'_2-A_2)+...+(A'_n-A_n)$ Mais $P_1$ divise le terme de droite, donc divise $(A_1-A'_1)F_1$ et, par Gauss, $P_1$ divise $A_1-A_1'$, et donc $deg(A_1-A'_1)<deg(P_1)$ on a $A_1-A'_1=0$.
 Donc $\forall K =1,...,n, A_k=A'k$
+# Polynomes complexes
+## Theorème fondamental de l'algèbre
+[[Théoreme Fondamental de l'algebre]]
+Ce théorème montre que tout polynome possède une racine complexe dans $\mathbb{C}$. 
+## Factorisation complexe de polynomes
+[[Nombres complexes]]
+### __Formules de Viet__
+Ecrivons
+$P=a_nz_n+...+a_1z_1+a_0$
+$=a_n(z-z_1)(z-z_2)...(z-z_n)$
+$a_{n+1}=-a_n(z_1+...+z_n)\Leftrightarrow \sum z_n=a_{n+1}/a_n$
+$a_0=a_n(-1)^nz_1\cdot ...\cdot z_n \Leftrightarrow \prod z_n=(-1)^n\frac{a_0}{a_n}$
+### __Factorisation de Polynomes de $\mathbb{R}[x]$__
+#### Lemme:
+Si $P(z^*)=0, P(\bar z	^*)=0$
+#### Thm
+Tout polynome réel peut se factoriser de la forme $a_n\prod(z-z_n)$.
+On peut résoudre cela en prenant d'abord une racine connue et en "tournant" sur le plan complexe.

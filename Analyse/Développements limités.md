@@ -69,3 +69,5 @@ Remarque: Une fonction $f:\mathbb{R} \mapsto \mathbb{R}, def(f) = \mathbb{R}$ et
 
 COmment montrer que $\forall x \in ]0,2[ ln(x)= \underset{n \rightarrow\infty}{\lim}dl^n_{ln,0}$
 $ln(x)=\int_1^x\frac{1}{t}dt= \int^x_1\frac{1}{1-(1-t)}dt=\int_1^x \sum_{n\geq0}(1-t)^n dt=dl^{n+1}_{ln,1}+ \int_1^x \frac{(1-t)^{(n+1)}}{t}dt$
+# Developpement limités communs
+$$exp(x)=\sum \frac{x^n}{n!}\ \forall x \in \mathbb{R}$$

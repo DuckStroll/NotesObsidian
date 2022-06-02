@@ -34,3 +34,10 @@ Il doit exister $P \in E$
  Par unicité de la factorisation, tous les facteurs de D vont se retrouver dans $\lbrace F_n \rbrace \cap \lbrace G_n \rbrace$
  Le [[PGDC]] est donc le produit de $\lbrace F_n \rbrace \cap \lbrace G_n \rbrace$
  et le [[PPMC]] est $\lbrace F_n \rbrace \cup \lbrace G_n \rbrace$
+ # Polynomes complexes
+## Theorème fondamental de l'algèbre
+[[Théoreme Fondamental de l'algebre]]
+Ce théorème montre que tout polynome possède une racine complexe dans $\mathbb{C}$. 
+## Factorisation complexe de polynomes
+[[Nombres complexes]]
+Voir sous [[Polynomes#Polynomes complexes]]
