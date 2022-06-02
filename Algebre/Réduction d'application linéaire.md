@@ -47,3 +47,10 @@ $A^2-2wA+(w^2+\xi^2)I_2=0$
 w & -\xi \\
 \xi & w
 \end{pmatrix}$
+## Résumé
+En gros
+1) Calculer le $x_f$ et le réduire
+2) Ecrire une forme réduite R
+3) Chercher P ou B
+
+# Applications de la réduction
