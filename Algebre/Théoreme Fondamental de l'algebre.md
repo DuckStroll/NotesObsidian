@@ -1,9 +1,11 @@
 #algebre #scm
 # Définition
-Tout P $\in\mathbb{C}[X]$ avec $deg(P) \geq 1$ possède au moins une racine.
-Idée de la preuve:
+Tout  $P\in\mathbb{C}[X]$ avec $deg(P) \geq 1$ possède au moins une racine.
+
+## Idée de la preuve:
 On considère $z\mapsto P(z)=a_nz^n+...+a_iz+a_0$
-Quand $z=0, P(z)=a_0$. Si on prends tous les z tel que $|z|=c$, on voit un cercle autour de a_0 se former. Quand on augemente c, la zone qui "entoure " $a_0$ augmente. Au bout d'un moment, elle va englober l'origine 0.
+Quand $z=0, P(z)=a_0$. Si on prends tous les z tel que $|z|=c$, on voit un cercle autour de a_0 se former. \
+Quand on augmente c, la zone qui "entoure " $a_0$ augmente. Au bout d'un moment, elle va englober l'origine 0.
 
 ## Preuve
 Nous allons donc utiliser les [[Courbe géometriques]] afin de prouver cela.
