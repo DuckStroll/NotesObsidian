@@ -68,7 +68,7 @@ $\boxed{ln(2)=1- \frac{1}{2}+\frac{1}{3}-\frac{1}{4}+\frac{1}{5}}$
 3)$exp(x)$ $\forall n\in \mathbb{N}\  exp^{(n)}(x)= exp(x)$
 $|R^n_{exp,0}|< \frac{1}{n+1}|x|^{n+1}exp(\xi)\longrightarrow0(n\longrightarrow \infty)$
 
-Remarque: Une fonction $f:\mathbb{R} \mapsto \mathbb{R}, def(f) = \mathbb{R}$ et infiniment dérivable pour tout $x,x_o$ est dite entière. L'utilité des fonctions entières sont qu'elles peuvent être étendue au dela des nombres réels. $e^{i\pi}+1=0$ se repose sur cela
+Remarque: Une fonction $f:\mathbb{R} \mapsto \mathbb{R}, def(f) = \mathbb{R}$ et infiniment dérivable pour tout $x,x_o$ est dite entière. L'utilité des fonctions entières sont qu'elles peuvent être étendue au dela des nombres réels. $e^{i\pi}+1=0$ se repose sur cela.\
 > [!WARNING]
 > Il existe des fonctions dérivable à l'infini
 > tel que $\underset{n \rightarrow\infty}{\lim}dl^n_{f,x_0}\neq f(x)$
