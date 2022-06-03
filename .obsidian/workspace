@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Equations differentielles.md",
+            "file": "Algebre/Nombres complexes.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Equations differentielles.md",
+            "file": "Algebre/Nombres complexes.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diff",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Equations differentielles.md",
+                "file": "Algebre/Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +107,7 @@
   },
   "active": "eb43f4ac7490067e",
   "lastOpenFiles": [
+    "Algebre/Nombres complexes.md",
     "Analyse/Equations differentielles.md",
     "Algebre/Diagonalisation.md",
     "conflict-files-obsidian-git.md",
@@ -116,7 +116,6 @@
     "Algebre/Application Linéaire.md",
     "Physique/Condensateur.md",
     "Physique/Potentiel électrique.md",
-    "Physique/Energie.md",
-    "Algebre/Théoreme Fondamental de l'algebre.md"
+    "Physique/Energie.md"
   ]
 }
