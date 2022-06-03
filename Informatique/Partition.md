@@ -1,5 +1,5 @@
 #info #man
-Une partition est une duviosion d'un intervalle $[a,b]$ tel que
+Une partition est une division d'un intervalle $[a,b]$ tel que
 $a=x_0<x_1<x_2<x_3<x_4<...<x_n=b$
 Le __pas d'une partition__ $\sigma$ de [a,b] est le nombre :
 $$h(\sigma)= \underset{0 \leq i\leq n-1}{\max}|x_{i+1}-x_i|$$

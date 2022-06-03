@@ -11,10 +11,10 @@ Fondamentalement, une matrice est tableau qui contient des choses. En mathémati
 Dans le cadre du cours d'algebre, les matrices sont des tableaux en 2 dimensions notés $n*p$ $n$ le nombre de lignes et $p$ le nombre de colonnes . Les matrices sont utiles car elle peuvent être utilisées pour representer un [[Systeme d'équations linéaires]]
 ## Operations sur les matrices
 On peut effectuer plusieurs opérations sur les matrices.
-L'addition: $\begin{pmatrix} a &b \\ c &d \end{pmatrix} +\begin{pmatrix} e &f \\ g &h \end{pmatrix}= \begin{pmatrix} a+e &b+f \\ c+g &d+h \end{pmatrix}$
-La soustraction:$\begin{pmatrix} a &b \\ c &d \end{pmatrix} -\begin{pmatrix} e &f \\ g &h \end{pmatrix}= \begin{pmatrix} a-e &b-f \\ c-g &d-h \end{pmatrix}$.
+L'addition: $\begin{pmatrix} a &b \newline c &d \end{pmatrix} +\begin{pmatrix} e &f \newline g &h \end{pmatrix}= \begin{pmatrix} a+e &b+f \newline c+g &d+h \end{pmatrix}$
+La soustraction:$\begin{pmatrix} a &b \newline c &d \end{pmatrix} -\begin{pmatrix} e &f \newline g &h \end{pmatrix}= \begin{pmatrix} a-e &b-f \newline c-g &d-h \end{pmatrix}$.
 On peut multiplier la matrice par un scalaire:
-$$\alpha \begin{pmatrix} a &b \\ c &d \end{pmatrix} =\begin{pmatrix} \alpha a &\alpha b \\ \alpha c  &\alpha d \end{pmatrix}$$
+$$\alpha \begin{pmatrix} a &b \newline c &d \end{pmatrix} =\begin{pmatrix} \alpha a &\alpha b \newline \alpha c  &\alpha d \end{pmatrix}$$
 Une matrice possède un [[Determinant]], qui possède des propriétés utiles pour notre matrice.
 ### Multiplication de matrices:
 prenons deux matrice
@@ -29,7 +29,7 @@ B = \begin{bmatrix}
     \vdots & \ddots & \vdots\\
     b_{p1} & \dots  & b_{pm} 
     \end{bmatrix}$
-	Le produit matriciel de ces deux matrices sera une matrice $M_{n\times p}\times M_{p\times m} =M_{n\times m}$
+Le produit matriciel de ces deux matrices sera une matrice $M_{n\times p}\times M_{p\times m} =M_{n\times m}$
 	Avec comme valeurs pour ses coefficients:
 	$C = \begin{bmatrix} 
     \sum_{i=0}^{k}a_{1,i}b_{i,1} & \dots  &  \sum_{i=0}^{k}a_{1,i}b_{i,m} \\
@@ -43,9 +43,9 @@ $A(BC)=(AB)C$
 ## Decomposition vecteurs colonnes-lignes
 On peut décomposer une matrice en une somme de vecteurs lignes multipliés par des vecteurs colonnes:
  $A = \sum\begin{bmatrix}
- x_{1} \\
- x_{2} \\
- \vdots \\
+ x_{1} \newline
+ x_{2} \newline
+ \vdots \newline
  x_{m}
  \end{bmatrix}
  \begin{bmatrix}
@@ -70,4 +70,4 @@ La matrice inverse est définie par $A^{-1} =\frac{1}{det(A)}^{t}cot(a)$
 #### Inversion de matrice $2\times2$
 $A^{-1}=\frac{1}{det(A)}\begin{pmatrix} d &-b \\ -c &a \end{pmatrix}$
 #### Première methode d'inversion:
-prenons notre matrice $\begin{pmatrix} a &b &c \\ d &e &f \\ g &e &f \end{pmatrix}$ on peut l'augmenter par une matrice canonique: $\begin{pmatrix} a &b &c &1 &0 &0\\ d &e &f &0 &1 &0\\ g &h &i & 0 &0 &1\end{pmatrix}$ On peut maintenant triangulariser la matrice afin de retrouver une matrice avec la forme:$\begin{pmatrix} 1 &0 &0 &a &b &c\\ 0 &1 &0 &d &e &f\\ 0 &0 &1 & g &h &i\end{pmatrix}$
+prenons notre matrice $\begin{pmatrix} a &b &c \newline d &e &f \newline g &e &f \end{pmatrix}$ on peut l'augmenter par une matrice canonique: $\begin{pmatrix} a &b &c &1 &0 &0\newline d &e &f &0 &1 &0\newline g &h &i & 0 &0 &1\end{pmatrix}$ On peut maintenant triangulariser la matrice afin de retrouver une matrice avec la forme:$\begin{pmatrix} 1 &0 &0 &a &b &c\newline 0 &1 &0 &d &e &f\newline 0 &0 &1 & g &h &i\end{pmatrix}$

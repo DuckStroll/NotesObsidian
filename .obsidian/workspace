@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "da32d0fdbaf5ab85",
+=======
+        "id": "27bbdd73cc390519",
+>>>>>>> d736282767c952dfc6f8411e7e99a2e420c6bf06
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Analyse/Equations differentielles.md",
+=======
+            "file": "Algebre/Matrice.md",
+>>>>>>> d736282767c952dfc6f8411e7e99a2e420c6bf06
             "mode": "source"
           }
         }
       },
       {
+<<<<<<< HEAD
         "id": "a6f891fca812a15b",
+=======
+        "id": "f852c99836eeef2b",
+>>>>>>> d736282767c952dfc6f8411e7e99a2e420c6bf06
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Analyse/Equations differentielles.md",
+=======
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c1eceb7ce7f61a66",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algebre/Matrice.md",
+>>>>>>> d736282767c952dfc6f8411e7e99a2e420c6bf06
             "mode": "preview"
           }
         }
@@ -50,7 +77,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "differ",
+=======
+                "query": "path:po",
+>>>>>>> d736282767c952dfc6f8411e7e99a2e420c6bf06
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +95,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 296.0007801055908,
     "collapsed": true
+=======
+    "width": 300
+>>>>>>> d736282767c952dfc6f8411e7e99a2e420c6bf06
   },
   "right": {
     "id": "626fa690841bc31d",
@@ -81,7 +116,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Analyse/Equations differentielles.md",
+=======
+                "file": "Algebre/Matrice.md",
+>>>>>>> d736282767c952dfc6f8411e7e99a2e420c6bf06
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,13 +139,15 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "da32d0fdbaf5ab85",
   "lastOpenFiles": [
     "Analyse/Equations differentielles.md",
@@ -119,5 +160,19 @@
     "Algebre/Théoreme Fondamental de l'algebre.md",
     "Physique/Conducteur.md",
     "Physique/Resonnance.md"
+=======
+  "active": "27bbdd73cc390519",
+  "lastOpenFiles": [
+    "Algebre/Matrice.md",
+    "conflict-files-obsidian-git.md",
+    "Analyse/Formules trigonometriques.md",
+    "Algebre/Ideal.md",
+    "Algebre/Symetries.md",
+    "Informatique/Partition.md",
+    "Informatique/Interpolation de Lagrange.md",
+    "Algebre/Elements Propres d'une application linéaire.md",
+    "Algebre/Polynome characteristique.md",
+    "Analyse/Integration.md"
+>>>>>>> d736282767c952dfc6f8411e7e99a2e420c6bf06
   ]
 }
