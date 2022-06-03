@@ -15,16 +15,16 @@ le sous-espace propre associé. Cherchons à diagonaliser f, en discutant selon 
 $$x_f(x)=x^2-tr(A)x+det(A)$$
 $\Delta = (Tr(A))^2-4\cdot det(A)$. Si $\Delta < 0$, on voit bien qu'il n'y a pas de diagonalisation possible.
 SI $\Delta=0,d_w$ forme une droite et il y a une seule diagonalisation.
-Si $\Delta>0$, $d_w=2$ et l'ensemble des valeurs propres forment un plan.
-$f$ est diagonalissable seulement dans le cas ou un plan est formé, car on peut construire une base propre pour tout $v$.
+Si $\Delta>0$, $d_w=2$ et l'ensemble des valeurs propres forment un plan.\
+$f$ est diagonalisable seulement dans le cas ou un plan est formé, car on peut construire une base propre pour tout $v$.\
 On a alors $f = wid_{\mathbb{R}^n}$
-Si $x_f=(x-w)(x-\xi)$
+Si $x_f=(x-w)(x-\xi)$\
 Les deux sous espaces propres sont des droites.
-avec ces deux droites, on peut construire une base de $\mathbb{R}^2$
+Avec ces deux droites, on peut construire une base de $\mathbb{R}^2$.
 ## $n= 3$
 - $1$ Valeur propre
 
-$x_f(x)=(w-x)^3 ou (w-x)(x^2+...)$
+$x_f(x)=(w-x)^3 ou (w-x)(x^2+...)$\
 On peut pdiagonaliser la matrice que si $d_w = 3$ (si il n'y a qu'une valeur propre), car cela couvre tout l'espace vectoriel et on peut donc créer une base.
 $f = wid_3$
 - Deux valeurs propres:
@@ -48,24 +48,23 @@ Si cette condition est satisfaite, on trouve ensuite une base propre en cherchan
 On cherche finalement $f(B)$ pour les bases trouvées ainsi.
 # Diagonalisation par bloc
 Prenons $n=3$
-
-Imaginons que l'on sache produire:
+Imaginons que l'on sache produire:\
 un plan vectoriel V stable par $f$, un vecteur propre de f, $w\notin V$
-pour tout $B = \underbrace{u,v}_{\text{base de v}},\underbrace{w}_{\text{vecteur propre}}$
+pour tout $B = \underbrace{u,v}_{\text{base de v}},\underbrace{w}_{\text{vecteur propre}}$.\
 On a alors $[f]_B= \begin{pmatrix}
 \alpha & \gamma & 0 \\
 \beta & \delta &  0\\
  0& 0 & w
 \end{pmatrix}$
 $f(u)=\alpha u+\beta v$
-$f(v)= \gamma u + \delta v$
-$f(w)=wv$
-On dit qu'on a diagonalisé f par blocs
+$f(v)= \gamma u + \delta v$\
+$f(w)=wv$\
+On dit qu'on a diagonalisé f par blocs.
 # Exemples
 $A =\begin{pmatrix}
 cos(\Theta) & -sin(\Theta) \\
 sin(\Theta) & cos(\Theta)
-\end{pmatrix}$
+\end{pmatrix}$\
 Le [[Polynome characteristique]] vaut
 $x^2-2cos(\theta)x+1$
 $f$ n'a aucune valeur propre réelle, sauf si $\theta = 0$ ou $\theta= \pi$
