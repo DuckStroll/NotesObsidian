@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Nombres complexes.md",
+            "file": "Algebre/Matrice.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Nombres complexes.md",
+            "file": "Algebre/Matrice.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Nombres complexes.md",
+                "file": "Algebre/Matrice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "eb43f4ac7490067e",
   "lastOpenFiles": [
+    "Algebre/Matrice.md",
     "Algebre/Nombres complexes.md",
     "Analyse/Equations differentielles.md",
     "Algebre/Diagonalisation.md",
@@ -115,7 +116,6 @@
     "Algebre/Réduction d'application linéaire.md",
     "Algebre/Application Linéaire.md",
     "Physique/Condensateur.md",
-    "Physique/Potentiel électrique.md",
-    "Physique/Energie.md"
+    "Physique/Potentiel électrique.md"
   ]
 }

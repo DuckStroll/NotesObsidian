@@ -7,7 +7,7 @@ dg-publish: true
 		min_depth: 1
 ```
 # Propriétés
-Fondamentalement, une matrice est tableau qui contient des choses. En mathématiques, ces choses seront des nombres(en tout cas à ce que je sache). En algebre, on va s'interesser a certaines matrices qui ont des propriétés interessantes.
+Fondamentalement, une matrice est tableau qui contient des choses. En mathématiques, ces choses seront des nombres(en tout cas à ce que je sache). En algebre, on va s'interesser a certaines matrices qui ont des propriétés interessantes.\
 Dans le cadre du cours d'algebre, les matrices sont des tableaux en 2 dimensions notés $n*p$ $n$ le nombre de lignes et $p$ le nombre de colonnes . Les matrices sont utiles car elle peuvent être utilisées pour representer un [[Systeme d'équations linéaires]]
 ## Operations sur les matrices
 On peut effectuer plusieurs opérations sur les matrices.
