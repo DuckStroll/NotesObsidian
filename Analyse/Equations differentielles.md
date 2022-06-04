@@ -29,19 +29,19 @@ Soit $y'(x)+p(x)y(x)=r(x)$.
 On multiplie les 2 membres par un facteur de sorte à transformer le membre de gauche en la dérivée d'un produit.
 $y(x)=e^{-\int p(x)dx}\cdot \int e^{-\int p(x)dx}\cdot r(x)dx$
 #### Thèorème 2
-Soit $I$ Ouvert et $p(x),r(x)$ continue sur $I$. Toute solution s'écrit $y(x)=y_h(x)+y_p(x)$ où $y_h(x)$ est la solution générale de l'équation homogène et $y_p(x)$ est une solution particulière de l'équation homogène.
+Soit $I$ Ouvert et $p(x),r(x)$ continue sur $I$. Toute solution s'écrit $y(x)=y_h(x)+y_p(x)$ où $y_h(x)$ est la solution générale de l'équation homogène et $y_p(x)$ est une solution particulière de l'équation homogène.\
 Si en plus on fixe une condition initiale $(y(x_0))=y_0$, alors la solution obtenue est l'unique solution de l'équation differentielle.
 #### Démonstration
  Soit $v(x)$ une solution quelconque de l'équation inhomogène. Montrons que 
- $z(x))v(x)-y_p(x)$ est solution __unique__ de l'équation inhomogène
-$z'(x)=v'(x)-y'(x)$
-$z'(x)+p(x)z(x)=v'(x)-y'_p(x)+p(x)[v(x-y_p(x))]$
+ $z(x))v(x)-y_p(x)$ est solution __unique__ de l'équation inhomogène:\
+$z'(x)=v'(x)-y'(x)$\
+$z'(x)+p(x)z(x)=v'(x)-y'_p(x)+p(x)[v(x-y_p(x))]$\
 $= v'(x)+p(x)v(x)-y'p(x)\cdot+p(x)\cdot y_p(x)=0$
 # Equations differentielles d'ordre 2
 ## Wronskein
-$w = \begin{vmatrix} y_1 &y_2 \newline y_1' &y_2' \end{vmatrix}$ est le Wronskien
+$w = \begin{vmatrix} y_1 &y_2 \newline y_1' &y_2' \end{vmatrix}$ est le Wronskien pour l'quation d'ordre 2
 ## Equations linéaires homogènes à coeff constants
-$y''(x)-py'(x)+qy(x)=0$
+$y''(x)-py'(x)+qy(x)=0$\
 On cherceh une solution du type $y=e^{ \lambda x}$.
 donc $y''=\lambda^2 e^{ \lambda x}$.\
 $\lambda^2 e^{ \lambda x}-p\lambda e^{ \lambda x}+qe^{ \lambda x}=0$
