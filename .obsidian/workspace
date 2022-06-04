@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physique/Condensateur.md",
+            "file": "Analyse/Equations differentielles.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "50541562b33af034",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Analyse/Equations differentielles.md",
             "mode": "preview"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cond",
+                "query": "Equ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Condensateur.md",
+                "file": "Analyse/Equations differentielles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +108,7 @@
   },
   "active": "ef97580658d4e48c",
   "lastOpenFiles": [
+    "Analyse/Equations differentielles.md",
     "Physique/Condensateur.md",
     "Physique/Conducteur.md",
     "Physique/Potentiel électrique.md",
@@ -105,7 +117,6 @@
     "Analyse/Courbe géometriques.md",
     "Analyse/Développements limités.md",
     "conflict-files-obsidian-git.md",
-    "Algebre/Nombres complexes.md",
-    "Algebre/Théoreme Fondamental de l'algebre.md"
+    "Algebre/Nombres complexes.md"
   ]
 }
