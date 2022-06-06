@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ef97580658d4e48c",
+        "id": "e1836bdbd54185ee",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,7 +15,7 @@
         }
       },
       {
-        "id": "50541562b33af034",
+        "id": "71342f8ead4a8387",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Equ",
+                "query": "équa",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ef97580658d4e48c",
+  "active": "e1836bdbd54185ee",
   "lastOpenFiles": [
     "Analyse/Equations differentielles.md",
+    "Physique/Champ électrique.md",
+    "Analyse/Formules trigonometriques.md",
     "Physique/Condensateur.md",
     "Physique/Conducteur.md",
     "Physique/Potentiel électrique.md",
-    "Physique/Champ électrique.md",
     "Physique/Charge electrique.md",
     "Analyse/Courbe géometriques.md",
     "Analyse/Développements limités.md",
-    "conflict-files-obsidian-git.md",
-    "Algebre/Nombres complexes.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

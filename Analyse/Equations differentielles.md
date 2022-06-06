@@ -39,10 +39,19 @@ $z'(x)+p(x)z(x)=v'(x)-y'_p(x)+p(x)[v(x-y_p(x))]$\
 $= v'(x)+p(x)v(x)-y'p(x)\cdot+p(x)\cdot y_p(x)=0$
 # Equations differentielles d'ordre 2
 ## Wronskein
-$w = \begin{vmatrix} y_1 &y_2 \newline y_1' &y_2' \end{vmatrix}$ est le Wronskien pour l'quation d'ordre 2
+le [[Determinant]] $w = \begin{vmatrix} y_1 &y_2 \newline y_1' &y_2' \end{vmatrix}$ est le Wronskien pour l'équation differentielle d'ordre 2
+### Théorème
+Soit $y''(x)-py'(x)+qy(x)=0$\
+$p,q \in C^0$ et $y_0,y_1$ deux solutions de notre équation.
+Alors:
+$$y_1,y_2 \text{ sont L.I} \Leftrightarrow W(y_1,y_2)\neq 0, \forall x \in I$$
+## Solution de l'équation homogène
+Soient $y_1$ et $y_2$ 2 Solutions linéairemetn indépendantes de l'équation homogène.\
+Toutes les solutions de l'équation homogène s'écrivent:
+$$y(x)= Ay_1+ By_2$$
 ## Equations linéaires homogènes à coeff constants
 $y''(x)-py'(x)+qy(x)=0$\
-On cherceh une solution du type $y=e^{ \lambda x}$.
+On cherche une solution du type $y=e^{ \lambda x}$.
 donc $y''=\lambda^2 e^{ \lambda x}$.\
 $\lambda^2 e^{ \lambda x}-p\lambda e^{ \lambda x}+qe^{ \lambda x}=0$
 $\lambda^2 -p\lambda+q=0$
@@ -51,5 +60,5 @@ $ay''(x)+by'(x)+cy(x)=0$
 On cherche une solution du type $y =x^n.$
 $$an(n-1)+ bn +c =0$$
 # Articles liés
-[[Integration]]
+[[Integration]]\
 [[Dérivation]]
