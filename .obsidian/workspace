@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "71342f8ead4a8387",
+        "id": "907bbf3e360b8c56",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Equations differentielles.md",
+            "file": "Physique/Circuit à courant electrique.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c1ed3c167751903e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Physique/Champ magnetique.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.0007801055908,
-    "collapsed": true
+    "width": 296.0007801055908
   },
   "right": {
     "id": "626fa690841bc31d",
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Equations differentielles.md",
+                "file": "Physique/Circuit à courant electrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71342f8ead4a8387",
+  "active": "907bbf3e360b8c56",
   "lastOpenFiles": [
-    "Analyse/Equations differentielles.md",
-    "Analyse/Series.md",
-    "Analyse/Théorème des gendarmes.md",
-    "Analyse/Suites.md",
-    "Analyse/Voisinage de l'infini.md",
-    "Analyse/Fonction contractante.md",
-    "Physique/Champ électrique.md",
-    "Analyse/Formules trigonometriques.md",
-    "Physique/Condensateur.md",
-    "Physique/Conducteur.md"
+    "Physique/Circuit à courant electrique.md",
+    "Physique/Champ magnetique.md",
+    "Physique/Galvanomètre.md",
+    "Physique/Courant électrique.md",
+    "Physique/Forces.md",
+    "Physique/Energie.md",
+    "Physique/Force d'inertie.md",
+    "Physique/Charge electrique.md",
+    "Physique/Force magnétique.md",
+    "Physique/Changement de referentiel.md"
   ]
 }
