@@ -3,7 +3,8 @@ Dans un circuit, le [[Courant électrique]] qui traverse le fil  vaut $$I =\frac
 # Lois de Kirchoff
 ## Lois des mailles
 
+![Alt text](Images/KirchoffMailles.png)
 ## Lois des noeuds
 Dans un circuit, les chages ne sont ni créees, ni détruites. On a donc
 $$I_t= \sum^n I_n$$
-Avec n le nombres de boucles
+Avec n le nombres de boucles.

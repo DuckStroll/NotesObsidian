@@ -7,3 +7,5 @@ En éléctrostatique, le champ éléctrique est nul à l'interieur d'un conducte
 Le champ n'est pas défini à la surface mais on peut prendre la limite exterieure.
 
 $$\vec E =\vec E_{ext}+\vec E_{int}=0$$
+# Resistance d'un conducteur
+Dans un conducteur, un électron est freiné  par le choc entre les atomes par une force de frottement proportionnelle
