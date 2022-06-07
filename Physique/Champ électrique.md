@@ -7,3 +7,5 @@ $$\vec F = q\sum \vec E_n(\vec r)$$.
 L'unité du champ est le newton par Coulomb $N/C$
 ## Lignes de champ
 les lignes s'éloignent des charges positives et se rapprochent des charges négatives
+## Travail d'une charge dans un champ vaut
+$W(F)= qU_{r_0,r}$
