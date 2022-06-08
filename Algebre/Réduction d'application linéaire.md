@@ -57,3 +57,21 @@ En gros
 ## Puissances de matrices
 $$M^n=(P^{-1}AP)^n=P^{-1}A^nP$$
 ## Suites récurrentes
+Si on a 
+$$\begin{cases} u_{n+1}=au_n+bv_n \newline v_{n+1}=cu_n+dv_n  \end{cases}$$
+$$\begin{pmatrix}
+u_{n+1} \newline
+v_{n+1}
+\end{pmatrix} =\begin{pmatrix} a &b \\ c &d \end{pmatrix}
+\begin{pmatrix}
+u_{n} \newline
+v_{n}
+\end{pmatrix}=A^n\begin{pmatrix}
+u_{0} \newline
+v_{0}
+\end{pmatrix}$$
+On peut maintenant réduire pour calculer $A^n$.\
+On peut ensuite expliciter u_n en fonction de n
+## Systemes differentiels
+Si on a un systeme differentiel tel que
+$$\begin{cases} y'=ax+by \newline x'=cx+dy  \end{cases}$$
