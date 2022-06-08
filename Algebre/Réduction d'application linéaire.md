@@ -2,7 +2,7 @@
 # But
 Réduire $f$ , c'est à dire trouver une [[Matrice]] simple R et une base B tel que 
 $$\boxed{[f]_b= P^{-1}AP=R}$$
-On a résolu ce problème pour la forme réduite [[Diagonalisation|diagonale]] au chapitre 9. Maintenat regardons le cas ou f n'est pas diagonalisable.
+On a résolu ce problème pour la forme réduite [[Diagonalisation|diagonale]] au chapitre 9. Maintenant regardons le cas ou f n'est pas diagonalisable.
 # Methode
 Soit $f:\mathbb{R}\to\mathbb{R}$\
 On a $x_f(x)=x^2-trA(x)+det(A)$.\
@@ -22,6 +22,7 @@ w & 1 \\
 \end{pmatrix}\ \Leftrightarrow f(u)=wu , f(v) =u+wv$\
 On peut donc trouver  $u$ à partir de $v$ et donc $P=(u,v)$
 ### En détail
+Comme on a calculé le [[Polynome characteristique]], on connait les valeurs propres. On peut maintenant chercher les vecteurs propres en trouvant le $Ker(f-wid)$ pour chaque valuer propre On a donc notre base. on peut désormais écrire B comme 
 ## Lien avec les rotations
 Il existe des bases $B$ tel que 
 $$\boxed{[f]_B=\begin{pmatrix}
@@ -30,7 +31,7 @@ w & -\xi \\
 \end{pmatrix}}$$
 Alors pour une base $v,u$:\
 $\begin{cases} f(u)=wu+\xi v \\ f(v)= -\xi u + w v \end{cases}$\
-Ce cas est analogue aux [[Rotations et réflexions]]
+Ce cas est analogue aux [[Rotations et réflexions]].
 ### Preuve
 Voir Serie 13 ex 7
 ### Théorème de Caylay-Hamilton
