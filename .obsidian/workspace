@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physique/Conducteur.md",
+            "file": "Algebre/Réduction d'application linéaire.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physique/Circuit à courant electrique.md",
+            "file": "Algebre/Réduction d'application linéaire.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Conducteur.md",
+                "file": "Algebre/Réduction d'application linéaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,9 @@
   },
   "active": "513bf18bd03e0c54",
   "lastOpenFiles": [
-    "Physique/Conducteur.md",
+    "Algebre/Réduction d'application linéaire.md",
     "Physique/Circuit à courant electrique.md",
+    "Physique/Conducteur.md",
     "Images/KirchoffMailles.png",
     "Pasted image 20220518191430.png",
     "Pasted image 20220518190441.png",

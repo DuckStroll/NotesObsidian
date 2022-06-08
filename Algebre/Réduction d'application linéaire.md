@@ -54,3 +54,6 @@ En gros
 3) Chercher P ou B
 
 # Applications de la réduction
+## Puissances de matrices
+$$M^n=(P^{-1}AP)^n=P^{-1}A^nP$$
+## Suites récurrentes
