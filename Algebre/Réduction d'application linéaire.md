@@ -10,7 +10,7 @@ Supposons que  $x_f(x)=(x-w)^2$
 et que f n'est pas diagonalisable f$\neq wId$.\
 On cherche la valeur propre $w$.\
 On cherche ensuite le $Ker(f-wid_\mathbb{R})$
-## Proposition
+## Trouver la valeur de $P$
 Il existe une base de $\mathbb{R}^2$ tel que
 $$\boxed{[f]_b=\begin{pmatrix}
 w & 1 \\
@@ -19,20 +19,21 @@ w & 1 \\
 $[f]_b=\begin{pmatrix}
 w & 1 \\
 0 & w
-\end{pmatrix}\ \Leftrightarrow f(u)=wu , f(v) =u+wv$
+\end{pmatrix}\ \Leftrightarrow f(u)=wu , f(v) =u+wv$\
 On peut donc trouver  $u$ à partir de $v$ et donc $P=(u,v)$
-## Proposition 
+### En détail
+## Lien avec les rotations
 Il existe des bases $B$ tel que 
 $$\boxed{[f]_B=\begin{pmatrix}
 w & -\xi \\
 \xi & w
 \end{pmatrix}}$$
 Alors pour une base $v,u$:\
-$\begin{cases} f(u)=wu+\xi v \\ f(v)= -\xi u + w v \end{cases}$
+$\begin{cases} f(u)=wu+\xi v \\ f(v)= -\xi u + w v \end{cases}$\
 Ce cas est analogue aux [[Rotations et réflexions]]
 ### Preuve
 Voir Serie 13 ex 7
-## Théorème de Caylay-Hamilton
+### Théorème de Caylay-Hamilton
 $$A^2-tr(A)A+det(A)I^2=0$$
 Soit le [[Polynome characteristique]] $x_f(A)=0$\
 Soit v vecteur non propre de f et\
