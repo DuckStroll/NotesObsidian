@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "513bf18bd03e0c54",
+        "id": "14f8711532874b04",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,7 +15,7 @@
         }
       },
       {
-        "id": "07394a0d517c23da",
+        "id": "12f611de1cd7c09a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -97,9 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07394a0d517c23da",
+  "active": "14f8711532874b04",
   "lastOpenFiles": [
     "Algebre/Réduction d'application linéaire.md",
+    "Algebre/Puissance de matrices.md",
     "Physique/Circuit à courant electrique.md",
     "Physique/Conducteur.md",
     "Images/KirchoffMailles.png",
