@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "07394a0d517c23da",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algebre/Matrice.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "9c726c99c7a744f4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Matrice.md",
+            "file": "Physique/Lois fondamentales de l'electromagnetisme.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1935ee09038369ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Physique/Lois fondamentales de l'electromagnetisme.md",
             "mode": "preview"
           }
         }
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Matrice.md",
+                "file": "Physique/Lois fondamentales de l'electromagnetisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07394a0d517c23da",
+  "active": "9c726c99c7a744f4",
   "lastOpenFiles": [
+    "Physique/Lois fondamentales de l'electromagnetisme.md",
+    "Physique/Champ magnetique.md",
+    "Analyse/Arcs paramétrés dans le plan.md",
     "Algebre/Matrice.md",
     "Algebre/Multiplicité algébrique.md",
     "Algebre/Réduction d'application linéaire.md",
     "Algebre/Nombres complexes.md",
     "Algebre/Diagonalisation.md",
     "Algebre/Puissance de matrices.md",
-    "Algebre/Rotations et réflexions.md",
-    "Algebre/Symetries.md",
-    "Algebre/Polynome characteristique.md",
-    "Physique/Circuit à courant electrique.md"
+    "Algebre/Rotations et réflexions.md"
   ]
 }
