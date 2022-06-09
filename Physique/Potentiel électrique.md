@@ -9,3 +9,4 @@ La tension corresond à la difference de potentiel ou le travail de $\vec F$ par
 On a donc 
 $$U_{1,2}=\frac{W_{1\to2}(\vec F)}{q}=\int^{\vec R_2}_{\vec R_1}\vec E\cdot \vec{dr}=V_1-V_2$$
 
+Dans un champ uniforme la tension $U = Ed$

@@ -24,7 +24,8 @@ A est un point double de $\Gamma$ ssi $\exists t_{1}<t_{2}\in I$ tel que $A \equ
 
 ## Points stationnaires 
 
-$M(t_{0})$ est un point stationnaire de $\Gamma$ ssi la derivée de $\vec{r} = 0$. Autrement dit, ssi $\dot{x}(t)$ __et__ $\dot{y}(t) = 0$ dans ce cas on utilise B.H pour trouver la pente de la tangeante.
+$M(t_{0})$ est un point stationnaire de $\Gamma$ ssi la derivée de $\vec{r} = 0$.\
+Autrement dit, ssi $\dot{x}(t)$ __et__ $\dot{y}(t) = 0$ dans ce cas on utilise B.H pour trouver la pente de la tangeante.
 
 ## Autres points remarquables
 si $y'(t0) =0$ et $x'(t0) \neq 0,\Gamma$ admet en $t_{0}$ un point à tengeante horizontale.
@@ -32,49 +33,46 @@ $x'(t0) =0$ et $y'(t0) \neq 0$
  M(t0) admet une tangente verticale et $m = \infty$
  
 ## Branches Infinies
- $\Gamma$ admet une branche infinie lorsque $t \to t0$ (t0 infini ou fini) si r(t) = +$\infty$(t->t0).
- Autreement dit si x(t) ou y(t) tendent vers l'infini
+ $\Gamma$ admet une branche infinie lorsque $t \to t0$ (t0 infini ou fini) si r(t) = +$\infty$(t->t0).\
+ Autrement dit si x(t) ou y(t) tendent vers l'infini,\
+ 3 cas peuvent se présenter:\
+ $x=x_0(t\to t_0)$et $y= \pm\infty(t\to t_0)$:\
+ alors $\Gamma$ admet une [[asymptote]] verticale.
  
- 3 cas peuvent se présenter:
- x=x0(t->t0)et $y= \pm\infty(t\to t0)$
- alors $\Gamma$ admet une [[asymptote]] verticale
- 
- 
-  y=y0(t->t0)et $x= \pm\infty(t\to t0)$
+  $y=y_0(t\to t_0)$et $x= \pm\infty(t\to t0)$:\
    alors $\Gamma$ admet une [[asymptote]] horizontale.
  
-   $y=\pm\infty(t \to t0)$et $x= \pm\infty(t\to t0)$
-   alors $\Gamma$ admet une eventuelle [[asymptote]] oblique $y = mx+h$ m la pente instantanée x/y
- au temps t0 .  
+   $y=\pm\infty(t \to t0)$et $x= \pm\infty(t\to t0)$:\
+   alors $\Gamma$ admet une eventuelle [[asymptote]] oblique $y = mx+h$ avec $m$ la pente instantanée $x/y$ au temps t0 .  
  
 # Exemple d'Etude d'un arc  paramétré
 ## Le Folium de Descartes
 $$\Gamma : \begin{cases} x(t)=\frac{3t}{1+t^3}  \\ y(t) =\frac{3t^2}{1+t^3}&\end{cases}$$
-x(t) et y(t) ne sont ni périodiques, ni paires ni impaires.
-On doit faire l'étude sur tout le Ddef
+x(t) et y(t) ne sont ni périodiques, ni paires ni impaires.\
+On doit faire l'étude sur tout le Domaine défintion.
 - Limites aux points frontières
 
 $Ddef = ]-\infty, -1 [\cup]-1, +\infty[$
 Lorsque $t \to \pm \infty$
-x(t)-> 0 et y(t)->0
+$x(t)\to 0$ et $y(t)\to 0$\
 Donc M(t) tends vers l'origine
-Lorsque $t \to -1$
-$x(t)= \pm \infty(t\to -1^{\pm})$
-$y(t)= \pm \infty(t\to -1^{\pm})$
+Lorsque $t \to -1$,\
+$x(t)= \pm \infty(t\to -1^{\pm})$\
+$y(t)= \pm \infty(t\to -1^{\pm})$\
 On recherche une [[asymptote]] oblique.
-$\frac{y(t)}{x(t)}(t\to -1)=-1$
+$\frac{y(t)}{x(t)}(t\to -1)=-1$\
 $y(t)-(-1)x(t) \underset{t \rightarrow-1}{\lim}= -1$
 - Derivées
 
-$\dot{x(t)}=3\frac{1-2t^3}{(1+t^3)^2}$
+$\dot{x(t)}=3\frac{1-2t^3}{(1+t^3)^2}$\
 On fait un tableau avec les signes et les 0 de $\dot{x}$
-$\dot{y(t)}=3\frac{t(2-t^3)}{(1+t^3)^2}$
+$\dot{y(t)}=3\frac{t(2-t^3)}{(1+t^3)^2}$\
 On fait un tableau avec les signes et les 0 de $\dot{y}$
 - Points remarquables
 
 On regarde ou  $\dot{y}$ et $\dot{x}$ = 0
-Pas de 0 commun à $\dot{y}$ et $\dot{x}$ donc on a pas de points ststionnaires
-en t = 0: (0,0 est un point à tangeante horizontale et tangeante verticale)
+Pas de 0 commun à $\dot{y}$ et $\dot{x}$ donc on a pas de points stationnaires
+en $t = 0$: ($(0,0)$ est un point à tangeante horizontale et tangeante verticale)\
 en $t = \sqrt[3]{1/2}$ $(\sqrt[3]{4},\sqrt[3]{2})$ est un point à tangeante verticale
 en $t = \sqrt[3]{2}$ $(\sqrt[3]{2},\sqrt[3]{4}$ est un point à tangeante horizontale
 
