@@ -90,6 +90,7 @@ $x^3+y^3 = 3xy$
 
 ## Equations paramétriques du limacon
 b) Le Limacon de pascal
+
 Soit $\gamma$ le cercle de centre 0 et de rayon 1, A(2,0) et  $P \in\gamma$ \
 Soient la tangeante à $\gamma$ en $P$ et
 $M$ la projection de A sur d.\

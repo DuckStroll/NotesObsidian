@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Arcs paramétrés dans le plan.md",
+            "file": "Analyse/Factorisation de polynomes.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "c7a342b0f234ea85",
+        "id": "4dda6b13ab95ea3e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Arcs paramétrés dans le plan.md",
+            "file": "Analyse/Factorisation de polynomes.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Arcs paramétrés dans le plan.md",
+                "file": "Analyse/Factorisation de polynomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "9c726c99c7a744f4",
   "lastOpenFiles": [
+    "Analyse/Factorisation de polynomes.md",
+    "Analyse/Fonction vectorielle.md",
     "Analyse/Arcs paramétrés dans le plan.md",
     "Physique/Lois fondamentales de l'electromagnetisme.md",
     "Physique/Potentiel électrique.md",
@@ -106,8 +108,6 @@
     "Algebre/Matrice.md",
     "Algebre/Multiplicité algébrique.md",
     "Algebre/Réduction d'application linéaire.md",
-    "Algebre/Nombres complexes.md",
-    "Algebre/Diagonalisation.md",
-    "Algebre/Puissance de matrices.md"
+    "Algebre/Nombres complexes.md"
   ]
 }
