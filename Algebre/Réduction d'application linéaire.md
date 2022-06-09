@@ -57,6 +57,7 @@ En gros
 3) Chercher P ou B
 
 # Applications de la réduction
+<<<<<<< Updated upstream
 ## Puissances de matrices
 $$M^n=(P^{-1}AP)^n=P^{-1}A^nP$$
 
@@ -96,3 +97,5 @@ v_{0}
 ## Systemes differentiels
 Si on a un systeme differentiel tel que
 $$\begin{cases} y'=ax+by \newline x'=cx+dy  \end{cases}$$
+=======
+>>>>>>> Stashed changes
