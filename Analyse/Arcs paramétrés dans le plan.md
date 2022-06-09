@@ -71,10 +71,12 @@ On fait un tableau avec les signes et les 0 de $\dot{y}$
 - Points remarquables
 
 On regarde ou  $\dot{y}$ et $\dot{x}$ = 0
-Pas de 0 commun à $\dot{y}$ et $\dot{x}$ donc on a pas de points stationnaires
-en $t = 0$: ($(0,0)$ est un point à tangeante horizontale et tangeante verticale)\
-en $t = \sqrt[3]{1/2}$ $(\sqrt[3]{4},\sqrt[3]{2})$ est un point à tangeante verticale
-en $t = \sqrt[3]{2}$ $(\sqrt[3]{2},\sqrt[3]{4}$ est un point à tangeante horizontale
+Pas de 0 commun à $\dot{y}$ et $\dot{x}$ donc on a pas de points stationnaires.\
+en $t = 0$, ($(0,0)$ est un point à tangeante horizontale et tangeante verticale)\
+en $t = \sqrt[3]{1/2}$,\
+$(\sqrt[3]{4},\sqrt[3]{2})$ est un point à tangeante verticale.\
+en $t = \sqrt[3]{2}$,\
+$(\sqrt[3]{2},\sqrt[3]{4}$ est un point à tangeante horizontale).
 
 | t        | $-\infty$ |             | -1  |            | 0   |     | $t = \sqrt[3]{1/2}$ |     | $t = \sqrt[3]{2}$ |     | $\infty$ |
 | -------- | --------- | ----------- |:--- |:---------- |:--- |:--- | ------------------- | --- | ----------------- | --- |:-------- |
@@ -84,29 +86,30 @@ en $t = \sqrt[3]{2}$ $(\sqrt[3]{2},\sqrt[3]{4}$ est un point à tangeante horizo
 | $y$      | 0         | 0-> -$\inf$ |     | $+\inf$->0 | 0   | --> | $\sqrt[3]{2}$       |     | $\sqrt[3]{4}$     | ->0 | 0        |
 
 Avec ces infos on peut tracer un graphe
-x^3+y^3 = 3xy
+$x^3+y^3 = 3xy$
 
 ## Equations paramétriques du limacon
 b) Le Limacon de pascal
-Soit $\gamma$ le cercle de centre 0 et de rayon 1, A(2,0) et  $P \in\gamma$ 
-Soientd la tangeante à $\gamma$ en P
-M la projection de A sur d.
+Soit $\gamma$ le cercle de centre 0 et de rayon 1, A(2,0) et  $P \in\gamma$ \
+Soient la tangeante à $\gamma$ en $P$ et
+$M$ la projection de A sur d.\
 Le lien de M lorsque P décrit $\gamma$ est le limacon de pascal
-- $P \in\gamma$ : P(cos(t), sin(t))
+- $P \in\gamma : P(cos(t), sin(t))$
 - M(x,y)$\in d: \vec{PM}\perp \vec{OP}$
 - $\vec{PM}\cdot \vec{OP} = 0 \Leftrightarrow x\cos(t)+ y\sin(t) =1$
 
 - $M :\begin{cases}
 x\cos(t)+ y\sin(t) = 1
-\\ x\sin(t)- y\cos(t) = 2sin(t)
+\newline x\sin(t)- y\cos(t) = 2sin(t)
  \end{cases}$
 
 On explicite x et y
 - $\Gamma:\begin{cases}
 x(t) = cos(t + 2 \sin^2(t))
-\\y(t) = sin(t)-sin(2t)
+\newline y(t) = sin(t)-sin(2t)
  \end{cases}$
  
+# Résumé
 Marche a suivre pour l'etude de $\Gamma$:
  1) calculer la periodicité
  2) calculer la parité
