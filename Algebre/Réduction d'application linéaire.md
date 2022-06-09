@@ -56,6 +56,7 @@ En gros
 # Applications de la réduction
 ## Puissances de matrices
 $$M^n=(P^{-1}AP)^n=P^{-1}A^nP$$
+Voit [[Puissance de matrices]]
 ## Suites récurrentes
 Si on a 
 $$\begin{cases} u_{n+1}=au_n+bv_n \newline v_{n+1}=cu_n+dv_n  \end{cases}$$
