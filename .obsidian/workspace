@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Matrice.md",
+            "file": "Algebre/Réduction d'application linéaire.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Matrice.md",
+                "file": "Algebre/Réduction d'application linéaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "07394a0d517c23da",
   "lastOpenFiles": [
+    "Algebre/Réduction d'application linéaire.md",
+    "Algebre/Nombres complexes.md",
     "Algebre/Matrice.md",
     "Algebre/Diagonalisation.md",
-    "Algebre/Réduction d'application linéaire.md",
     "Algebre/Puissance de matrices.md",
     "Algebre/Rotations et réflexions.md",
     "Algebre/Symetries.md",
     "Algebre/Polynome characteristique.md",
     "Physique/Circuit à courant electrique.md",
-    "Physique/Conducteur.md",
-    "Images/KirchoffMailles.png"
+    "Physique/Conducteur.md"
   ]
 }
