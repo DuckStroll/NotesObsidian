@@ -36,9 +36,10 @@ Le produit matriciel de ces deux matrices sera une matrice $M_{n\times p}\times 
     \vdots & \ddots & \vdots\\
      \sum_{i=0}^{k}a_{n,i}b_{i,1}  & \dots  &  \sum_{i=0}^{k}a_{n,i}b_{i,m} 
     \end{bmatrix}$$
+	
 #### Regles de calcul:
-$AB \neq BA$
-$A(B+C) = AB + AC$
+$AB \neq BA$\
+$A(B+C) = AB + AC$\
 $A(BC)=(AB)C$
 ## Decomposition vecteurs colonnes-lignes
 On peut décomposer une matrice en une somme de vecteurs lignes multipliés par des vecteurs colonnes:
