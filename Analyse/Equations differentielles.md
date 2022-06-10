@@ -26,7 +26,7 @@ Soit $u(x)= c\cdot w(x),=e^{-\int p(x)dx}, w(x)$ la solution générale.\
 On cherche une solution particulière $y= c(x)w(x)$.
 
 En partiulier, si $y_h= Ke^{-t}$ et $y_p= k(t)y_h$
-$K(t)= \int t e^t dt=e^t t - \ine^t dt$,
+$K(t)= \int t e^t dt=e^t t - \int e^t dt$,
 $y_p(t)+ y_h(t)= t-1+ Ke^t$ 
 ##### Methode du facteur intégrant
 Soit $y'(x)+p(x)y(x)=r(x)$.
@@ -46,7 +46,7 @@ $= v'(x)+p(x)v(x)-y'p(x)\cdot+p(x)\cdot y_p(x)=0$
 $$u(t)=exp(-\int^t_{t_0}p(s)ds)(u_0+\int^t_{t_0}q(s)e^{\int^s_{t_0}p(v)dv}\cdot ds)$$
 # Equations differentielles d'ordre 2
 ## Wronskein
-le [[Determinant]] $w = \begin{vmatrix} y_1 &y_2 \newline y_1' &y_2' \end{vmatrix}$ est le Wronskien pour l'équation differentielle d'ordre 2
+le [[Determinant]] $w = \begin{vmatrix} y_1 &y_2 \newline y_1' &y_2' \end{vmatrix}$ est le Wronskien pour l'équation differentielle d'ordre 2.
 ### Théorème
 Soit $y''(x)-py'(x)+qy(x)=0$\
 $p,q \in C^0$ et $y_0,y_1$ deux solutions de notre équation.
@@ -66,11 +66,20 @@ $\lambda^2 -p\lambda+q=0$\
 On va donc calculer  la solution en fonction du delta.\
 Si $\Delta>0,P(\lambda)$ a deux racines.\
 $\lambda_\pm = \frac{-b\pm \sqrt{\Delta}}{2}$
-et donc 
+et donc\
+$y=Ae^{\lambda_+x}+Be^{\lambda_-x}$-\
+Si $\Delta = 0$,\
+$\lambda =\frac{-b}{2a}$
+et on a\
+$y=(A+Bx)e^{\lambda x}$\.
+Finalement, si $\Delta <0,$\
+$y = e^x(Asin(2x)+Bcos(2x))$
+
 ## Equation d'Euler
 $ay''(x)+by'(x)+cy(x)=0$
 On cherche une solution du type $y =x^n.$
 $$an(n-1)+ bn +c =0$$
+## Coefficients constants
 # Articles liés
 [[Integration]]\
 [[Dérivation]]
