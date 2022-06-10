@@ -53,7 +53,7 @@ $p,q \in C^0$ et $y_0,y_1$ deux solutions de notre équation.
 Alors:
 $$y_1,y_2 \text{ sont Linéairement Indépendantes} \Leftrightarrow W(y_1,y_2)\neq 0, \forall x \in I$$
 ## Solution de l'équation homogène
-Soient $y_1$ et $y_2$ 2 Solutions linéairement indépendantes de l'équation homogène.\
+Soient $y_1$ et $y_2$ 2 solutions linéairement indépendantes de l'équation homogène.\
 Toutes les solutions de l'équation homogène s'écrivent:
 $$y(x)= Ay_1+ By_2$$
 ## Equations linéaires homogènes à coeff constants
@@ -79,7 +79,24 @@ $y = e^x(Asin(2x)+Bcos(2x))$
 $ay''(x)+by'(x)+cy(x)=0$
 On cherche une solution du type $y =x^n.$
 $$an(n-1)+ bn +c =0$$
-## Coefficients constants
+## Coefficients constants $= f(x)$
+$y''(x)+py'(x)+qy(x)=f(x)$
+On aura alors une solution y = $y_h+y_p$
+1) On observe les resultats de l'équation homogène (on regarde avec $f(x)=0$).\
+
+
+3) On étudie f(x):
+ - Si $f(x)= \mathbb{P}(x)$, alors $y_p$ est un polynome du même degré que f(x)
+- Sinon, on peut proceder par tatonnement.
+- On cherche $A(x)y_1+B(x)y_2=y$
+- 
+>[!Tip]
+>On peut utilise la propriété que le Wronkstien n'est pas nul
+- On impose $A'y_1+B'y_2=0$\
+ et $A'y'+B'y'=f(x)$
+
+Au final on aura
+$$y= A(x)y_1+B(x)y_2+Ae^{\lambda_+x}+Be^{\lambda_-x}$$
 # Articles liés
 [[Integration]]\
 [[Dérivation]]
