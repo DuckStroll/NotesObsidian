@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Formules trigonometriques.md",
+            "file": "Analyse/Groupes.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4dda6b13ab95ea3e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Analyse/Formules trigonometriques.md",
-            "mode": "preview"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "groupe",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Formules trigonometriques.md",
+                "file": "Analyse/Groupes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +89,15 @@
   },
   "active": "9c726c99c7a744f4",
   "lastOpenFiles": [
+    "Analyse/Groupes.md",
     "Analyse/Formules trigonometriques.md",
+    "Analyse/Polynomes.md",
     "Analyse/Equations et Inequations.md",
     "Analyse/Equations differentielles.md",
     "Analyse/Factorisation de polynomes.md",
     "Analyse/Fonction vectorielle.md",
     "Analyse/Arcs paramétrés dans le plan.md",
     "Physique/Lois fondamentales de l'electromagnetisme.md",
-    "Physique/Potentiel électrique.md",
-    "Physique/Champ magnetique.md",
-    "Algebre/Matrice.md"
+    "Physique/Potentiel électrique.md"
   ]
 }
