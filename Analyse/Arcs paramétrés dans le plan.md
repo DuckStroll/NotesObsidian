@@ -8,15 +8,15 @@ On considère le plan muni d'un espace (0, $e_{1}, e_{2}$).
 On appelle _arc parametré_ la donnée d'un internvalle $I \in \mathbb{R}$ et d'une fonction  de $I \in \mathbb{R}$.
 $$I \subset \mathbb{R} \mapsto\mathbb{R}^{2}$$
 $$t\mapsto \vec{r(t)}= \vec{OM}$$
-La fonction $t\mapsto \vec{r(t)}$ est appelée [[Fonction vectorielle]] et les fonction scalaires $x(t)$ et $y(t)$ sont les fonctions coordonées  de $\vec{r(t)}$
-L'ensemble $P:\{M(t)\in \mathbb{R}^{2}|\vec{OM(t)}= P(t), t\in I \}$ est la trajectoire de l'arc paramétré. Intuitivement
+La fonction $t\mapsto \vec{r(t)}$ est appelée [[Fonction vectorielle]] et les fonction scalaires $x(t)$ et $y(t)$ sont les fonctions coordonées  de $\vec{r(t)}$.\
+L'ensemble $P:\{M(t)\in \mathbb{R}^{2}|\vec{OM(t)}= P(t), t\in I \}$ est la trajectoire de l'arc paramétré.
 # Quelques éléments de l'étude d'un arc paramétrique
 
 ## Symetries déductibles de la parité des [[Fonction vectorielle|fonctions coordonnées]]
 
-1) si $x(t)$ est pair et y(t) est impair alors P(t) est symetrique par rapport à 0x
-2) si $x(t)$ est impair et y(t) est pair aplors P est symetrique autours de l'axe Oy
-3) SI x(t) et y(t) sont impaires, alors P sera symetrique par rapport à  0 M(t) = -M(-t)
+1) si $x(t)$ est pair et $y(t)$ est impair alors $\Gamma(t)$ est symetrique par rapport à $O_x$
+2) si $x(t)$ est impair et $y(t)$ est pair aplors P est symetrique autours de l'axe $O_y$
+3) SI $x(t)$ et $y(t)$ sont impaires, alors P sera symetrique par rapport à  0 :$M(t) = -M(-t)$
 
 ## Points doubles
 
