@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Arcs paramétrés dans le plan.md",
+            "file": "Analyse/Suites.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "eb2839e485eb578d",
+        "id": "2b5013335d494cce",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Arcs paramétrés dans le plan.md",
+            "file": "Analyse/Suites.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "suites",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Arcs paramétrés dans le plan.md",
+                "file": "Analyse/Suites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "9c726c99c7a744f4",
   "lastOpenFiles": [
+    "Analyse/Suites.md",
     "Analyse/Arcs paramétrés dans le plan.md",
+    "SCM/Nombres irrationnels.md",
     "Analyse/Groupes.md",
     "Analyse/Integration.md",
     "Analyse/Formules trigonometriques.md",
     "Analyse/Polynomes.md",
     "Analyse/Equations et Inequations.md",
     "Analyse/Equations differentielles.md",
-    "Analyse/Factorisation de polynomes.md",
-    "Analyse/Fonction vectorielle.md",
-    "Physique/Lois fondamentales de l'electromagnetisme.md"
+    "Analyse/Factorisation de polynomes.md"
   ]
 }

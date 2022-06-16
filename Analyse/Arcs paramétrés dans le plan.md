@@ -28,13 +28,13 @@ $M(t_{0})$ est un point stationnaire de $\Gamma$ ssi la derivée de $\vec{r} = 0
 Autrement dit, ssi $\dot{x}(t)$ __et__ $\dot{y}(t) = 0$ dans ce cas on utilise B.H pour trouver la pente de la tangeante.
 
 ## Autres points remarquables
-si $y'(t0) =0$ et $x'(t0) \neq 0,\Gamma$ admet en $t_{0}$ un point à tengeante horizontale.
-$x'(t0) =0$ et $y'(t0) \neq 0$
- M(t0) admet une tangente verticale et $m = \infty$
+si $y'(t0) =0$ et $x'(t0) \neq 0,$ $\Gamma$ admet en $t_{0}$ un point à tangente horizontale.\
+$x'(t0) =0$ et $y'(t0) \neq 0$.\
+ $M(t0)$ admet une tangente verticale et $m = \infty$
  
 ## Branches Infinies
- $\Gamma$ admet une branche infinie lorsque $t \to t0$ (t0 infini ou fini) si r(t) = +$\infty$(t->t0).\
- Autrement dit si x(t) ou y(t) tendent vers l'infini,\
+ $\Gamma$ admet une branche infinie lorsque $t \to t_0$ ($t_0$ infini ou fini) si $r(t) = +\infty(t\to t_0)$.\
+ Autrement dit, si $x(t)$ ou $y(t)$ tendent vers l'infini,\
  3 cas peuvent se présenter:\
  $x=x_0(t\to t_0)$et $y= \pm\infty(t\to t_0)$:\
  alors $\Gamma$ admet une [[asymptote]] verticale.
@@ -43,7 +43,7 @@ $x'(t0) =0$ et $y'(t0) \neq 0$
    alors $\Gamma$ admet une [[asymptote]] horizontale.
  
    $y=\pm\infty(t \to t0)$et $x= \pm\infty(t\to t0)$:\
-   alors $\Gamma$ admet une eventuelle [[asymptote]] oblique $y = mx+h$ avec $m$ la pente instantanée $x/y$ au temps t0 .  
+   alors $\Gamma$ admet une eventuelle [[asymptote]] oblique $y = mx+h$ avec $m$ la pente instantanée $x/y$ au temps $t_0$ .  
  
 # Exemple d'Etude d'un arc  paramétré
 ## Le Folium de Descartes
@@ -111,14 +111,14 @@ x(t) = cos(t + 2 \sin^2(t))
  \end{cases}$
  
 # Résumé
-Marche a suivre pour l'etude de $\Gamma$:
+Marche a suivre pour l'étude de $\Gamma$:
  1) calculer la periodicité
  2) calculer la parité
- 3) Trouver le domaine d
+ 3) Trouver le domaine $D$
  4) Limites aux points frontières
  5) Calcul des dérivées
- 6) Faire un tableau de signes avec les dérivées et trouvr les 0
+ 6) Faire un tableau de signes avec les dérivées et trouver les 0
  7) Trouver les points remarquables
- 8) Calculer les tangeantes et asymptotes grace aux points remarquables
- 9) Ecrire un tableau avec toutes les informations precedentes
- 10) Dessiner un graph
+ 8) Calculer les tangentes et asymptotes graçe aux points remarquables
+ 9) Ecrire un tableau avec toutes les informations précédentes
+ 10) Dessiner un graphe
