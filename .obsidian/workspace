@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Suites.md",
+            "file": "Physique/Loi des gaz parfaits.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2b5013335d494cce",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Analyse/Suites.md",
-            "mode": "preview"
           }
         }
       }
@@ -59,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Suites.md",
+                "file": "Physique/Loi des gaz parfaits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +88,8 @@
   },
   "active": "9c726c99c7a744f4",
   "lastOpenFiles": [
+    "Physique/Loi des gaz parfaits.md",
+    "Physique/Statique.md",
     "Analyse/Suites.md",
     "Analyse/Arcs paramétrés dans le plan.md",
     "SCM/Nombres irrationnels.md",
@@ -107,8 +97,6 @@
     "Analyse/Integration.md",
     "Analyse/Formules trigonometriques.md",
     "Analyse/Polynomes.md",
-    "Analyse/Equations et Inequations.md",
-    "Analyse/Equations differentielles.md",
-    "Analyse/Factorisation de polynomes.md"
+    "Analyse/Equations et Inequations.md"
   ]
 }

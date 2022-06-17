@@ -16,7 +16,8 @@ $$\underset{n \rightarrow \infty}{\lim}(a_n)= \pm \infty$$
 
 
 ## Suite récurrente: 
-Une suite récurrente est une suite $\  (x_{n})_{n \in \mathbb{N}}$ tel que $x_{n+1} = g(x_{n})$ pour $n\geq1$, où $im(g)\subset def(g)$ et $x_{0} \in def(g)$.
+
+Une suite récurrente est une suite $(x_{n})_{n \in \mathbb{N}}$ tel que $x_{n+1} = g(x_{n})$ pour $n\geq1$, où $im(g)\subset def(g)$ et $x_{0} \in def(g)$.
 
 _Remarque:_ Tout les elements de la suite récurrentes sont dans $g(x)$, mais l'inverse n'est pas vrai.
 ### Thm du [[Point fixe]]: 
