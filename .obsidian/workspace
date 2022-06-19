@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physique/Loi des gaz parfaits.md",
+            "file": "Algebre/Noyau.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "suites",
+                "query": "noyau",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Loi des gaz parfaits.md",
+                "file": "Algebre/Noyau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,8 @@
   },
   "active": "9c726c99c7a744f4",
   "lastOpenFiles": [
+    "Algebre/Noyau.md",
+    "Physique/Pression.md",
     "Physique/Loi des gaz parfaits.md",
     "Physique/Statique.md",
     "Analyse/Suites.md",
@@ -95,8 +98,6 @@
     "SCM/Nombres irrationnels.md",
     "Analyse/Groupes.md",
     "Analyse/Integration.md",
-    "Analyse/Formules trigonometriques.md",
-    "Analyse/Polynomes.md",
-    "Analyse/Equations et Inequations.md"
+    "Analyse/Formules trigonometriques.md"
   ]
 }

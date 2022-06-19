@@ -1,6 +1,6 @@
 #man #physique \
 Avec
-- $p$ la pression
+- $p$ la [[Pression]]
 - $V$ Le volume
 - $T$ La temperature
 - $n$ le nombre de moles
