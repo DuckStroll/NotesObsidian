@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Noyau.md",
+            "file": "Analyse/Formules trigonometriques.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "fb8c1b22a00355c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Analyse/Formules trigonometriques.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noyau",
+                "query": "formul",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Noyau.md",
+                "file": "Analyse/Formules trigonometriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +98,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c726c99c7a744f4",
+  "active": "fb8c1b22a00355c2",
   "lastOpenFiles": [
+    "Analyse/Formules trigonometriques.md",
+    "Analyse/Calcul de volume.md",
     "Algebre/Noyau.md",
     "Physique/Pression.md",
     "Physique/Loi des gaz parfaits.md",
@@ -96,8 +109,6 @@
     "Analyse/Suites.md",
     "Analyse/Arcs paramétrés dans le plan.md",
     "SCM/Nombres irrationnels.md",
-    "Analyse/Groupes.md",
-    "Analyse/Integration.md",
-    "Analyse/Formules trigonometriques.md"
+    "Analyse/Groupes.md"
   ]
 }

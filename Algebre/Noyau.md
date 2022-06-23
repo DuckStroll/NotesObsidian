@@ -5,6 +5,6 @@ Le noyau est un [[Sous-Espaces Vectoriels]] de la [[Préimage]]. On peut le voir
 $$Ker(f) = \{v \in \mathbb{R}^n, f(v)=0 \} \subseteq\mathbb{R}^n$$
 Prenons maintenant $w$ dans l'[[Image]]
 
-#Propriétés
+# Propriétés
 
-$$Ker(g)\in Ker(f)\Leftrightarrow Im(f) \notin Im(g)$$
+$$Ker(g)\subset Ker(f)\Leftrightarrow Im(f) \not\subset Im(g)$$
