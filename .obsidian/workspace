@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "formul",
+                "query": "racines",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb8c1b22a00355c2",
+  "active": "9c726c99c7a744f4",
   "lastOpenFiles": [
     "Analyse/Formules trigonometriques.md",
     "Analyse/Calcul de volume.md",

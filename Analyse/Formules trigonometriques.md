@@ -1,12 +1,12 @@
 #man #analyse
 # Propriétés
-propriétés du sin
-$sin(x) =sin(\pi-x)$
-$sin(-x) = -sin(x)$
-$sin(\pi/2 +x) = cos(x)$
-propriétés du cos:
-$cos(x) = cos(-x)$
-$cos(\pi + x) = -cos(x)$
+propriétés du sin:\
+$sin(x) =sin(\pi-x)$\
+$sin(-x) = -sin(x)$\
+$sin(\pi/2 +x) = cos(x)$\
+propriétés du cos:\
+$cos(x) = cos(-x)$\
+$cos(\pi + x) = -cos(x)$\
 $con(\pi/2-x)= sin(x)$
 ## Valeurs type
 |     | 0   | $\pi/6$      |   $\pi/4$    | $\pi/3$      | $\pi/2$ |   $2\pi/3$   |
@@ -14,12 +14,12 @@ $con(\pi/2-x)= sin(x)$
 | sin | 0   | 1/2          | $\sqrt{2}/2$ | $\sqrt{3}/2$ |    1    | $\sqrt{3}/2$ |
 | cos | 1   | $\sqrt{3}/2$ | $\sqrt{2}/2$ | 1/2          |    0    |     -1/2     |
 ## Sommes d'angles
-On va démontrer plusieurs formules trigonométriques à partir de 2 simples formules.
+On va démontrer plusieurs formules trigonométriques à partir de 2 simples formules.\
 $$sin(\alpha+\beta) = sin(\alpha)cos(\beta) + sin(\beta)cos(\alpha)$$
 $$cos(\alpha+\beta)=cos(\alpha)cos(\beta)-sin(\alpha)sin(\beta)$$
-On démontre cela de manière geometrique --> voir Onenote
+On démontre cela de manière geometrique --> voir Onenote\
 Le reste des formules trigonometriques sont des consequences de ces formules:
-$tan(\alpha+\beta) = \frac{sin(\alpha+\beta)}{cos(\alpha+\beta) }=\frac{tan(\alpha)+ tan(\beta)}{1-tan(\alpha)tan(\beta)}$
+$tan(\alpha+\beta) = \frac{sin(\alpha+\beta)}{cos(\alpha+\beta) }=\frac{tan(\alpha)+ tan(\beta)}{1-tan(\alpha)tan(\beta)}$\
 $sin(2x) = 2cos(x)sin(x)$
 $cos(2x)= cos^{2}(x)sin^{2}(x)=\begin{cases}
 1-2sin^{2}(x) \\
@@ -48,9 +48,9 @@ Le résultat précedant se déduit en isolant le cos.
 $sin(x)'=\underset{h \rightarrow0}{\lim} \frac{sin(x+h)-sin(x)}{h}= sin \dagger$
 $tan(x)' = 1-tan^2(x)= sec^2(x)$
 # (In)équations trigonometrique linéaire
-cas général: $\delta cos(x) + \delta sin(x) =c$
-On veut écrire nos deux deltas comme les sin et cos d'un même angle!
-Si on ne peut pas montrer ça de manière évidente,
+Cas général: $\delta cos(x) + \delta sin(x) =c$.\
+On veut écrire nos deux deltas comme les sin et cos d'un même angle!\
+Si on ne peut pas montrer ça de manière évidente,\
 $$\frac{\delta _{1}}{\sqrt{\delta_{1}^{2}+\delta_{2}^{2}}}cos(x) + \frac{\delta _{2}}{\sqrt{\delta_{1}^{2}+\delta_{2}^{2}}}sin(x) = \frac{c}{\sqrt{\delta_{1}^{2}+\delta_{2}^{2}}}$$
 Graçe à cette formule, il est possible de placer sur le cercle trigonometrique:
 $\exists \alpha$ t.q.  
