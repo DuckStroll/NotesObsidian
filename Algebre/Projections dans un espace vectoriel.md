@@ -1,24 +1,23 @@
 #man #algebre 
 # Definition
-Soit $f:\mathbb{R} \to \mathbb{R}$ [[Application Linéaire]] de matrice $A$ en base canonique
-Définitiion: On dit que f est une projection si $f \circ f =f \Leftrightarrow(A^2=A)$
-On appelle A [[matrice]] de projection.
+Soit $f:\mathbb{R} \to \mathbb{R}$ [[Application Linéaire]] de matrice $A$ en base canonique.
+Définition: On dit que f est une projection si $f \circ f =f \Leftrightarrow(A^2=A)$.\
+On appelle A la matrice [[matrice]] de projection.
 ## Proposition
 Si f est une projection, alors, pour tout $v \in \mathbb{R}^n$ on a 
 $$\boxed{v= \underbrace{f(v)}_{\in Im(f)}+ \underbrace{v-f(v)}_{\in Ker(f)}}$$
 ### Preuve
 On prouve que c'est dans le Ker(f) car $f(f(v)) = f(v)$
 ## Lien avec le rang
-Notons à present $r = rg(f)$ Le résultat qui précede entraine que si f est une projection ou est dans l'un des acs suivants:
-$\begin{cases}
-\text{Si n = 2 (Plan)}
-\\r=0 \ f=0
+Notons à present $r = rg(f)$. Le résultat qui précede entraine que si f est une projection ou est dans l'un des cas suivants:\
+$\text{Si n = 2 (Plan)} \begin{cases}
+r=0 \ f=0
 \\ r=1 
 \\ r = 2 f = id_{\mathbb{R}^2} \text{ car Ker(f est nul)}
 \end{cases}$
-$\begin{cases}
-\text{Si n = 3}
-\\r=0 \ f=0
+
+$\text{Si n = 3: } \begin{cases}
+r=0 \ f=0
 \\ r=1 
 \\ r=2
 \\ r = 3 f = id_{\mathbb{R}^3} \text{ car Ker(f est nul)}
@@ -28,24 +27,26 @@ Si f est une projection, alors elle se visualise comme la projection sur Im(f) p
 
 Remarque: L'application
 $$Id_\mathbb{R} = -f: \ \mathbb{R}^N \to \mathbb{R}^n \ , v \to v=f(v)$$
-est alors la projection sur Ker(f) parallèlement à Im(f). On a donc
-$\boxed{
-Im(Id_{\mathbb{R}^{2}}-f)= Ker(f) = \{v \in \mathbb{R}^n \ t.q\  f(v) = 0\}}$
-$\boxed{ Ker(Id_{\mathbb{R}^{2}}-f)= Im(f) = \{v \in \mathbb{R}^n \ t.q  \ f(v) = v\}
-}$
+est alors la projection sur $Ker(f)$ parallèlement à $Im(f)$. On a donc
+
+$$\boxed{
+Im(Id_{\mathbb{R}^{2}}-f)= Ker(f) = \{v \in \mathbb{R}^n \ t.q\  f(v) = 0\}}$$
+
+$$\boxed{ Ker(Id_{\mathbb{R}^{2}}-f)= Im(f) = \{v \in \mathbb{R}^n \ t.q  \ f(v) = v\}
+}$$
 ## Application de rang 1 
-On peut utiiser cette proporiété:
+On peut utiliser cette propriété:\
 Si f est de rang 1, alors
 $$\boxed{f\circ f = \delta f, \ ou\ \delta = Tr(f)}$$
 Donc si la [[Trace]] = 1, f est une projection.
-Si $\delta=0$, f est de carré nul
+Si $\delta=0$, f est de carré nul.\
 C'est le cas exactement quand $Im(f)\subset Ker(f)$
-On dit aussi que $f$ est nilpotente
-On a donc que $\frac{1}{\delta}f$ est une projection
+On dit aussi que $f$ est nilpotente.\
+On a donc que $\frac{1}{\delta}f$ est une projection pour toute application linéaire de rang 1.
 
 ## Lien avec la [[Symetries]]
 # Exemple:
-e suis pas sur:
+Je ne suis pas sur:\
 Prenons l'application dont l'image forme la droite: droite qui passe par $(1,0,4)$ et intercepte à l'origine le plan d'équation $x-y+5z =0$. Cherchons sa projection dans ce plan.
 $$A = \frac{1}{21}
 \underbrace{\begin{pmatrix}

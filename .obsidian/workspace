@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Formules trigonometriques.md",
+            "file": "Algebre/Projections dans un espace vectoriel.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "fb8c1b22a00355c2",
+        "id": "8d3fdb9b26364612",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Formules trigonometriques.md",
+            "file": "Algebre/Projections dans un espace vectoriel.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "racines",
+                "query": "symetr",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Formules trigonometriques.md",
+                "file": "Algebre/Projections dans un espace vectoriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,8 @@
   },
   "active": "9c726c99c7a744f4",
   "lastOpenFiles": [
+    "Algebre/Projections dans un espace vectoriel.md",
+    "Algebre/Symetries.md",
     "Analyse/Formules trigonometriques.md",
     "Analyse/Calcul de volume.md",
     "Algebre/Noyau.md",
@@ -107,8 +109,6 @@
     "Physique/Loi des gaz parfaits.md",
     "Physique/Statique.md",
     "Analyse/Suites.md",
-    "Analyse/Arcs paramétrés dans le plan.md",
-    "SCM/Nombres irrationnels.md",
-    "Analyse/Groupes.md"
+    "Analyse/Arcs paramétrés dans le plan.md"
   ]
 }
