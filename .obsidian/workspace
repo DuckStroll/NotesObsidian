@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entiers mod",
+                "query": "noya",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6a73291cb107b44",
+  "active": "0751be43476877dd",
   "lastOpenFiles": [
+    "Algebre/Morphismes.md",
+    "Algebre/Groupes.md",
+    "Algebre/Permutations.md",
+    "Algebre/Noyau.md",
+    "SCM/Entiers Modulo.md",
     "Physique/Cinematique du point materiel.md",
     "Physique/Lois de Newton.md",
     "Physique/Lois de Kepler.md",
-    "SCM/Entiers Modulo.md",
-    "Algebre/Groupes.md",
     "Algebre/Loi de compositions.md",
-    "Algebre/Application Linéaire.md",
-    "Algebre/Ideal.md",
-    "SCM/Relation d'équivalence.md",
-    "SCM/Nombres Entiers.md"
+    "Algebre/Application Linéaire.md"
   ]
 }
