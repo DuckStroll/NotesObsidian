@@ -4,13 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9c726c99c7a744f4",
+        "id": "0751be43476877dd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Physique/Lois de Kepler.md",
             "mode": "preview"
+=======
+            "file": "Algebre/Groupes.md",
+            "mode": "source",
+            "source": false
+>>>>>>> 718b762f5c6f5a363fbf6fc8dc511e781d8b975c
           }
         }
       }
@@ -39,7 +45,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "",
+=======
+                "query": "noya",
+>>>>>>> 718b762f5c6f5a363fbf6fc8dc511e781d8b975c
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +78,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Physique/Lois de Kepler.md",
+=======
+                "file": "Algebre/Groupes.md",
+>>>>>>> 718b762f5c6f5a363fbf6fc8dc511e781d8b975c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,16 +92,26 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "915b611212ed2a2c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "9c726c99c7a744f4",
+  "active": "0751be43476877dd",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Physique/Lois de Kepler.md",
     "Physique/Oscillateur harmonique.md",
     "Physique/Circuit à courant electrique.md",
@@ -98,5 +122,17 @@
     "Algebre/Noyau.md",
     "Physique/Pression.md",
     "Physique/Loi des gaz parfaits.md"
+=======
+    "Algebre/Morphismes.md",
+    "Algebre/Groupes.md",
+    "Algebre/Permutations.md",
+    "Algebre/Noyau.md",
+    "SCM/Entiers Modulo.md",
+    "Physique/Cinematique du point materiel.md",
+    "Physique/Lois de Newton.md",
+    "Physique/Lois de Kepler.md",
+    "Algebre/Loi de compositions.md",
+    "Algebre/Application Linéaire.md"
+>>>>>>> 718b762f5c6f5a363fbf6fc8dc511e781d8b975c
   ]
 }
