@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Projections dans un espace vectoriel.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "8d3fdb9b26364612",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algebre/Projections dans un espace vectoriel.md",
+            "file": "Physique/Lois de Kepler.md",
             "mode": "preview"
           }
         }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "symetr",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Projections dans un espace vectoriel.md",
+                "file": "Physique/Lois de Kepler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +88,15 @@
   },
   "active": "9c726c99c7a744f4",
   "lastOpenFiles": [
+    "Physique/Lois de Kepler.md",
+    "Physique/Oscillateur harmonique.md",
+    "Physique/Circuit à courant electrique.md",
     "Algebre/Projections dans un espace vectoriel.md",
     "Algebre/Symetries.md",
     "Analyse/Formules trigonometriques.md",
     "Analyse/Calcul de volume.md",
     "Algebre/Noyau.md",
     "Physique/Pression.md",
-    "Physique/Loi des gaz parfaits.md",
-    "Physique/Statique.md",
-    "Analyse/Suites.md",
-    "Analyse/Arcs paramétrés dans le plan.md"
+    "Physique/Loi des gaz parfaits.md"
   ]
 }
