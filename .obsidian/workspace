@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0751be43476877dd",
+        "id": "f71e6f7ff2bb57c5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Groupes.md",
+            "file": "Algebre/Corps.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noya",
+                "query": "Ann",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Groupes.md",
+                "file": "Algebre/Corps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0751be43476877dd",
+  "active": "f71e6f7ff2bb57c5",
   "lastOpenFiles": [
+    "Algebre/Nombres complexes.md",
+    "Algebre/Corps.md",
+    "Algebre/Anneaux.md",
+    "Algebre/Espaces vectoriels.md",
     "Algebre/Morphismes.md",
+    "SCM/Nombres irrationnels.md",
     "Algebre/Groupes.md",
     "Algebre/Permutations.md",
     "Algebre/Noyau.md",
-    "SCM/Entiers Modulo.md",
-    "Physique/Cinematique du point materiel.md",
-    "Physique/Lois de Newton.md",
-    "Physique/Lois de Kepler.md",
-    "Algebre/Loi de compositions.md",
-    "Algebre/Application Linéaire.md"
+    "SCM/Entiers Modulo.md"
   ]
 }

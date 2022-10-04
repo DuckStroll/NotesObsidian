@@ -8,12 +8,19 @@ avec $y = (p/3)^3+(q/2)^2$\
 Cependant avec $x^3-15x-4 =0$
 $y=11*-1, x = \sqrt[3]{2+11\sqrt {-1}}+\sqrt[3]{2-11\sqrt {-1}}$\
 $=2+\sqrt{-1}+2-\sqrt{-1}$
+## Le corps des nombres complexes
+
+$\mathbb{C}$ est l'ensemble des  expressions formelles $x+yi\in \mathbb{R}$. $\mathbb{C}$ est en bijection avec $\mathbb{R}\times\mathbb{R}$.
+L'aplication $\phi:\mathbb{R}\to \mathbb{C}$ est $\phi(a)= a+ 0\cdot i$ est un homomorphismes d'anneaux injectifs.
+
+$z= a+bi\in \mathbb{C}$ possède un inverse multiplicatif $z^{-1}$
 ## Définition et propriétés
 $$i = \sqrt{-1} \Leftrightarrow i^2=-1$$
 $(a+bi)(c+di)=ac+adi+cbi-bd.$
-L'ensemble des nombres complexes est l'ensemble des paires $(a,b), a,b \in  \mathbb{R}$
+L'ensemble des nombres complexes est l'ensemble des paires $(a,b), a,b \in  \mathbb{R}$.
+On définit l'addition et la multiplication
 $z_1+z_2=(a+c,b+d)$
-$z_1 \cdot z_2 = (ac-bd,ad+bc)$\
+$z_1 \cdot z_2 = (ac-bd,ad+bc)$
 On peut aussi écrire : $z = ai +b$
 $a$ est la _partie réelle_ de z et b est la _partie imaginaire_ de $z$.
 
