@@ -10,6 +10,8 @@ Soit  $f:G_1 \to G_2$ un homomorphisme de groupe. Soient $e_1\in G_1,e_2\in G_2$
 ## Preuve
 $f(x*e_1)=f(x)*f(e_1)=f(x) \leftrightarrow f(e_1)=e_2$ 
 f$(e_1)= f(x*x')=f(x)*f(x')=e_2$
+# Isomorphisme
+Un isomorphisme est un homomorphisme bijectif
 ## Homomorphismes d'[[Anneaux]]
 Une application $\phi:A\to B$ est un homomorphisme d'anneaux si:
 $$\forall x,y \in A, \phi(x+y)=\phi(x)

@@ -26,3 +26,4 @@ Un sous ensemble $B$ de $A$ est un sous anneau si
 - $B$ est stable par la loi $\cdot$
 - L'élément neutre $1_A\in B$
 
+## Anneaux de [[Polynomes]]

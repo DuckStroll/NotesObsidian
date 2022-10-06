@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f71e6f7ff2bb57c5",
+        "id": "21ac960db5d4777e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebre/Corps.md",
+            "file": "Physique/Mouvement dans l'espace.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ann",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Corps.md",
+                "file": "Physique/Mouvement dans l'espace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,25 +88,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f71e6f7ff2bb57c5",
+  "active": "21ac960db5d4777e",
   "lastOpenFiles": [
-    "Algebre/Nombres complexes.md",
-    "Algebre/Corps.md",
-    "Algebre/Anneaux.md",
+    "Physique/Produit vectoriel.md",
     "Algebre/Espaces vectoriels.md",
+    "Algebre/Image.md",
+    "SCM/Relation d'équivalence.md",
+    "Analyse/Polynomes.md",
+    "Algebre/Anneaux.md",
+    "Analyse/Anneau.md",
     "Algebre/Morphismes.md",
-    "SCM/Nombres irrationnels.md",
     "Algebre/Groupes.md",
-    "Algebre/Permutations.md",
-    "Algebre/Noyau.md",
-    "SCM/Entiers Modulo.md"
+    "Algebre/Corps.md"
   ]
 }
