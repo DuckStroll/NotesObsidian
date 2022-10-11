@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physique/Lois de Newton.md",
+            "file": "Analyse/Espace Métrique.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "35f74f11dfd35387",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Lois de Newton.md",
+                "file": "Analyse/Espace Métrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "21ac960db5d4777e",
+  "active": "c6a73291cb107b44",
   "lastOpenFiles": [
-    "Physique/Mouvement dans l'espace.md",
-    "Physique/Produit vectoriel.md",
+    "Analyse/Théorème de Bolzano.md",
+    "Analyse/Suites de Cauchy.md",
+    "Analyse/Suites.md",
+    "SCM/Nombres irrationnels.md",
     "Algebre/Espaces vectoriels.md",
-    "Algebre/Image.md",
-    "SCM/Relation d'équivalence.md",
-    "Analyse/Polynomes.md",
-    "Algebre/Anneaux.md",
-    "Analyse/Anneau.md",
+    "Algebre/Groupes.md",
     "Algebre/Morphismes.md",
-    "Algebre/Groupes.md"
+    "Physique/Lois de Newton.md",
+    "Physique/Mouvement dans l'espace.md",
+    "Physique/Produit vectoriel.md"
   ]
 }
