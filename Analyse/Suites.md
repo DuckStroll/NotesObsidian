@@ -5,7 +5,7 @@ On note la suite $a_1,a_2,a_3...$ $(a_n)_{n\in\mathbb{N}}$
 
 Une suite est croissante si pour tout n,
 $a_n<a_{n+1}$.\
-Simlairement pour une suite décroissante.\
+Similairement pour une suite décroissante.\
 Une suite est __monotone__ si elle est strictement croissante ou décroissante.
 ## Divergence et convergence
 La suite $(a_n)$ diverge vers $+ \infty$ un [[Voisinage de l'infini]] si $\forall A> 0, \exists N \in N^*$, t.q. $\forall n \geq N, a_n>a$.

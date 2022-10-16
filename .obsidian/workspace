@@ -97,15 +97,15 @@
   },
   "active": "21ac960db5d4777e",
   "lastOpenFiles": [
+    "Analyse/Théorème de Bolzano.md",
+    "Analyse/Outils pour les suites.md",
+    "Analyse/Suites.md",
     "Analyse/Analyse de fonction.md",
     "Analyse/Espace Métrique.md",
-    "Analyse/Théorème de Bolzano.md",
     "Analyse/Suites de Cauchy.md",
-    "Analyse/Suites.md",
     "SCM/Nombres irrationnels.md",
     "Algebre/Espaces vectoriels.md",
     "Algebre/Groupes.md",
-    "Algebre/Morphismes.md",
-    "Physique/Lois de Newton.md"
+    "Algebre/Morphismes.md"
   ]
 }
