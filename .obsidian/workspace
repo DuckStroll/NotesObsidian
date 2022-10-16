@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analyse/Espace Métrique.md",
+            "file": "Analyse/Outils pour les suites.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "35f74f11dfd35387",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Espace Métrique.md",
+                "file": "Analyse/Outils pour les suites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +95,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6a73291cb107b44",
+  "active": "21ac960db5d4777e",
   "lastOpenFiles": [
+    "Analyse/Analyse de fonction.md",
+    "Analyse/Espace Métrique.md",
     "Analyse/Théorème de Bolzano.md",
     "Analyse/Suites de Cauchy.md",
     "Analyse/Suites.md",
@@ -105,8 +106,6 @@
     "Algebre/Espaces vectoriels.md",
     "Algebre/Groupes.md",
     "Algebre/Morphismes.md",
-    "Physique/Lois de Newton.md",
-    "Physique/Mouvement dans l'espace.md",
-    "Physique/Produit vectoriel.md"
+    "Physique/Lois de Newton.md"
   ]
 }
