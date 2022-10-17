@@ -1,14 +1,20 @@
 #algebre #ba1 #matrice 
-# Definiton d'une base d'un espace vectoriel
+# Définition d'une base d'un espace vectoriel
+Une base est un ensemble génrateur et libre.
 Une base est une famille de vecteur tel que
-$\alpha_{1}v_{1}+ \alpha_{2}v_{2}+ \dots+ \alpha_{n}v_{n} = 0$ ssi $\alpha_{1,...n} = 0$
+$\alpha_{1}v_{1}+ \alpha_{2}v_{2}+ \dots+ \alpha_{n}v_{n} = 0$ ssi $\alpha_{1,...n} = 0$.
+Soient $v_1,...,v_r$ des vecteurs distincts dans $V$. Les vecteurs $v_1,...,v_r$ sont linéairement dépendants ssi l'un des $v_i$ est une combinaison linéaire des autres.
+$\to$ Contraposée 
+
+
+
 On peut décomposer n'importe quel vecteur dans $\mathbb{R}^{n}$ en une somme de $n$ scalaires $\times$ base.
 
-Pour verifier si n vecteurs forment une base, on peut calculer la valeur du determinant de la matrice formée à partir de ces trois vecteurs.
-Les bases s'écrivent en ligne, contrairement aux vecteurs
+Pour vérifier si n vecteurs forment une base, on peut calculer la valeur du déterminant de la matrice formée à partir de ces trois vecteurs.
+Les bases s'écrivent en ligne, contrairement aux vecteurs.
 
 # Expression dans une base
-On peut prendre tout vecteur v $\in \mathbb{R}^{2}$ comme une somme de scalaire mulitipliés par des vecteurs.
+On peut prendre tout vecteur v $\in \mathbb{R}^{2}$ comme une somme de scalaire multipliés par des vecteurs.
 $V = Vect(v1,v2) =  (t_{1}v_{1}+t_{2}v_{2}|t_{1},t_{2}) \in \mathbb{R}$
 Ces vecteurs $v_{1}$ et $v_{2}$ sont des bases s'ils permettent de couvrir tout l'espace vectoriel $\mathbb{R}^{2}$
 On note donc:

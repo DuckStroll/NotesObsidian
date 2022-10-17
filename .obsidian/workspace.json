@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "e807835f33fbebc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c99337e516189b26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cc93eb981549487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebre/Base d'un espace vectoriel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "767699f31c442c5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e047c350803e6892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a73291cb107b44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2efe23df4242a054",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35f74f11dfd35387",
+    "type": "split",
+    "children": [
+      {
+        "id": "be656ae66e0f0c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3b636aeb4a0e515",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algebre/Base d'un espace vectoriel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "915b611212ed2a2c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "4cc93eb981549487",
+  "lastOpenFiles": [
+    "Algebre/Sous-Espaces Vectoriels.md",
+    "Algebre/Symetries.md",
+    "Algebre/Corps.md",
+    "Analyse/S.md",
+    "Analyse/Outils pour les suites.md",
+    "Analyse/Théorème de Bolzano.md",
+    "Analyse/Suites.md",
+    "Analyse/Analyse de fonction.md",
+    "Analyse/Espace Métrique.md",
+    "Analyse/Suites de Cauchy.md"
+  ]
+}
