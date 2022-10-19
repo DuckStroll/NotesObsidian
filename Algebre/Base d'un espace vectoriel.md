@@ -1,10 +1,24 @@
 #algebre #ba1 #matrice 
 # Définition d'une base d'un espace vectoriel
-Une base est un ensemble génrateur et libre.
-Une base est une famille de vecteur tel que
-$\alpha_{1}v_{1}+ \alpha_{2}v_{2}+ \dots+ \alpha_{n}v_{n} = 0$ ssi $\alpha_{1,...n} = 0$.
+Une base d'un [[Espaces vectoriels|espace vectoriel]] est un ensemble générateur et libre. 
+## Indépendence linéaire
+
 Soient $v_1,...,v_r$ des vecteurs distincts dans $V$. Les vecteurs $v_1,...,v_r$ sont linéairement dépendants ssi l'un des $v_i$ est une combinaison linéaire des autres.
 $\to$ Contraposée 
+## Proposition 3.2.2
+Une partie $X$ de $V$ est une base de $V$ ssi $\forall v \in V,\exists x_1,...,x_t \in X$ et $\lambda_1,...,\lambda_t \in K$ uniquement déterminés par $v$ tels que $v=\lambda_1x_1+...+\lambda_t x_t$
+### Preuve:
+## Coordonnées d'une base
+Soit $V$ un $K$-espace vectoriel. Le coordonnées d'un vecteur $v\in V$ sont $\lambda_1...,\lambda_k\in K$ 
+## Dimension d'un espace vectoriel
+Un $K$-espace vectoriel $V$ est de dimension finie s'il possède une matrice génératrice.
+## Théorème de l'existence d'une base
+Soit V un $K$-espace vectoriel de dim finie avec partie génératrice $S\subset V, S$ finie. Soit $L \subseteq S$ une partie libre alors il existe une base $B$ finie, avec $L \subseteq B\subseteq S$.
+## Preuve
+## Base de $\mathbb{R}^n$
+Une base est une famille de vecteur tel que
+$\alpha_{1}v_{1}+ \alpha_{2}v_{2}+ \dots+ \alpha_{n}v_{n} = 0$ ssi $\alpha_{1,...n} = 0$.
+
 
 
 
@@ -25,14 +39,14 @@ t_{2} \\
 Notre vecteur est donc exprimé dans la base B = $(v_{1},v_{2})$
 ## Expression d'un vecteur dans une autre base:
 Pour changer de base on veut exprimer notre vecteur dans $B$ vers $B'$ pour cela notons $B' = (v_{1}',v_{2}')$. 
-Notons désormais
-$\begin{cases}
+Notons désormais:
+$$\begin{cases}
 v_{1}' = \alpha v_{1}+ \beta v_{2}
  \\
 v_{2}' = \gamma v_{1}+ \delta v_{2}
-\end{cases}$
+\end{cases}$$
 On voit donc que
-$\begin{pmatrix}
+$$\begin{pmatrix}
 v_{1}' \\
 v_{2}' \
 \end{pmatrix} =\underbrace{
@@ -40,8 +54,9 @@ v_{2}' \
 \begin{pmatrix}
 v_{1} \\
 v_{2} \
-\end{pmatrix}$(Les valeurs sont arrangées en colonnes)
-On appelle $P^{}$ la _==Matrice de Changement de base==_ et on appelle sa [[Matrice#Matrice inverse|Matrice inverse]] $P^{-1}$ la _Matrice de changement de coordonées_.
+\end{pmatrix}$$
+(Les valeurs sont arrangées en colonnes)
+On appelle $P^{}$ la _==Matrice de Changement de base==_ et on appelle sa [[Matrice#Matrice inverse|Matrice inverse]] $P^{-1}$ la _Matrice de changement de coordonnées_.
 Pour exprimer $V$ dans la base $B'$ à partir de la base $B$, on a: 
 $$[V]_{B'} = P^{-1} [V]_{B}$$ et $$[V]_{B} =  P[V]_{B'}$$
 Ainsi, La matrice de changement de base _permet d'exprimer $V$ dans la base B à partir de la base B'_

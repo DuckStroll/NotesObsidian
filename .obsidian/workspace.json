@@ -108,6 +108,8 @@
   },
   "active": "4cc93eb981549487",
   "lastOpenFiles": [
+    "Algebre/Morphismes.md",
+    "Algebre/Base d'un espace vectoriel.md",
     "Algebre/Sous-Espaces Vectoriels.md",
     "Algebre/Symetries.md",
     "Algebre/Corps.md",
@@ -115,8 +117,6 @@
     "Analyse/Outils pour les suites.md",
     "Analyse/Théorème de Bolzano.md",
     "Analyse/Suites.md",
-    "Analyse/Analyse de fonction.md",
-    "Analyse/Espace Métrique.md",
-    "Analyse/Suites de Cauchy.md"
+    "Analyse/Analyse de fonction.md"
   ]
 }
