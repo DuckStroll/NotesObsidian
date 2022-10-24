@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "b338b52d53272bde",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1d3356f6289855e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c14c3ae63a2e1069",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e73a6269d9b51fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "25e3ed5a604f3c16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae0681ad38b3601f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64287519c497e2b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11bac49b4d209371",
+    "type": "split",
+    "children": [
+      {
+        "id": "98debc0ed62acb26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcfc8ce3643c0b08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "c14c3ae63a2e1069",
+  "lastOpenFiles": []
+}

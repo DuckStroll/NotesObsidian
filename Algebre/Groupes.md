@@ -11,11 +11,11 @@ Un groupe $G$ est ensemble muni d'une opération $*$ et qui posséde les propri�
 Un sous groupe est un groupe inclut dans un autre groupe. Ce groupe possède la même loi de composition que l'autre groupe.
 
 Si $(G,\ast),(H,\ast)$sont des groupes et $H \subseteq G$, $H$ est un sous groupe de $G$
-# Groupe Symetrique
+# Groupe Symétrique
 Soit $X$ un ensemble.
 Posons $B_{ij}(X)=\{f:X\to X| f\ bijective\}$.
 la composition d'application est une loi de composition sur $B_{ij}(X)$
 $(B_{ij}(X),\cdot)$ est un groupe
-Si $X=\{1,2,...,n\}n\geq 2$, $B_{ij}(X)$ est le groupe symetrique de degré $n$.
+Si $X=\{1,2,...,n\}n\geq 2$, $B_{ij}(X)$ est le groupe symétrique de degré $n$.
 Ceci est utilisé pour les [[Permutations]].
 

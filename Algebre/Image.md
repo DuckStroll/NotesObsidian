@@ -1,4 +1,7 @@
 #ba1 #man #algebre 
+# Definition
+Un sous-espace vectoriel est un [[Espaces vectoriels]] qui satisfait ces propriétés.
+- 
 Intuitivement, l'Image correspond à l'ensemble des  "sorties" d'une fonction.
  
 On définit l'image comme:

@@ -1,18 +1,24 @@
 #analyse #scm #man
-On va noter $\mathbb{K}$ pour $\mathbb{Q},\mathbb{R}$ ou $\mathbb{C}$. On s'interesse à une vision algébrique des polynomes
+On va noter $\mathbb{K}$ pour $\mathbb{Q},\mathbb{R}$ ou $\mathbb{C}$. On s'intéresse à une vision algébrique des polynômes.
 # Définition
-Un polynome est une somme formelle 
+
+Un polynôme est une somme formelle 
 $$P(x)= a_0 + a_ix +...+a_nx^n$$
-ou $a_0,...,a_n$ sont les coefficients du polynomes et n est le degré de P(x).
-X est _l'indéterminée_ du polynome. On note par $\mathbb{K}[X]$ l'ensemble des polynomes à coefficients dans $\mathbb{K}$.
+où $a_0,...,a_n$ sont les coefficients du polynômes et n est le degré de P(x).
+X est _l'indéterminée_ du polynôme. On note par $\mathbb{K}[X]$ l'ensemble des polynômes à coefficients dans $\mathbb{K}$.
 $P(x)\in \mathbb{K}[x]$ est dit normalisé si $a_{deg(P)}=1$. Deux polynomes sont égaux si ils ont les mêmes coefficients.
-## Opérations algebriques
+## L'ensemble des polynomes
+L'ensemble des polynomes est un [[Anneaux|Anneau]] unitaire $(A,+,\cdot)$
+
+## Opérations algébriques
+
 Pour $P,Q \in \mathbb{K}[X]$, On peut définir $P+Q$ et $P\times Q$, 
 $a_{k,P+Q}=a_k+b_k, a_{k,P\times Q}=\sum^k_l a_l\cdot b_{k-l}$
 On remarque:
 $deg(P+Q)\leq max \lbrace deg(P),deg(Q) \rbrace$
 $deg(P\times Q)= deg(P)+deg(Q)$.
-Muni de ces opérations, $\mathbb{K}[x]$ devient un [[Anneau|anneau unitaire]].
+$deg(0)$ est $-\infty$ par convention.
+Muni de ces opérations, $\mathbb{K}[x]$ devient un [[Anneaux|anneau unitaire]].
 - $\mathbb{K}[x]$ muni de + est un [[Groupes|groupe abélien]]
 - x est associative, i.e $\forall P,Q,R \in \mathbb{K}[x], P\times(Q\times R)= (P\times Q)\times R$
 - x est distributif
@@ -28,20 +34,23 @@ Soient $P,Q \in \mathbb{K}[x] et Q \neq 0. \exists!(M,R)\in \mathbb{K}[x]^2 t.q.
 Existence:On la prouve e passant par deg (Q)>0. Fixons un tel $Q \in \mathbb{K}[x]$  et procédons par récurrence sur le deg(P). Si deg(p)<deg(Q), alors $P = O\times Q+P$ et $(M,R)= (O,P)$.
 Supposons que deg(P)= m\leqvdeg(Q). On pose $P(x)= a_0+a_1 x...+a_mx^m$, $Q(x)= b_0+b_1 x...+b_nx^n$. On a $$P(x) = \frac{a_m}{b_n}X^{m-n}Q\underbrace{-\frac{a_m}{b_n}X^{m-n}Q+P(X)}_{S}$$
 On trouve que deg(S)<deg(P). Par récurrence, $S = MQ + R$ avec deg(R)<deg(Q). Mais alors,$P(X)=\frac{a_m}{b_n}X^{m-n}Q+MQ+R$. Cela prouve l'existence.
-Unicité:
+### Unicité:
 Supposons $P=MQ+R= M'Q + R'$ avec $deg(R), deg(R')< deg(Q)$ On a $(M-M')Q = R'-R.$ Ceci est possible si $M=M' et\ R = R'$.
+
 ## Théorème de Bézaut
+
 Soient $P,Q \in \mathbb{K}[X]^*$. Alors $\exists(A,B)\in \mathbb{K}[X]^2$tel que 
 - $PGCD(P,Q)= AP+BQ$
 - $deg(A)<deg(Q)$ et $deg(B)<deg(P)$
 
 Si $P$ et $Q$ sont premiers entre eux, $(A,B)$ est unique.
 Il existe donc $(A,B)\in \mathbb{K}[X]^2$ t.q. [[PGCD]]$(P,Q)= AP + BQ$
-Par division avec reste, on a $A = M_1Q + A',\deg(A')<deg(Q)$ et $B = M_2P + B',\deg(B')<deg(P)$
+Par division avec reste, on a $A = M_1Q + A',\deg(A')<deg(Q)$ et $B = M_2P + B',\deg(B')<deg(P)$.
+
 Donc, $PGDC(P,Q)=(M_1Q+A')P+(M_2P+B')Q= A'PP+B'Q+PQ(M_1+M_2)$
-$=A'P+B'Q+PQ(M_1+M_2)$
-Par comapraision des degrés,$M_1+M_2 =0$.
-Supposons que $PGDC(P,Q)=1$
+$=A'P+B'Q+PQ(M_1+M_2)$.
+Par comparaison des degrés, $M_1+M_2 =0$.
+Supposons maintenant que $PGDC(P,Q)=1$.
 Si $AP+BQ=A'P+B'Q=1$ et $\deg(A),deg(A')<deg(Q),\deg(B),deg(B')<deg(P)$, alors $(A-A')P=(B-B')Q$. Par Gauss, P divise $B'-B$ et Q divise $A-A'$
 Par comparaison des degrés, A-A'=0=B'-B
 $\Box$
@@ -64,7 +73,7 @@ Par comparaison des degrés, on a $M_1+M_2+...+M_n= 0$.
 
 Montrons _l'unicité_; si $A_1F_1+...+A_nF_n=P=A'F_1+...A'F_n$ avec $\deg(A'_k),deg(A_k)<deg(P_k)$.
 Alors $(A_1-A'_1)F_1=(A'_2-A_2)+...+(A'_n-A_n)$ Mais $P_1$ divise le terme de droite, donc divise $(A_1-A'_1)F_1$ et, par Gauss, $P_1$ divise $A_1-A_1'$, et donc $deg(A_1-A'_1)<deg(P_1)$ on a $A_1-A'_1=0$.
-Donc $\forall K =1,...,n, A_k=A'k$
+Donc $\forall K =1,...,n, A_k=A'k$.
 # Polynomes complexes
 ## Theorème fondamental de l'algèbre
 [[Théoreme Fondamental de l'algebre]]
