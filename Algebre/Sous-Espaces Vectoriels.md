@@ -1,5 +1,6 @@
 #ba1  #algebre  
 # Trucs interessants
+
 # Trucs de la MaN
 ## Droites dans $\mathbb{R}^{3}$
 Si $V \neq (0,0,0)$, on se convainc facilement que n'imprte quel droite en $\mathbb{R}^{3}$ s'écrit $Vect(V)$
