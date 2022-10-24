@@ -1,16 +1,16 @@
 #analyse #ba1 #man 
 # Suite de nombre réels
-Une suite de nombres réels est une application $\mathbb{N}^* \to \mathbb{R}$\
+Une suite de nombres réels est une application $\mathbb{N}^* \to \mathbb{R}$
 On note la suite $a_1,a_2,a_3...$ $(a_n)_{n\in\mathbb{N}}$
 
 Une suite est croissante si pour tout n,
-$a_n<a_{n+1}$.\
-Simlairement pour une suite décroissante.\
+$a_n<a_{n+1}$.
+Simlairement pour une suite décroissante.
 Une suite est __monotone__ si elle est strictement croissante ou décroissante.
 ## Divergence et convergence
 La suite $(a_n)$ diverge vers $+ \infty$ un [[Voisinage de l'infini]] si $\forall A> 0, \exists N \in N^*$, t.q. $\forall n \geq N, a_n>a$.
 
-Similaire pour $-\infty$.\
+Similaire pour $-\infty$.
 Alors on notera: 
 $$\underset{n \rightarrow \infty}{\lim}(a_n)= \pm \infty$$
 
@@ -19,7 +19,7 @@ $$\underset{n \rightarrow \infty}{\lim}(a_n)= \pm \infty$$
 
 Une suite récurrente est une suite $(x_{n})_{n \in \mathbb{N}}$ tel que $x_{n+1} = g(x_{n})$ pour $n\geq1$, où $im(g)\subset def(g)$ et $x_{0} \in def(g)$.
 
-_Remarque:_ Tout les elements de la suite récurrentes sont dans $g(x)$, mais l'inverse n'est pas vrai.
+_Remarque:_ Tout les éléments de la suite récurrentes sont dans $g(x)$, mais l'inverse n'est pas vrai.
 ### Thm du [[Point fixe]]: 
 Soit $\ (x_{n})_{n \in \mathbb{N}}$ une suite récurrente générée par une fonction $g:\mathbb{R}\rightarrow \mathbb{R}$ continue. Alors, si $\underset{n\rightarrow \inf}{lim}x_{n}=x, g(x) = x$\
 Remarque: Une fonction peut avoir un [[point fixe]], sans que $\bar{x}= \underset{n \rightarrow \infty}{lim}x_{n}$

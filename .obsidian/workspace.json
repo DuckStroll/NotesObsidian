@@ -11,11 +11,28 @@
             "id": "c14c3ae63a2e1069",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Analyse/Suites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba0bb26fe2a10dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analyse/Critères de convergence des suites.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analyse/Critères de convergence des suites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +111,8 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c14c3ae63a2e1069",
-  "lastOpenFiles": []
+  "active": "ba0bb26fe2a10dcc",
+  "lastOpenFiles": [
+    "Analyse/Suites.md"
+  ]
 }
