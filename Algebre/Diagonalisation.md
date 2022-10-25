@@ -39,7 +39,7 @@ Les trois sous-espaces-propres de f sont des droites vectorielles.
 ### Proposition
 $u,v,w$ valeurs propres
 $B=(u,v,w)$ forme une base propre
-####Preuve
+#### PREUVE
 Il suffit de montrer que c'est une base de $\mathbb{R}^3$
 ## Résumé
 Une matrice est diagonalisable si
