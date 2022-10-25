@@ -1,9 +1,10 @@
 {
   "main": {
-    "id": "e807835f33fbebc3",
+    "id": "c3f49c422f1851d9",
     "type": "split",
     "children": [
       {
+<<<<<<<< HEAD:.obsidian/workspace.json
         "id": "c99337e516189b26",
         "type": "tabs",
         "children": [
@@ -18,6 +19,16 @@
                 "source": false
               }
             }
+========
+        "id": "f7c544bfdd8fe0e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algebre/Sous-Espaces Vectoriels.md",
+            "mode": "source",
+            "source": false
+>>>>>>>> 9a6d95e56f64e0abe254cd0489904db77f485be6:.obsidian/workspace
           }
         ]
       }
@@ -25,15 +36,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "767699f31c442c5a",
+    "id": "f7caace1fca1f9c9",
     "type": "split",
     "children": [
       {
-        "id": "e047c350803e6892",
+        "id": "3feff9cfe9886d9b",
         "type": "tabs",
         "children": [
           {
-            "id": "c6a73291cb107b44",
+            "id": "423cc11248a0ac40",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,13 +54,13 @@
             }
           },
           {
-            "id": "2efe23df4242a054",
+            "id": "d2d12c2da5b60d46",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -64,20 +75,24 @@
     "width": 300
   },
   "right": {
-    "id": "35f74f11dfd35387",
+    "id": "41712cc39d8efd5a",
     "type": "split",
     "children": [
       {
-        "id": "be656ae66e0f0c5c",
+        "id": "96d6c20cedfb10b5",
         "type": "tabs",
         "children": [
           {
-            "id": "b3b636aeb4a0e515",
+            "id": "ddd5c6f3796940d8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<<< HEAD:.obsidian/workspace.json
                 "file": "Algebre/Base d'un espace vectoriel.md",
+========
+                "file": "Algebre/Sous-Espaces Vectoriels.md",
+>>>>>>>> 9a6d95e56f64e0abe254cd0489904db77f485be6:.obsidian/workspace
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,14 +102,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "915b611212ed2a2c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       }
@@ -103,6 +110,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<<< HEAD:.obsidian/workspace.json
   "ribbon": {
     "mostRecentAction": ""
   },
@@ -119,4 +127,8 @@
     "Analyse/Suites.md",
     "Analyse/Analyse de fonction.md"
   ]
+========
+  "active": "f7c544bfdd8fe0e0",
+  "lastOpenFiles": []
+>>>>>>>> 9a6d95e56f64e0abe254cd0489904db77f485be6:.obsidian/workspace
 }
