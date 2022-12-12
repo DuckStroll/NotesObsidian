@@ -1,2 +1,2 @@
 #algebre 
-La tracce st la somme des coefficients diagonaux de A
+La trace est la somme des coefficients diagonaux de A

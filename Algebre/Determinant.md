@@ -25,9 +25,9 @@ Il existe un lien entre le [[Rang d'une matrice]] et son déterminant
 $Det(A)= 0 \leftrightarrow Rg(A) \leq Dim(A)$
 
 ## Méthodes de calcul
-### Calcul du Determinant Grace à l'Algorithme de Gauss-Jordan
+### Calcul du Déterminant Grace à l'Algorithme de Gauss-Jordan
 ### Je ne me souviens plus du nom de la méthode
 On calcule le déterminant de manière récursive.
-on prends le premier terme $a$ de la première colonne et on le multuiplie par le détérminant de la matrice avec la ligne et la colonne de $a$ en moins. On répéte avec avec les autres termes de la colonne.
-On peut utiliser les propriétés du détérminant pour simplifier ce processus.
-## Interpretation géometrique
+on prends le premier terme $a$ de la première colonne et on le multuiplie par le déterminant de la matrice avec la ligne et la colonne de $a$ en moins. On répète avec avec les autres termes de la colonne.
+On peut utiliser les propriétés du déterminant pour simplifier ce processus.
+## Interprétation géométrique

@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Analyse/Analyse de fonction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7e557ac8dc44888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Algebre/Sous-Espaces Vectoriels.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fbd46c0c2040a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebre/Valeur Propre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebre/Sous-Espaces Vectoriels.md",
+                "file": "Algebre/Valeur Propre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,13 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a1bf1337c575514",
+  "active": "0fbd46c0c2040a5d",
   "lastOpenFiles": [
-    "Algebre/Espaces vectoriels.md",
     "Algebre/Determinant.md",
-    "Algebre/Matrice.md",
+    "Algebre/Multiplicité géometrique.md",
+    "Algebre/Multiplicité algébrique.md",
+    "Algebre/Morphismes.md",
+    "Algebre/Sous-Espaces Vectoriels.md",
     "Algebre/Systeme d'équations linéaires.md",
-    "Algebre/Opérations élémentaires.md",
-    "Algebre/Elements Propres d'une application linéaire.md"
+    "Algebre/Trace.md",
+    "Algebre/Untitled.md",
+    "Algebre/Rang d'une matrice.md",
+    "Algebre/Vecteurs Propres.md"
   ]
 }
