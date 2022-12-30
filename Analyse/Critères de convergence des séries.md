@@ -1,12 +1,19 @@
 #ba1 #analyse 
 Les preuves sont à la fin
+## Critère de D'Alembert
+Soit $\sum_{k=0}^{\infty}x_k$ une [[Series]]. On étudie $\underset{n \rightarrow \infty}{\lim}|\frac{x_{n+1}}{x_n}|=l$
+- Si $0\leq l<1,\sum_{k=0}^{\infty}x_k$ [[Convergence#Convergence absolue| converge absolument]] 
+- Si $l>1,\sum_{k=0}^{\infty}x_k$ diverge
+- Si $l=1$, la convergence est indéterminée et il faut utiliser un autre test
+## Critère de la racine
+Soit $\sum_{k=0}^{\infty}x_k$ une [[Series]]. On étuide $\underset{n \rightarrow \infty}{\lim}$
 ## Critère de Leibniz
 Soit $\sum_{k=0}^{\infty}x_k$ une [[Series]] alternée vérifiant :
 - $(|x_n|)$  décroissant
 - $\underset{n \rightarrow \infty}{\lim}x_n = 0$
 La série est alors convergente.
 >[!WARNING]
->Elle n'est pas forcement absolument convergente
+>Elle n'est pas forcement absolument convergente.
 # Critères de comparaison
 # #1
 Soit $(x_n)$ et $(p_n)$ t.q $p_n\geq 0 \forall n \in \mathbb{N}$

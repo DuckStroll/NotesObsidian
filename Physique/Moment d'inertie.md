@@ -1,7 +1,8 @@
 #physique #ba1 #man 
-Le moment d'inertie dépends de la géometrie de l'objet:
+Le moment d'inertie dépends de la géométrie de l'objet:
+C'est la capacité de l'objet a effectuer une rotation autour d'un axe
 ## Règle de Steiner:
-Connaissant $I_{CM}$ par rapprot à un axe passant par $CM$, On cherceh à determiner $I_A$(Insert Image) par rapport à $I_{CM}$
+Connaissant $I_{CM}$ par rapport à un axe passant par $CM$, On cherche à déterminer $I_A$(Insert Image) par rapport à $I_{CM}$
 $$\boxed{I_A=I_{CM}+md^2}$$
 # Exemples d'objets
 | Objet         | Moment d'inertie $I_{CM}$ |     |
