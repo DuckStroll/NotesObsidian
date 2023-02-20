@@ -18,17 +18,17 @@ $$\alpha \begin{pmatrix} a &b \newline c &d \end{pmatrix} =\begin{pmatrix} \alph
 Une matrice possède un [[Determinant]], qui possède des propriétés utiles pour notre matrice.
 ### Multiplication de matrices:
 prenons deux matrice
-$A = \begin{bmatrix} 
-    a_{11}  & \dots & a_{1,p} \\
-    \vdots & \ddots & \\
-    a_{n1} &        & a_{np} 
-    \end{bmatrix}
+$$A = \begin{bmatrix} 
+a_{11}  & \dots & a_{1,p} \\
+\vdots & \ddots & \\
+a_{n1} & & a_{np} 
+\end{bmatrix}
 \qquad
 B = \begin{bmatrix} 
-    b_{11} & \dots  & b_{1m}\\
-    \vdots & \ddots & \vdots\\
-    b_{p1} & \dots  & b_{pm} 
-    \end{bmatrix}$\
+b_{11} & \dots  & b_{1m}\\
+\vdots & \ddots & \vdots\\
+b_{p1} & \dots  & b_{pm} 
+\end{bmatrix}$$
 Le produit matriciel de ces deux matrices sera une matrice $M_{n\times p}\times M_{p\times m} =M_{n\times m}$
 	Avec comme valeurs pour ses coefficients:
 	$$C = \begin{bmatrix} 
@@ -43,7 +43,7 @@ $A(B+C) = AB + AC$\
 $A(BC)=(AB)C$
 ## Decomposition vecteurs colonnes-lignes
 On peut décomposer une matrice en une somme de vecteurs lignes multipliés par des vecteurs colonnes:
- $A = \sum\begin{bmatrix}
+ $$A = \sum\begin{bmatrix}
  x_{1} \newline
  x_{2} \newline
  \vdots \newline
@@ -54,7 +54,7 @@ On peut décomposer une matrice en une somme de vecteurs lignes multipliés par 
  y_{2} \
  \dots \
  y_{m}
- \end{bmatrix}$\
+ \end{bmatrix}$$
  La decomposition minimale correspond au [[Rang d'une matrice]].
  Afin de trouver la décomposition minimale, on trouve d'abord le rang.
  

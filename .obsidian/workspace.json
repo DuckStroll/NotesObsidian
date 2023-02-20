@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analyse/Critères de convergence des suites.md",
+                "file": "Algebre/Rang d'une matrice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9919295b09d6f1d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physique/Oscillateur harmonique.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse/Critères de convergence des suites.md",
+                "file": "Physique/Oscillateur harmonique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,11 +120,13 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "ba0bb26fe2a10dcc",
+  "active": "9919295b09d6f1d5",
   "lastOpenFiles": [
+    "Physique/Energie.md",
+    "Algebre/Matrice.md",
+    "Algebre/Application Linéaire.md",
+    "Algebre/Rang d'une matrice.md",
+    "Analyse/Critères de convergence des suites.md",
     "Analyse/Suites.md"
   ]
 }
