@@ -17,4 +17,6 @@ Une application $\phi:A\to B$ est un homomorphisme d'anneaux si:
 $$\forall x,y \in A, \phi(x+y)=\phi(x)
 \oplus \phi(x)$$
 $$\phi(x\cdot y)=\phi(x) \odot \phi(y)$$
-
+# Endomorphismes
+Un Endomorphismes est une [[Application Linéaire]] $f:V\to V$
+Un Endomorphisme Bijectif est un __Automorphisme__.

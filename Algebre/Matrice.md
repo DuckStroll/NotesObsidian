@@ -60,11 +60,17 @@ On peut décomposer une matrice en une somme de vecteurs lignes multipliés par 
  
 ## Des matrices aux applications linéaires
 
+## Echelonnage de matrices
+
+On échelonne les matrices en appliquant les [[Opérations élémentaires]] sur la matrice
+### Matrice echelonnée
+### Matrice echelonnée réduite
+
 # Matrices particulières:
 ### Matrice transposée
 La Matrice transposée est la matrice $M^{T}$ ou l'élement de la matrice $a_{n,m}$ devient $a_{m,n}$
 Cette matrice est utile pour le calcul du [[Determinant]] car le $Det(M)= Det(M^{t})$
-### Matrice Echelonnée
+
 ### Matrice inverse
 Si le [[Determinant]] de la matrice n'est pas nul, la matrice carrée $M_{n}$ est inversible. 
 La matrice inverse est définie par $A^{-1} =\frac{1}{det(A)}^{t}cot(a)$

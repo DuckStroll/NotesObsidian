@@ -15,9 +15,9 @@ $Ker(f-wid_{\mathbb{R}^n})$(Qui est donc non nul)
 La dimesion de ce sous-espace est appelé [[Multiplicité géometrique]] de $w$
 
 ## Cas particuliers
-### Homothétite
+### Homothétie
 $f = wid_{\mathbb{R}^n}$
-Totue élement de $\mathbb{R}^n$ est vecteur propre et si 
+Toute élément de $\mathbb{R}^n$ est vecteur propre et si 
 $w=0$
 $v \in Ker(f-0id_n) = Ker(f)$
 

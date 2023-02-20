@@ -1,43 +1,55 @@
 {
   "main": {
-    "id": "b338b52d53272bde",
+    "id": "b62bf37bf3fcf353",
     "type": "split",
     "children": [
       {
-        "id": "f1d3356f6289855e",
+        "id": "04c51d8f078bc659",
         "type": "tabs",
         "children": [
           {
-            "id": "c14c3ae63a2e1069",
+            "id": "7a1bf1337c575514",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analyse/Suites.md",
+                "file": "Analyse/Analyse de fonction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ba0bb26fe2a10dcc",
+            "id": "d7e557ac8dc44888",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Algebre/Rang d'une matrice.md",
+=======
+                "file": "Algebre/Sous-Espaces Vectoriels.md",
+>>>>>>> 4b02b92da952685a8c6529baf0f5cfc7dfcc5c2d
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "9919295b09d6f1d5",
+=======
+            "id": "0fbd46c0c2040a5d",
+>>>>>>> 4b02b92da952685a8c6529baf0f5cfc7dfcc5c2d
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Physique/Oscillateur harmonique.md",
+=======
+                "file": "Algebre/Valeur Propre.md",
+>>>>>>> 4b02b92da952685a8c6529baf0f5cfc7dfcc5c2d
                 "mode": "source",
                 "source": false
               }
@@ -50,15 +62,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4e73a6269d9b51fc",
+    "id": "0ec4d6376e6a81f7",
     "type": "split",
     "children": [
       {
-        "id": "25e3ed5a604f3c16",
+        "id": "205f393e949ed933",
         "type": "tabs",
         "children": [
           {
-            "id": "ae0681ad38b3601f",
+            "id": "c0dfc1b7a4a25ded",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +80,7 @@
             }
           },
           {
-            "id": "64287519c497e2b6",
+            "id": "43f5b95b9b591e93",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -89,20 +101,24 @@
     "width": 300
   },
   "right": {
-    "id": "11bac49b4d209371",
+    "id": "038c2fdcc9c7fe34",
     "type": "split",
     "children": [
       {
-        "id": "98debc0ed62acb26",
+        "id": "6e0b7987759514ea",
         "type": "tabs",
         "children": [
           {
-            "id": "dcfc8ce3643c0b08",
+            "id": "65e81d2bbf67369c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Physique/Oscillateur harmonique.md",
+=======
+                "file": "Algebre/Valeur Propre.md",
+>>>>>>> 4b02b92da952685a8c6529baf0f5cfc7dfcc5c2d
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +136,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "9919295b09d6f1d5",
   "lastOpenFiles": [
     "Physique/Energie.md",
@@ -128,5 +145,19 @@
     "Algebre/Rang d'une matrice.md",
     "Analyse/Critères de convergence des suites.md",
     "Analyse/Suites.md"
+=======
+  "active": "0fbd46c0c2040a5d",
+  "lastOpenFiles": [
+    "Algebre/Determinant.md",
+    "Algebre/Multiplicité géometrique.md",
+    "Algebre/Multiplicité algébrique.md",
+    "Algebre/Morphismes.md",
+    "Algebre/Sous-Espaces Vectoriels.md",
+    "Algebre/Systeme d'équations linéaires.md",
+    "Algebre/Trace.md",
+    "Algebre/Untitled.md",
+    "Algebre/Rang d'une matrice.md",
+    "Algebre/Vecteurs Propres.md"
+>>>>>>> 4b02b92da952685a8c6529baf0f5cfc7dfcc5c2d
   ]
 }
