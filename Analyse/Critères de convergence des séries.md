@@ -1,12 +1,19 @@
 #ba1 #analyse 
 Les preuves sont à la fin
+## Critère du quotient
+Soit $(a_n), (b_n)$ deux suites
+Si $\underset{n \rightarrow \infty}{\lim}\frac{a_n}{b_n}= l \in \mathbb{R}$,
+$\sum a_n$ et $\sum b_n$ sont de même nature.
 ## Critère de D'Alembert
 Soit $\sum_{k=0}^{\infty}x_k$ une [[Series]]. On étudie $\underset{n \rightarrow \infty}{\lim}|\frac{x_{n+1}}{x_n}|=l$
 - Si $0\leq l<1,\sum_{k=0}^{\infty}x_k$ [[Convergence#Convergence absolue| converge absolument]] 
 - Si $l>1,\sum_{k=0}^{\infty}x_k$ diverge
 - Si $l=1$, la convergence est indéterminée et il faut utiliser un autre test
 ## Critère de la racine
-Soit $\sum_{k=0}^{\infty}x_k$ une [[Series]]. On étuide $\underset{n \rightarrow \infty}{\lim}$
+Soit $\sum_{k=0}^{\infty}x_k$ une [[Series]]. On étuide $\underset{n \rightarrow \infty}{\lim} |\sqrt[n]{x_n}|= l$
+- Si $0\leq l<1,\sum_{k=0}^{\infty}x_k$ [[Convergence#Convergence absolue| converge absolument]] 
+- Si $l>1,\sum_{k=0}^{\infty}x_k$ diverge
+- Si $l=1$, la convergence est indéterminée et il faut utiliser un autre test
 ## Critère de Leibniz
 Soit $\sum_{k=0}^{\infty}x_k$ une [[Series]] alternée vérifiant :
 - $(|x_n|)$  décroissant
@@ -24,8 +31,11 @@ On va typiquement comparer avec la suite $\sum_{k=0}^{n}\frac{1}{n}$ pour montre
 Soit $(x_n)$ et $(p_n)$ t.q $p_n\geq 0, x_n \neq 0 \forall n \in \mathbb{N}$
 1) Si il existe $n_1$ tel que $|\frac{x_{n+1}}{x_n}|\leq \frac{|x_n|}{p_n}, \forall n \geq n_1$ et si la série $\sum_{n=n_0}^{\infty}p_n$ _est convergente_, la série $\sum_{n=0}^{\infty}x_n$ _converge absolument_.
 2) Si il existe $n_1$ tel que $|\frac{x_{n+1}}{x_n}|\geq \frac{|x_n|}{p_n}, \forall n \geq n_1$ et si la série $\sum_{n=n_0}^{\infty}p_n$ _est divergente_, la série $\sum_{n=0}^{\infty}|x_n|$ _diverge_.
-
+## #3
 Ce théorème peut être utiliser avec une multitude de suites
+# Critère de condensation
+Soit $(p_n)$ une suite positive et décroissante
+$$\sum p_k<+\infty \leftrightarrow \sum2^kp_{2^k}< +\infty$$
 
 ## #3
 

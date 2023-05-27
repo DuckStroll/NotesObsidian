@@ -10,18 +10,18 @@ $$\boxed{v= \underbrace{f(v)}_{\in Im(f)}+ \underbrace{v-f(v)}_{\in Ker(f)}}$$
 On prouve que c'est dans le Ker(f) car $f(f(v)) = f(v)$
 ## Lien avec le rang
 Notons à present $r = rg(f)$. Le résultat qui précede entraine que si f est une projection ou est dans l'un des cas suivants:\
-$\text{Si n = 2 (Plan)} \begin{cases}
+$$\text{Si n = 2 (Plan)} \begin{cases}
 r=0 \ f=0
 \\ r=1 
 \\ r = 2 f = id_{\mathbb{R}^2} \text{ car Ker(f est nul)}
-\end{cases}$
+\end{cases}$$
 
-$\text{Si n = 3: } \begin{cases}
+$$\text{Si n = 3: } \begin{cases}
 r=0 \ f=0
 \\ r=1 
 \\ r=2
 \\ r = 3 f = id_{\mathbb{R}^3} \text{ car Ker(f est nul)}
-\end{cases}$
+\end{cases}$$
 ## Proposition:
 Si f est une projection, alors elle se visualise comme la projection sur Im(f) parallèlement à Ker(f)
 
@@ -57,11 +57,11 @@ $$A = \frac{1}{21}
 \underbrace{\begin{pmatrix}
 1 & -1 & 5
 \end{pmatrix}}_{\text{car Ker(f):}x-y+5z =0}$$
-$=\frac{1}{21}\begin{pmatrix}
+$$=\frac{1}{21}\begin{pmatrix}
 1 & -1 & 5 \\
 0 & 0 & 0 \\
 4 & -4 & 20
-\end{pmatrix}$
+\end{pmatrix}$$
 
 $f(x,y,z) = \frac{1}{21}(x-y-5z,0,4x-y+20z)$
 $g$ a pour matrixe :
