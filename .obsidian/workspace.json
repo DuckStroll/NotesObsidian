@@ -25,19 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Analyse/Critères de convergence des séries.md",
+=======
+<<<<<<< HEAD
+                "file": "Algebre/Rang d'une matrice.md",
+=======
+                "file": "Algebre/Sous-Espaces Vectoriels.md",
+>>>>>>> 4b02b92da952685a8c6529baf0f5cfc7dfcc5c2d
+>>>>>>> 567b47d5fae2f9914d5dca67f491e0c1ed871168
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "828ca24e09fd446c",
+=======
+<<<<<<< HEAD
+            "id": "9919295b09d6f1d5",
+=======
+            "id": "0fbd46c0c2040a5d",
+>>>>>>> 4b02b92da952685a8c6529baf0f5cfc7dfcc5c2d
+>>>>>>> 567b47d5fae2f9914d5dca67f491e0c1ed871168
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Analyse/Critères de convergence des séries.md",
+=======
+<<<<<<< HEAD
+                "file": "Physique/Oscillateur harmonique.md",
+=======
+                "file": "Algebre/Valeur Propre.md",
+>>>>>>> 4b02b92da952685a8c6529baf0f5cfc7dfcc5c2d
+>>>>>>> 567b47d5fae2f9914d5dca67f491e0c1ed871168
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +126,15 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Analyse/Critères de convergence des séries.md",
+=======
+<<<<<<< HEAD
+                "file": "Physique/Oscillateur harmonique.md",
+=======
+                "file": "Algebre/Valeur Propre.md",
+>>>>>>> 4b02b92da952685a8c6529baf0f5cfc7dfcc5c2d
+>>>>>>> 567b47d5fae2f9914d5dca67f491e0c1ed871168
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +152,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-matrix:Obsidian Matrix": false,
@@ -134,6 +167,19 @@
     }
   },
   "active": "828ca24e09fd446c",
+=======
+<<<<<<< HEAD
+  "active": "9919295b09d6f1d5",
+  "lastOpenFiles": [
+    "Physique/Energie.md",
+    "Algebre/Matrice.md",
+    "Algebre/Application Linéaire.md",
+    "Algebre/Rang d'une matrice.md",
+    "Analyse/Critères de convergence des suites.md",
+    "Analyse/Suites.md"
+=======
+  "active": "0fbd46c0c2040a5d",
+>>>>>>> 567b47d5fae2f9914d5dca67f491e0c1ed871168
   "lastOpenFiles": [
     "Analyse/Critères de convergence des séries.md",
     "Analyse/Arcs paramétrés dans le plan.md",
@@ -144,6 +190,15 @@
     "Physique/Tenseur d'inertie.md",
     "Analyse/Analyse de fonction.md",
     "Algebre/Sous-Espaces Vectoriels.md",
+<<<<<<< HEAD
     "Algebre/Multiplicité géometrique.md"
+=======
+    "Algebre/Systeme d'équations linéaires.md",
+    "Algebre/Trace.md",
+    "Algebre/Untitled.md",
+    "Algebre/Rang d'une matrice.md",
+    "Algebre/Vecteurs Propres.md"
+>>>>>>> 4b02b92da952685a8c6529baf0f5cfc7dfcc5c2d
+>>>>>>> 567b47d5fae2f9914d5dca67f491e0c1ed871168
   ]
 }

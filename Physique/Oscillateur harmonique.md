@@ -1,4 +1,8 @@
 #physique #man #ba1
+# Position d'équilibre
+La position d'équilibre est la position telle que la dérivée de l'[[Energie]] potentielle 
+$$\frac{dE_p}{dt}=0$$
+## Equilibre stable et instable
 # Force d'un ressort
 ## [[Forces]]
 Quand $\vec{F^{ext}}  = -k\vec{d}$ Le mouvement de l'objet est un mouvement oscillatoire harmonique.
