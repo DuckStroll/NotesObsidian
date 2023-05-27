@@ -21,4 +21,5 @@ Isobare: $\rho$ =cte
 Isochore: $v =cte$
 Adiabatique: pas d'change de chaleur
 Reversible: La derivée de l'[[Entropie]] $\sum _S = 0$
+Cycle: La variation d'energie $\Delta E$ est nulle.
 Autre

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Physique/Principes de la thermodynamique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "019b983f722b6c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physique/Dictionnaire de thermodynamique.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Physique/Dictionnaire de thermodynamique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,10 +129,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c0dfc1b7a4a25ded",
+  "active": "019b983f722b6c30",
   "lastOpenFiles": [
     "Physique/Principes de la thermodynamique.md",
+    "Physique/Moment d'une force.md",
+    "Physique/Untitled.md",
     "Physique/Dictionnaire de thermodynamique.md",
+    "conflict-files-obsidian-git.md",
     "Physique/Chaleur.md",
     "Physique/Théorème de l'energie cinetique.md",
     "Physique/Lois de Newton.md",
