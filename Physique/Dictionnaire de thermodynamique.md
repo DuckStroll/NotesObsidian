@@ -23,3 +23,7 @@ Adiabatique: pas d'change de chaleur
 Reversible: La derivée de l'[[Entropie]] $\sum _S = 0$
 Cycle: La variation d'energie $\Delta E$ est nulle.
 Autre
+
+Fonction Extensive: $U(\lambda S, \lambda V, \lambda N_A)=\lambda U(S,V,N_A)$ 
+Relation de Maxwell:
+$$$$$

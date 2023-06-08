@@ -19,4 +19,6 @@ $$I_W=-p\dot V$$
 L'[[Entropie]] $S$ d'un systeme isolé posséde les propriétés suivantes:
 $$\dot S = \sum_S \geq 0$$
 $$\lim{S}=S_{max}$$
+## Troisième Principe:
+
 
